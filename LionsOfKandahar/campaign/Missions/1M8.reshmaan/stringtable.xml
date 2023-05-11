@@ -250,267 +250,267 @@
 	  <Key ID="STR_LOK_uav2_message_1M8">
         <English>Okay, next compound: I got multiple footmobiles, white hot shows sort of animals, looks like, zoom in there. Yeah, they appear to be unarmed civilians who refuse to go to the evacuation, let's make sure we get them marked so we don't hit them. Zoom out. Can you do me a favor and pan over that side of the compound to make sure it's all civilians there.</English>
         <Spanish>Vale, siguiente complejo: veo varios hombres a pie, la térmica muestra animales, o eso parecen, haz zoom ahí. Sí, parecen ser civiles desarmados que se niegan a ir al punto de evacuación, asegurémonos de marcarlos para no darles. Quita zoom. ¿Me haces el favor de desplazar la cámara a ese lado del complejo para asegurarnos de que son civiles?</Spanish>
-        <Polish></Polish>
+        <Polish>Okej, kolejny kompleks. Widzę wielu ludzi, white hot pokazuje jakieś zwierzęta, tak mi się wydaje, zbliż tam. Taa, nieuzbrojeni cywile, którzy nie chcą się ewakuować, lepiej ich oznaczmy, żebyśmy ichh nie trafiki. Oddal. Przesuń proszę kamerę na tamtą stronę kompleksu, żebyśli mieli pewność, że to tylko cywile.</Polish>
       </Key>
 	  <Key ID="STR_LOK_uav2_2_message_1M8">
         <English>Alright, yeah, the red shows they're all clear, looks like just a bunch of civilians, let's make sure we don't hit those guys with any of our ordnance. Make sure the B-1 doesn't target them. Predator 1, we're gonna shift heading to the third compound, over.</English>
         <Spanish>Vale, sí, la térmica roja muestra que están limpios, parecen una panda de civiles. Asegurémonos de no alcanzarlos con nuestra artillería y de que no sean un blanco para el B-1. Predator 1, cambiamos de dirección al tercer complejo, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Taa, rzeczywiście, jest czysto, to tylko paru cywili, lepiej nie trafmy ich niczym. Upewnij się, żeby B-1 w nich nie celowały. Predator 1, zmieniamy kurs na trzeci kompleks, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_uav3_message_1M8">
         <English>Roger that. We're looking at the I-shaped compound here, it's a long skinny compound. White hot shows multiple heat signatures, they seem to be moving to the south, to the west. All of them are armed, small arms. Once again, gun trucks and Hilux vehicles. Predator 1, please advise, over.</English>
         <Spanish>Recibido. Estamos viendo el complejo con forma de I, es el complejo alargado. La térmica muestra varios rastros de calor, parecen estar moviéndose al sur y al oeste. Todos van armados, armas ligeras. Y lo mismo, camiones artillados y vehículos Hilux. Predator 1, solicito instrucciones, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem. Patrzymy na kompleks w kształcie litery "I", długi, wąski kompleks. White hot wskazuje wiele sygnatur cieplnych, przemieszczają się na południe, nie, na zachód. Wszyscy są uzbrojeni, broń krótka. Wróć, ciężarówki z bronią, hiluxy. Predator 1, jakieś sugestie? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_uav4_message_1M8">
         <English>Roger that. We now have eyes on Talon 30 and all Talon elements, they appear to be swinging to the north and east. They'll be regrouping and at that point, my understanding will be getting our weapons hot and starting to engage some of these compounds. Predator 1, we're on station, ready to fire. Please advise, over.</English>
         <Spanish>Recibido. Tenemos visual de Talon 30 y todos los elementos Talon, parecen estar avanzando hacia el norte y este. Se reagruparán y supongo que entonces tendremos autorizado usar las armas y empezar a atacar algunos de estos complejos. Predator 1, estamos disponibles y listos para disparar. Solicito instrucciones, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Przyjąłem. Mamy teraz widok na Talona 30 i pozostałe elementy Talon, przemieszczają się na północ i wschhód. Będą się przegrupowywać w tym miejscu, rozumiem, że będziemy atakować niektóre z tychh kompleksów. Predator 1, jesteśmy na miejscu, gotowi do otwarcia ognia, oczekujemy. Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M8">
         <English>Rusty, get over here! We finally have a Predator and a B-1 bomber overhead. Take my headset and listen.</English>
         <Spanish>¡Rusty, ven aquí! Por fin tenemos un Predator y un bombardero B-1 ahí arriba. Coge mis cascos y escucha.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty, chodź tu! Mamy wreszcie Predatora i B-1 nad głową. Bierz to i słuchaj.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M8">
         <English>Talon 30, there are seven total compounds with this type of enemy activity directly ahead of you.</English>
         <Spanish>Talon 30, hay siete complejos en total con este tipo de actividad enemiga justo delante de ustedes.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30, w sumie mamy siedem kompleksów pełnych tego typu przeciwników bezpośrednio przed wami.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M8">
         <English>Ron, need you up here! Get us a link to the video feed, double time!</English>
         <Spanish>¡Ron, ven para acá! ¡Consíguenos un enlace a la transmisión de vídeo a la voz de ya!</Spanish>
-        <Polish></Polish>
+        <Polish>Ron, potrzebujemy cię tu! Daj nam dostęp do kamery, szybko!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M8">
         <English>On my way!</English>
         <Spanish>¡Voy!</Spanish>
-        <Polish></Polish>
+        <Polish>Już pędzę!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M8">
         <English>This is Talon 30. We need to know the number of personnel and type of vehicles.</English>
         <Spanish>Aquí Talon 30. Necesitamos saber la cantidad del personal y el tipo de vehículos.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Talon 30. Musimy znać liczebność i rodzaje pojazdów wroga.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M8">
         <English>Uhh, we stopped counting at one hundred enemy personnel with weapons and Hilux vehicles.</English>
         <Spanish>Em, dejamos de contar a eso de los cien enemigos con armas y vehículos Hilux.</Spanish>
-        <Polish></Polish>
+        <Polish>Eee, przestaliśmy liczyć po setce przeciwników z bronią i hiluksami.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M8">
         <English>Ron, do you have control of the bomber? If so, level those targets. I mean level them!</English>
         <Spanish>Ron, ¿tienes control del bombardero? Si es así, devasta esos blancos. ¡Pero bien!</Spanish>
-        <Polish></Polish>
+        <Polish>Ron, masz kontrolę nad bombowcem? Jeśli tak, załatw te cele! Zrównaj je z ziemią!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M8">
         <English>Sir, we need this strike to be crippling for the enemy. Let's enhance it by hitting them with a mortar barrage right after impact.</English>
         <Spanish>Señor, este ataque tiene que ser devastador para el enemigo. Potenciémoslo con una salva de morteros justo después del impacto.</Spanish>
-        <Polish></Polish>
+        <Polish>Sir, to uderzenie musi być niszczycielskie dla wroga. Wzmocnijmy je jeszcze ostrzałem z moździerzy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M8">
         <English>Good idea. Go and get it from Ole Girl's cargo and set up near the ANA's vehicles.</English>
         <Spanish>Buena idea. Pilla el mortero del cargamento de Ole Girl y móntalo cerca de los vehículos del ENA.</Spanish>
-        <Polish></Polish>
+        <Polish>Dobry pomysł. Idź i weź jeden z Ole Girl i rozstaw go obok pojazdów NAA.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M8">
         <English>I'll meet you over there!</English>
         <Spanish>¡Allí te veo!</Spanish>
-        <Polish></Polish>
+        <Polish>Zobaczymy się tam!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M8">
         <English>The aircraft is cleared HOT. Everybody find cover! I am not kidding!</English>
         <Spanish>El avión tiene permiso. ¡Todos a cubierto! ¡No estoy de coña!</Spanish>
-        <Polish></Polish>
+        <Polish>Lotnictwo dostało zielone światło. Wszyscy się schowajcie! Nie żartuję!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M8">
         <English>Bombs away!</English>
         <Spanish>¡Bombas van!</Spanish>
-        <Polish></Polish>
+        <Polish>Bomby zrzucone!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_1M8">
         <English>All tubes stand by. On my command...</English>
         <Spanish>Todos los tubos, manténgase a la espera. A mi señal...</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie moździerze oczekiwać. Na rozkaz...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message14_1M8">
         <English>Zero in to grid 120-083. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 120-083. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 120-083. Oczekuj... STRZELAĆ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message15_1M8">
         <English>Zero in to grid 117-083. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 117-083. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 117-083. Oczekuj... STRZELAĆ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message16_1M8">
         <English>Zero in to grid 125-083. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 125-083. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 125-083. Oczekuj... STRZELAĆ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message17_1M8">
         <English>Zero in to grid 116-089. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 116-089. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 125-089. Oczekuj... Strzelać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1M8">
         <English>Zero in to grid 121-094. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 121-094. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 121-094. Oczekuj... Strzelać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1M8">
         <English>Zero in to grid 132-084. Hang... FIRE!</English>
         <Spanish>Calibren a las coordenadas 132-084. Listo... ¡Fuego!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycelować w koordynaty 132-084. Oczekuj... Strzelać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1M8">
         <English>Rounds complete!</English>
         <Spanish>¡Salva terminada!</Spanish>
-        <Polish></Polish>
+        <Polish>Koniec salwy!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1M8">
         <English>Round two goes to the Green Berets!</English>
         <Spanish>¡Los Boinas Verdes ganan la segunda ronda!</Spanish>
-        <Polish></Polish>
+        <Polish>Rundę drugą zwyciężają Zielone Berety!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M8">
         <English>Good work, team! Rusty, report back to me, on the double!</English>
         <Spanish>¡Buen trabajo, equipo! ¡Rusty, preséntate aquí otra vez, ahora mismo!</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra robota, ekipo! Rusty, zgłoś się do mnie, w tej chwili!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1M8">
         <English>That ought to keep the Talibs at bay while we get our wounded out, looks like they're starting to pull back.</English>
         <Spanish>Con eso debería bastar para mantener a los talis a raya mientras sacamos a los heridos, parece que están empezando a retirarse.</Spanish>
-        <Polish></Polish>
+        <Polish>To powinno nieco zniechhęcić Talibów, gdy my będziemy wyciągać rannych, chyba zaczęli się wycofywać.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1M8">
         <English>Head over and check on Zack and our buddies in the ANA, I'll call in MEDEVAC.</English>
         <Spanish>Ve a ver a Zack y a nuestros colegas del ENA, yo pediré MEDEVAC.</Spanish>
-        <Polish></Polish>
+        <Polish>Idź do Zacka i naszychh kolegów z NAA, zobacz co u nich, ja wezwę MEDEVAC.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message25_1M8">
         <English>Oh, also, Ron got the video feed working for the Predator. Use the console in my Humvee if you wanna help the pilot mop up our sector.</English>
         <Spanish>Ah, y Ron ya ha puesto en marcha la transmisión de vídeo del Predator. Coge la consola de mi Humvee si quieres ayudar al piloto a peinar el sector.</Spanish>
-        <Polish></Polish>
+        <Polish>Jeszcze jedno, Ron załatwił podgląd video z Predatora. Skorzystaj z konsoli w moim Humbee, jeśli chchesz pomóc pilotowi oczyścić nasz sektor.</Polish>
       </Key>
 	  <Key ID="STR_LOK_UAVHint_1M8">
         <English>Take the UAV Terminal from Jared's Humvee cargo inventory if you want to control the Predator. Log into the terminal, right click on the loitering UAV on the map, and then press 'Connect terminal to UAV' (if you play without map unit icons, you might have to enable them temporarily for the UAV to show up). Then, just choose to pilot it or take control of its guns.</English>
         <Spanish>Coge la terminal VANT del inventario del Humvee de Jared si quieres controlar el Predator. Enciende la terminal, haz clic derecho en el VANT merodeador del mapa, y pulsa «Conectar terminal a VANT» (si juegas sin iconos, puede que tengas que activarlos temporalmente para que salga el VANT). Luego, elige si quieres pilotarlo o controlar su armamento.</Spanish>
-        <Polish></Polish>
+        <Polish>Weź terminal BSL z Humvee Jareda jeśli chhcesz kontrolować Predatora. Zaloguj się do terminala, kliknij PPM na kołującym dronie na mapie i wciśnij "Połącz terminal z dronem" (jeśli grasz bez ikon jednostek na mapie, możesz je tymczasowo włączyć, żeby zobaczyć drona). Wtedy wybierz kontrolę nad pilotem albo jego uzbrojeniem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message26_1M8">
         <English>So, you took a piece of shrapnel and kept on shooting...</English>
         <Spanish>Conque te dio un trozo de metralla y seguiste disparando...</Spanish>
-        <Polish></Polish>
+        <Polish>A więc dostałeś odłamkiem i dalej strzelałeś...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1M8">
         <English>What's your assessment, Riley?</English>
         <Spanish>¿Cuál es tu valoración, Riley?</Spanish>
-        <Polish></Polish>
+        <Polish>Jaki jest jego status, Riley?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_1M8">
         <English>It's not bad, Captain, but he needs to get that metal out and get treated for infection.</English>
         <Spanish>No está mal, capitán, pero le tienen que sacar el metal y tratarle la herida para evitar infecciones.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie jest źle, kapitanie, ale trzeba mu wyjąc ten kawałek metalu i zabezpieczyć przed infekcją.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message29_1M8">
         <English>This is bullshit! It's just a scratch!</English>
         <Spanish>¡Gilipolleces! ¡Solo es un rasguño!</Spanish>
-        <Polish></Polish>
+        <Polish>To jakaś bzdura! Ledwie mnie drasnęło!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1M8">
         <English>Don't worry, Zack. You'll be back out here tomorrow.</English>
         <Spanish>Tranquilo, Zack. Mañana estarás de vuelta.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie martw się, Zack. Jutro będziesz tu z powrotem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message31_1M8">
-        <English>Talon 30 to Eagle 10 actual, requesting MEDEVAC at grid 121-080, we've got one down, the ANA have two. How copy, over?</English>
+        <English>Talon 30 to Eagle 10 Actual, requesting MEDEVAC at grid 121-080, we've got one down, the ANA have two. How copy, over?</English>
         <Spanish>Talon 30 a Eagle 10 Jefe, solicito MEDEVAC en las coordenadas 121-080. Tenemos un herido, el ENA tiene dos. ¿Me recibe? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 do Orła 10 Actual, wzywam MEDEVACa na koordynaty 121-080, mamy jednego rannego, NAA ma dwóch. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message32_1M8">
         <English>Eagle 10 Actual to Talon 30, solid copy on all, MEDEVAC is on the way, callsign Lima 85, ETA: 5 mikes. Standby, over.</English>
         <Spanish>Eagle 10 Jefe a Talon 30, todo recibido, la MEDEVAC va de camino, indicativo Lima 85. Tiempo estimado de llegada: 5 minutos. Esperen, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Orzeł 10 Actual do Talona 30, MEDEVAC jest już w drodze, znak wywoławczy Lima 85, czas oczekiwania to 5 minut. Oczekuj, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message33_1M8">
         <English>C'mon, Zack, let's get to the evac point.</English>
         <Spanish>Venga, Zack, vamos al punto de evacuación.</Spanish>
-        <Polish></Polish>
+        <Polish>Chodź, Zack, idziemy do punktu ewakuacyjnego.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message34_1M8">
         <English>Col. Shinsha, how are your men?</English>
         <Spanish>Coronel Shinsha, ¿cómo están sus hombres?</Spanish>
-        <Polish></Polish>
+        <Polish>Pułkowniku Shinsha, jak twoi ludzie?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message35_1M8">
         <English>Roostie! Der sha, der sha. Very good!</English>
         <Spanish>Roostie! Der sha, der sha. ¡Muy bien!</Spanish>
-        <Polish></Polish>
+        <Polish>Roostie! Der sha, der sha. Bardzo dobrze!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message36_1M8">
         <English>The Taliban were expecting much better today, my friend!</English>
         <Spanish>¡Los talibanes esperaban algo mucho mejor hoy, amigo mío!</Spanish>
-        <Polish></Polish>
+        <Polish>Talibowie spodziewali się dziś czegoś więcej, przyjacielu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1M8">
         <English>We'll take your two wounded to the evac point, sir. C'mon boys, let's go.</English>
         <Spanish>Llevaremos a sus dos heridos al punto de evacuación, señor. Venga, chicos, vamos.</Spanish>
-        <Polish></Polish>
+        <Polish>Weźmiemy twoich dwóch rannych do punktu ewakuacji, sir. Chodźcie, chłopcy, idziemy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message38_1M8">
         <English>Stay safe, guys...</English>
         <Spanish>Cuidaos, chicos...</Spanish>
-        <Polish></Polish>
+        <Polish>Dbajcie o siebie, koledzy...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message39_1M8">
         <English>Rusty, report back to me when you're ready and we'll sort out the resupply schedule.</English>
         <Spanish>Rusty, vuelve aquí cuando estés listo y organizamos el horario de reabastecimiento.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty, zgłoś się do mnie, gdy będziesz gotów, zajmiemy się kwestią odnowienia zasobów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message41_1M8">
         <English>Talon 30, this is Lima 85, we are inbound to the AO, stand by for evac in approximately 2 mikes, over.</English>
         <Spanish>Talon 30, aquí Lima 85, vamos de camino al AO, esperen evacuación en aproximadamente dos minutos, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30, tutaj Lima 85, jesteśmy w drodze do strefy operacyjnej, oczekujcie nas za około 2 minuty, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1M8">
         <English>Hey... I want you guys to get as much rest as you can tonight. We've already been delayed a day, we resume the attack at first light tomorrow.</English>
         <Spanish>Eh... Quiero que descanséis todo lo que podáis esta noche. Ya llevamos un día de retraso, reanudaremos el ataque a primera hora mañana.</Spanish>
-        <Polish></Polish>
+        <Polish>Hej... Chcę, byście odpoczęli dziś tyle, ile tylko się da. Już i tak wszystko opóźniło się o dzień, ponowimy atak jutro o świcie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message422_1M8">
         <English>We all knew this was coming, sir. I'll pull an extra shift tonight so they can get some rest. They've sure earned it.</English>
         <Spanish>Sabíamos que iba a pasar, señor. Haré horas extras esta noche para que puedan descansar. Se lo han ganado.</Spanish>
-        <Polish></Polish>
+        <Polish>Wiedzieliśmy, że tak będzie, sir. Wezmę dziś dodatkową wartę, żeby reszta mogła odpoczą. Zasłużyli sobie na to.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message422_2_1M8">
         <English>Do we have a movement time set yet, what with all the resupply aircraft? Speaking of which-- I didn't think we were getting our next bird for another hour or so, what's this all about?</English>
         <Spanish>¿Tenemos una hora fija para avanzar, con todos los helicópteros de reabastecimiento? Que por cierto, daba por hecho que el siguiente pájaro no llegaba hasta dentro de una hora o así, ¿esto qué es?</Spanish>
-        <Polish></Polish>
+        <Polish>Czy mamy już ustalony schemat transportu, co z lotnictwem z zaopatrzeniem? Swoją drogą... Nie sądziłem, że dostaniemy śmigło na kolejną godzinę, o co chodzi?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1M8">
         <English>Well lookie who it is. Zack! You salty sonova bitch, you!</English>
         <Spanish>Pero mirad quién es. ¡Zack! ¡Eres duro, cabronazo!</Spanish>
-        <Polish></Polish>
+        <Polish>Patrzcie no, kogo tu mamy. Zack! Ty mały gnojku!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1M8">
         <English>Couldn't stay away too long. I even brought back some goodies-- enough Copenhagen and Gatorade powder to go around.</English>
         <Spanish>No podía estar mucho tiempo fuera. Hasta he traído cositas: suficiente Copenhagen y Gatorade en polvo para todos.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie mogłem zostać za długo. Nawet mam trochę pamiątek - wystarczająco proszków Kopenhagen i Gatorade, żeby się trochę pokręcić.</Polish>
       </Key>
 	  <Key ID="STR_LOK_mortarhint_stop_1M8">
         <English>Hint: To set up the mortar, aim at the tripod bag while carrying the mortar backpack and select 'Assemble Mk6 Mortar' from the actions menu.</English>
         <Spanish>Consejo: Para montar el mortero, pon el punto de mira en la bolsa con el trípode mientras cargas con la mochila del mortero y selecciona la acción «Montar Mortero Mk6» del menú de acciones.</Spanish>
-        <Polish></Polish>
+        <Polish>Podpowiedź: Żeby rozstawić moździerz, wyceluj w torbę z trójnogiem gdy masz plecak z drugą częścią na plecach i wybierz opcję "Złóż Moździerz Mk6" z menu akcji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_mortarhint2_stop_1M8">
         <English>Don't forget to use the handy Artillery Computer! Check the grid markings Bill will provide to the mortar team, line them up, choose a proper distance and send those shells flying!</English>
         <Spanish>¡No te olvides de usar la calculadora de artillería! Escucha las coordenadas que dará Bill al equipo de morteros, alinéalas, elige la carga y distancia adecuadas ¡y a lanzar proyectiles!</Spanish>
-        <Polish></Polish>
+        <Polish>Mie zapomnij skorzystać z komputera artyleryjskiego! Zapamiętaj koordynaty wywoływane przez Billa, nastaw się na nie, wybierz odpowiedni dystans i strzelaj ile wlezie!</Polish>
       </Key>
 	  <Key ID="STR_LOK_5clear_hint_1M8">
         <English>5 is clear!</English>
         <Spanish>¡5 despejado!</Spanish>
-        <Polish></Polish>
+        <Polish>5 jest czysta!</Polish>
       </Key>
 	  <Key ID="STR_LOK_3clear_hint_1M8">
         <English>3 is clear!</English>
@@ -520,32 +520,32 @@
 	  <Key ID="STR_LOK_4clear_hint_1M8">
         <English>4 is clear!</English>
         <Spanish>¡4 despejado!</Spanish>
-        <Polish></Polish>
+        <Polish>4 jest czysta!</Polish>
       </Key>
 	  <Key ID="STR_LOK_2clear_hint_1M8">
         <English>2 is clear!</English>
         <Spanish>¡2 despejado!</Spanish>
-        <Polish></Polish>
+        <Polish>2 jest czysta!</Polish>
       </Key>
 	  <Key ID="STR_LOK_1clear_hint_1M8">
         <English>1 is clear!</English>
         <Spanish>¡1 despejado!</Spanish>
-        <Polish></Polish>
+        <Polish>1 jest czysta!</Polish>
       </Key>
 	  <Key ID="STR_LOK_civishit_hint_1M8">
         <English>You just killed a civilian!</English>
         <Spanish>¡Acabas de matar a un civil!</Spanish>
-        <Polish></Polish>
+        <Polish>Właśnie zabiłeś cywila!</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M8">
         <English>Taliban positions softened</English>
         <Spanish>Posiciones talibanes debilitadas</Spanish>
-        <Polish></Polish>
+        <Polish>Pozycje Talibanu zmiękczone</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M8">
         <English>We regrouped about a mile southeast of Sperwan Ghar, just as B-1 and UAV support arrived on station. While Jared and Ron guided the bomber's targets, we set up a mortar strike to add to the devastation. With the enemy suppressed, we managed to evacuate our wounded. Now, we would need to resupply and prepare for another assault.</English>
         <Spanish>Nos reagrupamos a un kilómetro al sureste de Sperwan Ghar, justo cuando se incorporó el apoyo de VANT y B-1. Mientras Jared y Ron guiaban al bombardero, nosotros montamos los morteros para contribuir a la devastación. Contenido el enemigo, conseguimos evacuar a los heridos. Ahora solo nos queda reabastecernos y prepararnos para otro asalto.</Spanish>
-        <Polish></Polish>
+        <Polish>Przegrupowaliśmy się około kilometra na południowy wschód od Sperwan Ghar, jak tylko B-1 i dron dotarły na miejsce. Gdy Jared i Ron wskazywali cele dla bombowca, my przeprowadziliśmy atak moździerzowy. Z wrogiem przypartym do gruntu udało nam się ewakuować rannych. Teraz musimy się przezbroić i przygotować do kolejnego szturmu.</Polish>
       </Key>
     </Container>
   </Package>

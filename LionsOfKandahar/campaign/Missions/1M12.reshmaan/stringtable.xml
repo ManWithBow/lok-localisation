@@ -40,7 +40,7 @@
 	  <Key ID="STR_LOK_Briefing_Text_1M12">
         <English>Thanks to our friends in the sky last night, we were able to decimate the enemy's attempts at a counter-attack. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; remains in our possession. We need to maintain the initiative and build secure 'white space' past the bottom of the hill while digging in deeper for the enemy's next move. That means performing a battle damage assessment (BDA) on Ishfaq at the foot of the hill, getting some overwatch on a compound that may still have an enemy presence, and scouting out Zangabar Ghar way to our south. Bill is in charge of adjusting the vehicles into defensive positions, so you'll all be on-foot today. Rusty will be on overwatch, the rest of you will be rotating between manning the guns on our GMVs and patrolling the perimeter. Dismissed.</English>
         <Spanish>Gracias a nuestros amigos en el cielo anoche, pudimos diezmar los intentos de enemigo de contraatacar. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; sigue siendo nuestra. Tenemos que mantener la iniciativa y crear un «espacio en blanco» seguro más allá de la base de la colina mientras nos atrincheramos más para la siguiente jugada del enemigo. Eso significa realizar una evaluación de daños en Ishfaq, en la falda de la colina, visualizar un complejo que todavía puede tener presencia enemiga y explorar Zangabar Ghar, hacia nuestro sur. Bill está a cargo de ajustar los vehículos en posiciones defensivas, así que todos irán a pie hoy. Rusty se encargará de la vigilancia, el resto os turnaréis entre manejar las armas de nuestros GMV y patrullar el perímetro. Podéis retiraros.</Spanish>
-        <Polish>Dzięki naszym przyjaciołom z powietrza, zeszłej nocy udało nam się zdziesiatkować siły wroga podczas ich prób kontrataku. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; pozostaje pod naszą kontrolą. Musimy zachować inicjatywę i stworzyć bezpieczną przestrzeń za podstawą góry oraz okopać się na wypadek kolejnego ruchu przeciwnika. To oznacza ocenę strat bojowych w wiosce Ishfaq u podnóża góry, znalezienie punktu obserwacyjnego na kompleks, w którym wróg może nadal przebywać, oraz zwiad w Zangabar Ghhar na południe od nas. Bill odpowiada za dostosowanie pojazdów na pozycjach obronnych, więc dziś misja odbędzie się pieszo. Rusty będzie obserwatorem, reszta z was będzie się zmieniać na kaemach w pojazdach i patrolować perymetr. Odmaszerować.</Polish>
+        <Polish>Dzięki naszym przyjaciołom z powietrza, zeszłej nocy udało nam się zdziesiatkować siły wroga podczas ich prób kontrataku. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; pozostaje pod naszą kontrolą. Musimy zachować inicjatywę i stworzyć bezpieczną przestrzeń za podstawą góry oraz okopać się na wypadek kolejnego ruchu przeciwnika. To oznacza ocenę strat bojowych w wiosce Ishfaq u podnóża góry, znalezienie punktu obserwacyjnego na kompleks, w którym wróg może nadal przebywać, oraz zwiad w Zangabar Ghar na południe od nas. Bill odpowiada za dostosowanie pojazdów na pozycjach obronnych, więc dziś misja odbędzie się pieszo. Rusty będzie obserwatorem, reszta z was będzie się zmieniać na kaemach w pojazdach i patrolować perymetr. Odmaszerować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objJared_Description_1M12">
         <English>Jared is in charge with delegating the various tasks to build 'white space' around our position atop Sperwan Ghar. You've already volunteered to help out during this morning's briefing, now you must report to him to hear the details of what needs to be done.</English>
@@ -70,7 +70,7 @@
 	  <Key ID="STR_LOK_obj1_1_Description_1M12">
         <English>Speak to Lt. Ali to let him know you are heading over so his team can provide you with backup. Once done, move to Ishfaq and rendezvous with Brian on the south side.</English>
         <Spanish>Habla con el teniente Ali del ENA para comunicarle que te diriges allí y que su equipo pueda proporcionarte apoyo. Una vez hecho, dirígete a Ishfaq y reúnete con Brian en el lado sur.</Spanish>
-        <Polish>Porozmawiaj z por. Alim, by poinformować go, że wyruszasz, by jego oddział mógł zapewnić ci wsparcie. Gdy to zrobisz, udaj się do Ishhfaq i spotkaj z Brianem po jego południowej stronie.</Polish>
+        <Polish>Porozmawiaj z por. Alim, by poinformować go, że wyruszasz, by jego oddział mógł zapewnić ci wsparcie. Gdy to zrobisz, udaj się do Ishfaq i spotkaj z Brianem po jego południowej stronie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_1_Title_1M12">
         <English>Speak to Lt. Ali</English>
@@ -90,7 +90,7 @@
 	  <Key ID="STR_LOK_obj1_3_Description_1M12">
         <English>You have successfully reunited with Sgt. Brian at the foot of Sperwan Ghar. Sweep Ishfaq with your team to check how much damage the Spectre did last night and if there are any enemies left.</English>
         <Spanish>Te has reunido con el sargento Brian en la falda de Sperwan Ghar. Peina Ishfaq con tu equipo para ver cuánto daño hizo el Spectre anoche y si quedan enemigos.</Spanish>
-        <Polish>Udało ci się połączyć z sierż. Brianem u podnóża Sperwan Ghar. Przeczesz Ishhfaq ze swoją drużyną by określić, jak wielkie zniszczenia spowodowało zeszłej nocy Widmo i czy jeszcze są przeciwnicy na miejscu.</Polish>
+        <Polish>Udało ci się połączyć z sierż. Brianem u podnóża Sperwan Ghar. Przeczesz Ishfaq ze swoją drużyną by określić, jak wielkie zniszczenia spowodowało zeszłej nocy Widmo i czy jeszcze są przeciwnicy na miejscu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_3_Title_1M12">
         <English>Sweep the area</English>
@@ -390,7 +390,7 @@
 	  <Key ID="STR_LOK_message21_1M12">
         <English>Haha, right. And what was it you were just doing for the past few hours again?</English>
         <Spanish>Ja, ja, ya, claro. Y ¿qué estabas haciendo exactamente estas últimas horas?</Spanish>
-        <Polish>Hahha, hasne. A co robiłeś przez ostatnie kilka godzin?</Polish>
+        <Polish>Haha, hasne. A co robiłeś przez ostatnie kilka godzin?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M12">
         <English>Stow it, guys. Keep the channels clean. And Brian, you go with Dave and put the reefer down, you hear me? Over.</English>
@@ -650,12 +650,12 @@
 	  <Key ID="STR_LOK_lost_subtitle_1M12">
         <English>Position overrun</English>
         <Spanish>Posición invadida</Spanish>
-        <Polish>Pozycja najechhana</Polish>
+        <Polish>Pozycja najechana</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_description_1M12">
         <English>The Taliban have overrun ODA 331 and the ANA's position atop Sperwan Ghar and massacred them!</English>
         <Spanish>¡Los talibanes han invadido la posición de la ODA 331 y el ENA en la cima de Sperwan Ghar y los han masacrado!</Spanish>
-        <Polish>Talibowie zalali pozycję ODA 331 i NAA na szczycie Sperwan Ghhar i ich zmasakrowali!</Polish>
+        <Polish>Talibowie zalali pozycję ODA 331 i NAA na szczycie Sperwan Ghar i ich zmasakrowali!</Polish>
       </Key>
     </Container>
   </Package>

@@ -55,7 +55,7 @@
 	  <Key ID="STR_LOK_obj0_Description_1M13">
         <English>You have been called to the makeshift T.O.C. atop Sperwan Ghar, where Jared, Shinsha, and Major Martin of the 10th Mountain Division's Comanche Company are going over the final details of the sweep operation.</English>
         <Spanish>Te han convocado en el COT improvisado en la cima de Sperwan Ghar, donde Jared, Shinsha y el mayor Martin de la Compañía Comanche de la 10.ª División de Montaña están repasando los últimos detalles de la operación de barrido.</Spanish>
-        <Polish>Zostałeś wezwany do tymczasowego Centrum Operacji Taktycznych na Sperwan Ghar, gdzie Jared, Shinshha i major Martin z Kompanii Comanche z 10. Górskiej omawiają ostatnie szczegóły operacji.</Polish>
+        <Polish>Zostałeś wezwany do tymczasowego Centrum Operacji Taktycznych na Sperwan Ghar, gdzie Jared, Shinsha i major Martin z Kompanii Comanche z 10. Górskiej omawiają ostatnie szczegóły operacji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj0_Title_1M13">
         <English>Finish briefing with Jared</English>
@@ -365,7 +365,7 @@
 	  <Key ID="STR_LOK_message29_1M13">
         <English>This is Talon 36, the Captain is down! Six of the ANA are wounded. J.T. and I are the only ones left!</English>
         <Spanish>¡Aquí Talon 36, el capitán ha caído! Hay seis heridos del ENA. ¡Solo quedamos JT y yo!</Spanish>
-        <Polish>Tutaj Talon 36, kapitan dostał! Sześciu NAA jest rannychh. Tylko ja i J.D. stoimy na nogach!</Polish>
+        <Polish>Tutaj Talon 36, kapitan dostał! Sześciu NAA jest rannych. Tylko ja i J.D. stoimy na nogach!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1M13">
         <English>We have got to do something. Talon 31 to Talon 30 Actual, I am going to go down there and try and get them out. Talon 26, knock a wedge in.</English>
@@ -425,7 +425,7 @@
 	  <Key ID="STR_LOK_message41_1M13">
         <English>Viper 04, you are cleared hot. Come on heading of 202 degrees. Listen carefully: Taliban are attempting to overrun my team on the south side of the dried-out riverbed. You have no restrictions. My initials are Romeo Bravo. Bring the heat NOW, we need it.</English>
         <Spanish>Viper 04, permiso concedido. Diríjanse a 202 grados. Escuchen con atención: los talibanes están intentando abrumar a mi equipo en el lado sur del lecho del río seco. No tienen restricciones. Mis iniciales son Romeo Bravo. Vengan con la artillería YA, la necesitamos.</Spanish>
-        <Polish>Żmija 04, możecie strzelać. Podejdźcie z 202 stopni. Słuchhajcie uważnie - Talibowie próbują szturmować mój oddział od południowej strony dna rzeki. Walcie, czym tylko się da. Moje iniciały to Romeo Bravo. Walcie teraz, potrzebujemy tego.</Polish>
+        <Polish>Żmija 04, możecie strzelać. Podejdźcie z 202 stopni. Słuchajcie uważnie - Talibowie próbują szturmować mój oddział od południowej strony dna rzeki. Walcie, czym tylko się da. Moje iniciały to Romeo Bravo. Walcie teraz, potrzebujemy tego.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1M13">
         <English>Whoa, that's all enemy? Let's even the odds.</English>

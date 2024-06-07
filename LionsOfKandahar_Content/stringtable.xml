@@ -252,6 +252,61 @@
         <Spanish>La mayoría de las milicias afganas que lucharon junto a las fuerzas estadounidenses en Tora Bora fueron en realidad sobornadas por EE. UU.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_1">
+        <English>Kunar is predominantly inhabited by Pashtuns, with some Pashai and Nuristani communities. The local culture is heavily influenced by tribal traditions and Pashtunwali, the Pashtun code of conduct.</English>
+        <Spanish>Kunar está principalmente habitado por pastunes, con algunas comunidades pashai y nuristaníes. La cultura local está muy influenciada por las tradiciones tribales y por el pastunwali, un código de conducta pastún.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_2">
+        <English>Kunar is home to several ancient Buddhist archaeological sites, indicating its historical significance along the ancient Silk Road.</English>
+        <Spanish>Kunar alberga varios yacimientos arqueológicos budistas antiguos, lo que denota su importancia histórica en la antigua Ruta de la Seda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_3">
+        <English>Often referred to as the 'Valley of Death,' the Korengal Valley in Kunar was one of the most dangerous areas for US troops. The strongly independent tribes of the Korangal Valley viewed the US troops as invaders, which prevented action against the Taliban.</English>
+        <Spanish>A menudo denominado el «Valle de la Muerte», el valle de Korengal de Kunar era una de las áreas más peligrosas para las tropas estadounidenses. Las tribus independientes del valle de Korengal veían a los estadounidenses como invasores, lo que impidió acciones contra los talibanes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_4">
+        <English>The proximity to the Pakistan border has made Kunar a critical area for cross-border insurgency operations. Insurgents often moved between Afghanistan and Pakistan, complicating military efforts.</English>
+        <Spanish>La cercanía a la frontera pakistaní ha hecho de Kunar una zona esencial para operaciones de insurgencia fronterizas. Los insurgentes solían desplazarse entre Afganistán y Pakistán, complicando los esfuerzos militares.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_5">
+        <English>The dense forests and mountainous terrain provided cover for insurgents, who used guerrilla tactics such as ambushes and IEDs (improvised explosive devices) against coalition forces.</English>
+        <Spanish>Los densos bosques y el terreno montañoso proporcionaban cobertura a los insurgentes, que utilizaban tácticas de guerrilla, como emboscadas y artefactos explosivos improvisados (IED) contra las fuerzas de la Coalición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_6">
+        <English>19 US special operators died on June 28th 2005 during Operation Red Wings, making it the most fateful day of the entire war for the US up until that point.</English>
+        <Spanish>19 operadores especiales estadounidenses murieron el 28 de junio de 2005 durante la Operación Red Wings, lo que lo convirtió en el día más catastrófico de toda la guerra para los EE. UU. hasta ese punto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_7">
+        <English>Even in the early 21st century, movement on foot, with pack animals, or with motorized vehicles is extremely limited and channeled due to the significant geographic restrictions.</English>
+        <Spanish>Aun a principios del siglo XXI, el movimiento a pie, con animales o con vehículos motorizados es extremadamente limitado y canalizado debido a las considerables restricciones geográficas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_8">
+        <English>Nearly nine tenths (86%) of the province is mountainous or semi mountainous terrain while one eighth (12%) of the area is made up of relatively flat land.</English>
+        <Spanish>Casi nueve décimas partes (86 %) de la provincia son terreno montañoso o semimontañoso, mientras que un octavo (12 %) de la zona está compuesta de terreno relativamente llano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_9">
+        <English>Several soldiers who served in Kunar have been awarded the Medal of Honor for their acts of bravery. These include Staff Sergeant Salvatore Giunta and Lieutenant Michael P. Murphy.</English>
+        <Spanish>Varios soldados que sirvieron en Kunar han sido recompensados con la Medalla de Honor por sus actos de valentía. Algunos de ellos son el sargento primero Salvatore Giunta y el teniente Michael P. Murphy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_10">
+        <English>According to Pakistan's Interior Minister Rehman Malik, Osama bin Laden was most likely hiding in Kunar Province in the spring and summer of 2009, but this information was later debunked in 2011.</English>
+        <Spanish>Según el ministro del Interior de Pakistán, Rehman Malik, Osama bin Laden estaba oculto en la provincia de Kunar en la primavera y el verano de 2009, pero esta información fue desmentida en 2011.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Clafghan_LoadingTip_11">
+        <English>Ahmad Shah, the most wanted militant leader in Kunar Province, actually fought against the Taliban and al-Qaeda in 2001 before switching sides. His relatively small cell inflicted heavy casualties on Coalition and US forces.</English>
+        <Spanish>Ahmad Shah, el líder militante más buscado de la provincia de Kunar, luchó contra los talibanes y Al Qaeda en 2001 antes de cambiar de bando. Su relativamente pequeña célula infligió bajas considerables a las fuerzas de la Coalición y estadounidenses.</Spanish>
+        <Polish></Polish>
+      </Key>
     </Container>
   </Package>
 </Project>

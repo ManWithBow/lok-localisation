@@ -228,8 +228,8 @@
         <Polish>Minęły miesiące od końca Operacji Meduza, ale Taliban nadal kręci się po prowincji Kandahar. Jako sierżant Kanadyjskiego Regimentu Królewskiego przeprowadzisz patrol południowej części Dystryktu Zhari, zbierzesz informacje na temat komórki Talibów nadal funkcjonujących w okolicy i będziesz pomagał ludności cywilnej.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B2">
-        <English>Talk to the locals and disable an explosive device in 'The Notebook', and complete 'The Dragon's Back' to unlock this mission.</English>
-        <Spanish>Habla con los lugareños y desactiva un artefacto explosivo en «El cuaderno» y completa «La espalda del dragón» para desbloquear esta misión.</Spanish>
+        <English>Talk to the locals and disable an explosive device in 'The Notebook', and complete 'The Dragon's Back' from Lions of Kandahar to unlock this mission.</English>
+        <Spanish>Habla con los lugareños y desactiva un artefacto explosivo en «El cuaderno» y completa «La espalda del dragón» de Leones de Kandahar para desbloquear esta misión.</Spanish>
         <Polish>Porozmawiaj z miejscowymi i rozbrój ładunek wybuchowy w misji "Notatnik" oraz ukończ "Smocze plecy", by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B2">
@@ -513,7 +513,7 @@
         <Polish>Charles 26, tutaj Charles 91, mamy widok na możliwego informanta Talibów w mieście Sultansafe. Przemieszcza się w stronę gór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_2_1B2">
-        <English>Permission granted, 91, but proceed with caution. We don't want unexpected consequences of him noticing you're following him. Over and out.</English>
+        <English>Permission granted, 91, but proceed with caution. We don't want unexpected consequences of him noticing you're following him. Out.</English>
         <Spanish>Concedido, 91, pero proceda con cautela. No queremos lidiar con las consecuencias inesperadas de que se dé cuenta de que lo está siguiendo. Cambio y corto.</Spanish>
         <Polish>Zrozumiałem, 91, idźcie za nim, ale bądźcie ostrożni. Nie chcemy poznać konsekwencji wykrycia was przez niego. Bez odbioru.</Polish>
       </Key>
@@ -563,7 +563,7 @@
         <Polish>Charles 26, dobre wieści - znaleźliśmy mały obóz Talibów uryty w górach niedaleko Sultansafe. To chyba to miejsce, do którego szedł kolaborant. Wszyscy tu są uzbrojeni, proszę o rade, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1B2">
-        <English>Charles 91, you have permission to fire if they are armed and have hostile intent. Over and out.</English>
+        <English>Charles 91, you have permission to fire if they are armed and have hostile intent. Out.</English>
         <Spanish>Charles 91, tienen permiso para disparar si van armados y tienen intenciones hostiles. Cambio y corto.</Spanish>
         <Polish>Charles 91, macie pozwolenie na otwaria ognia, jeśli są uzbrojeni i mają wrogie zamiary. Bez odbioru.</Polish>
       </Key>
@@ -593,8 +593,8 @@
         <Polish>Zrozumiałem, 91, możecie unieszkodliwić te moździerze? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1B2">
-        <English>I guess we could use some of the explosive ordnance they have lying around here against them. Roger that, 26, on it. Over and out.</English>
-        <Spanish>Supongo que podríamos usar los explosivos que tienen por aquí en su contra. Recibido, 26, nos ponemos a ello. Cambio y corto.</Spanish>
+        <English>I guess we could use some of the explosive ordnance they have lying around here against them. Roger that, 26, on it. Out.</English>
+        <Spanish>Supongo que podríamos usar los explosivos que tienen por aquí en su contra. Recibido, 26, nos ponemos a ello. Corto.</Spanish>
         <Polish>Możemy wykorzystać któreś z ładunków wybuchowych, które tu przechowywali. Damy sobie radę, 26. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1B2">
@@ -603,8 +603,8 @@
         <Polish>Charles 26, wszystkie moździerze i amunicja w Sultansafe zostały zlikwidowane. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message45_1B2">
-        <English>All copied, great job, Charles 91. Proceed with your other objectives, over and out.</English>
-        <Spanish>Alto y claro, buen trabajo, Charles 91. Prosiga con sus otros objetivos, cambio y corto.</Spanish>
+        <English>All copied, great job, Charles 91. Proceed with your other objectives, out.</English>
+        <Spanish>Alto y claro, buen trabajo, Charles 91. Prosiga con sus otros objetivos, corto.</Spanish>
         <Polish>Wszystko zrozumiałem, dobra robota, Charles 91. Kontynuujcie pozostałe zadania, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message46_1B2">
@@ -933,7 +933,7 @@
         <Polish>Charles 91 do Charles 26, znaleźliśmy skompletowanego IEDa i plany bombowe, w których jest szczegółowy plan ataku na Shukurkalay. Chyba ci goście to wszystko przygotowali. Jak przyjąłeś? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message106_1B2">
-        <English>Good thing you disabled that IED, Charles 91. You have avoided a major tragedy. Take those plans with you and get rid of the other IED. Over and out.</English>
+        <English>Good thing you disabled that IED, Charles 91. You have avoided a major tragedy. Take those plans with you and get rid of the other IED. Over.</English>
         <Spanish>Menos mal que han desactivado el IED, Charles 91. Han evitado una tragedia descomunal. Llévese esos planos y deshágase del otro IED. Cambio y corto.</Spanish>
         <Polish>Dobrze, że wyłączyliście tego IEDa, Charles 91. Uniknęliśmy w ten sposób wielkiej tragedii. Weźcie te plany i pozbądźcie się ładunku. Bez odbioru.</Polish>
       </Key>
@@ -998,8 +998,8 @@
         <Polish>Mam taką nadzieję. Trzymajcie się, chłopcy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message117_1B2">
-        <English>Charles 91 to Charles 26, we've got the NVGs. Moving to our next objective, over and out.</English>
-        <Spanish>Charles 91 a Charles 26, tenemos las gafas de visión nocturna. Pasamos a nuestro siguiente objetivo, cambio y corto.</Spanish>
+        <English>Charles 91 to Charles 26, we've got the NVGs. Moving to our next objective, over.</English>
+        <Spanish>Charles 91 a Charles 26, tenemos las gafas de visión nocturna. Pasamos a nuestro siguiente objetivo, cambio.</Spanish>
         <Polish>Charles 91 do Charles 26, mamy gogle noktowizyjne. Wracamy do zadań, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message118_1B2">
@@ -1018,14 +1018,9 @@
         <Polish>Charles 91 do Charles 26, wszystkie zadania ukończone. Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message121_1B2">
-        <English>Solid copy, 91, great job. Return to base when you are ready. Over and out.</English>
-        <Spanish>Recibido, 91, gran trabajo. Vuelvan a la base cuando estén listos. Cambio y corto.</Spanish>
+        <English>Solid copy, 91, great job. Return to base when you are ready. Out.</English>
+        <Spanish>Recibido, 91, gran trabajo. Vuelvan a la base cuando estén listos. Corto.</Spanish>
         <Polish>Zrozumiałem 91, świetna robota. Wracajcie do bazy, gdy już będziecie gotowi. Odbiór.</Polish>
-      </Key>
-	  <Key ID="STR_LOK_message122_1B2">
-        <English>Wilco, out.</English>
-        <Spanish>Recibido, corto.</Spanish>
-        <Polish>Się robi, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message123_1B2">
         <English>Reporting back as ordered, sir.</English>

@@ -138,8 +138,8 @@
         <Polish>Taliban przeciwstawia się nam w południowym Afganistanie. Siły specjalne Koalicji zaplanowały wielki szturm na Dolinę Chora w celu zajęcia wrogiego kompleksu budynków i wyeliminowania potężnego oficera. Jako część jednostki kanadyjskiego JTF2 będziesz dowodzić atakiem na kompleks.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B4">
-        <English>Find enemy intel in 'The Voice of Death' to unlock this mission.</English>
-        <Spanish>Encuentra inteligencia enemiga en «La voz de la muerte» para desbloquear esta misión.</Spanish>
+        <English>Find enemy intel in 'The Voice of Death' from Lions of Kandahar to unlock this mission.</English>
+        <Spanish>Encuentra inteligencia enemiga en «La voz de la muerte» de Leones de Kandahar para desbloquear esta misión.</Spanish>
         <Polish>Znajdź wrogie informacje wywiadowcze w "Głosie śmierci", by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B4">
@@ -263,7 +263,7 @@
         <Polish>Wiatrak 22</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1B4">
-        <English>We're closing in on the objetive, ETA: 2 minutes.</English>
+        <English>We're closing in on the objective, ETA: 2 minutes.</English>
         <Spanish>Nos acercamos al objetivo. Tiempo estimado: 2 minutos.</Spanish>
         <Polish>Zbliżamy się do celu. Czas oczekiwania to dwie minuty.</Polish>
       </Key>

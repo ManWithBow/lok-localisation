@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1B8">
+    <Container name="STR_DN">
+	   <Key ID="STR_LOK_Briefing_Fox_1B8">
+        <English>Briefing - F Company</English>
+        <Spanish>Instrucciones: Compañía F</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingNotes_1B8">
+        <English>EDITOR'S NOTES:&lt;br/&gt;This mission is entirely based on chapters 9-12 of Ed Darack's non-fiction book Victory Point, which focuses on operations Red Wings and Whalers from the Marines' perspective.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta misión está completamente basada en los capítulos 9-12 del libro factual de Ed Darack Victory Point, que narra las operaciones Red Wings y Whalers desde la perspectiva de los Marines.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1B8">
+        <English>A. Signal:&lt;br/&gt; Beastmaster - LtCol MACMANNIS (2/3 Marines CO)&lt;br/&gt; Echo 1 - 1stLt KINSER&lt;br/&gt; Echo 2 - 1stLt HAGAN&lt;br/&gt; Echo 3 - 1stLt GUYTON&lt;br/&gt; Fox Actual - Capt GRISSOM (F Company CO)&lt;br/&gt; Fox 1 - 2ndLt GEISE&lt;br/&gt; Fox 3 (your team) - 2ndLt KONSTANT&lt;br/&gt; Golf 1 - 1stLt CORCORAN&lt;br/&gt; Golf 2 - 1stLt KENNEDY&lt;br/&gt; Ronin - Sgt EGGERS&lt;br/&gt; Shock 54 - AH-64 Support&lt;br/&gt; Grip 21 - A-10 Support&lt;br/&gt; Ice Palace 1 - B-52 Support</English>
+        <Spanish>A. Señal:&lt;br/&gt; Beastmaster: Tte. Cnel. MACMANNIS (oficial al mando de 2/3 Marines)&lt;br/&gt; Echo 1: Tte. 1.º KINSER&lt;br/&gt; Echo 2: Tte. 1.º HAGAN&lt;br/&gt; Echo 3: Tte. 1.º GUYTON&lt;br/&gt; Fox Jefe: Cap. GRISSOM (oficial al mando de la Compañía F)&lt;br/&gt; Fox 1: Tte. 2.º GEISE&lt;br/&gt; Fox 3 (tu equipo): Tte. 2.º KONSTANT&lt;br/&gt; Golf 1: Tte. 1.º CORCORAN&lt;br/&gt; Golf 2: Tte. 1.º KENNEDY&lt;br/&gt; Ronin: Sgto. EGGERS&lt;br/&gt; Shock 54: Apoyo de AH-64&lt;br/&gt; Grip 21: Apoyo de A-10&lt;br/&gt; Ice Palace 1: Apoyo de B-52</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1_1B8">
+        <English>A. Signal:&lt;br/&gt; Beastmaster - LtCol MACMANNIS (2/3 Marines CO)&lt;br/&gt; Echo 1 - 2ndLt KINSER&lt;br/&gt; Echo 2 - 1stLt HAGAN&lt;br/&gt; Echo 3 - 1stLt GUYTON&lt;br/&gt; Fox Actual - Capt GRISSOM (F Company CO)&lt;br/&gt; Fox 1 - 2ndLt GEISE&lt;br/&gt; Fox 3 - 2ndLt KONSTANT (you)&lt;br/&gt; Golf 1 - 1stLt CORCORAN&lt;br/&gt; Golf 2 - 1stLt KENNEDY&lt;br/&gt; Ronin - Sgt EGGERS&lt;br/&gt; Shock 54 - AH-64 Support&lt;br/&gt; Grip 21 - A-10 Support&lt;br/&gt; Ice Palace 1 - B-52 Support</English>
+        <Spanish>A. Señal:&lt;br/&gt; Beastmaster: Tte. Cnel. MACMANNIS (oficial al mando de 2/3 Marines)&lt;br/&gt; Echo 1: Tte. 1.º KINSER&lt;br/&gt; Echo 2: Tte. 1.º HAGAN&lt;br/&gt; Echo 3: Tte. 1.º GUYTON&lt;br/&gt; Fox Jefe: Cap. GRISSOM (oficial al mando de la Compañía F)&lt;br/&gt; Fox 1: Tte. 2.º GEISE&lt;br/&gt; Fox 3: Tte. 2.º KONSTANT (tú)&lt;br/&gt; Golf 1: Tte. 1.º CORCORAN&lt;br/&gt; Golf 2: Tte. 1.º KENNEDY&lt;br/&gt; Ronin: Sgto. EGGERS&lt;br/&gt; Shock 54: Apoyo de AH-64&lt;br/&gt; Grip 21: Apoyo de A-10&lt;br/&gt; Ice Palace 1: Apoyo de B-52</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1B8">
+        <English>1. Supply: Standard desert MCCUUs and Interceptor vests, LWH helmets, standard issue USMC small arms including M16A4 rifles, M4 carbines, M9 pistols, M249 and M240G machine guns, and M14 DMR and M40A3 sniper rifles.&lt;br/&gt;2. Transportation: Fox 3 will be transported to the village of Mandingara in Whiskey 1's hardback and highback Humvees. Then, they will make their way to the valley on foot.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Fox Company has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Fox Actual will authorize CASEVAC.</English>
+        <Spanish>1. Suministros: Uniformes MCCUU estándar en camuflaje árido y chalecos Interceptor, cascos LWH, armas ligeras reglamentarias del Cuerpo de Marines como fusiles M16A4, carabinas M4, pistolas M9, ametralladoras M249 y M240G y fusiles de francotirador M14 DMR y M40A3.&lt;br/&gt;2. Transporte: Fox 3 será transportado a la aldea de Mandingara en los Humvees rígidos y descapotados de Whiskey 1. Luego llegarán hasta el valle a pie.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: La Compañía Fox tiene 2x sargentos médicos asignados. En caso de sufrir una cantidad considerable de bajas, Fox Jefe autorizará CASEVAC.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1B8">
+        <English>The main objective of Operation Whalers is to disrupt ACM activity in the region in support of further stabilizing the region for unencumbered voter turnout for the September 18, 2005 Afghan national parliamentary elections. The emphasis is a cell lead by Ahmad Shah, which was responsible for the deaths of 19 US servicemen during Operation Red Wings in June. 2/3 Marines have developed a plan that seeks to 'force to contact' and trap Shah in the upper Korengal Valley by inserting troops into surrounding valleys in successive order. 2/3 Marines will occupy and control 4 different valleys in Kunar Province:&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerKorengal">Korengal Valley&lt;/marker&gt;: Designated valley for 1stLt Chris Hagan (Echo 2 CO) and 1stLt Nick Guyton (Echo 3 CO). They will advance into the Korengal Valley nearing midnight on 11 August, with attached ANA soldiers. They will also have support from Sgt Keith Eggers' scout sniper team, callsign Ronin. This is where Shah is expected to be contacted the most, and so it will receive the most units.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerShuryek">Shuryek Valley&lt;/marker&gt;: Designated valley for 1stLt Patrick Kinser (Echo 1 CO). They will advance into the Shuryek Valley nearing midnight on 11 August, with attached ANA soldiers. This is a small valley that was already explored by Marcus Luttrell, the survivor of Red Wings, and inhabited by friendly tribesmen. Therefore, it is unlikely that Shah will cross it.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerChowkay">Chowkay Valley&lt;/marker&gt;: Designated valley for 2ndLt J. J. Konstant (Fox 3 CO). They will be transported into the Chowkay Valley by Whiskey 1 at 2245 on 12 August, with attached ANA soldiers. Fox Company's CO, Captain Kelly Grissom, will be accompanying them. Fox 3 will also count with 2ndLt Stewart Geise's 1st Platoon (Fox 1) as a security element, with a section of 81 mm mortars commanded by 1stLt Ben Middendorf. Fox 1 and the mortars will be transported by Whiskey 3, and then climb up the mountains with the help of 36 donkeys to establish a base on &lt;marker name="marker_6">Hill 2510&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerNarang">Narang Valley&lt;/marker&gt;: Designated valley for 1stLt Kyle Corcoran (Golf 1 CO) and 1stLt Clif Kennedy (Golf 2 CO). They will advance into the Narang Valley with attached ANA soldiers at roughly noon on the 12 August, twelve hours after Echo's troops have entered the region's northern valleys.</English>
+        <Spanish>El objetivo principal de la Operación Whalers es desbaratar la actividad ACM en la región en apoyo de una mayor estabilización de la región para una participación sin trabas de los votantes en las elecciones parlamentarias nacionales afganas del 18 de septiembre de 2005. Se hace hincapié en una célula dirigida por Ahmad Shah, que fue responsable de la muerte de 19 militares estadounidenses durante la Operación Red Wings en junio. Los 2/3 Marines han desarrollado un plan que pretende «forzar el contacto» y atrapar a Shah en el alto valle de Korengal mediante la inserción de tropas en los valles circundantes en orden sucesivo. Los 2/3 Marines ocuparán y controlarán 4 valles diferentes en la provincia de Kunar:&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerKorengal">Valle de Korengal&lt;/marker&gt;: Valle designado para el Tte. 1.º Chris Hagan (oficial de Echo 2) y el Tte. 1.º Nick Guyton (oficial de Echo 3). Avanzarán hacia el valle de Korengal cerca de medianoche el 11 de agosto, con soldados del ENA agregados. También tendrán apoyo del equipo de francotiradores del Sgto. Keith Eggers, indicativo Ronin. Aquí es donde más se espera el contacto con Shah, y por tanto recibirá más unidades.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerShuryek">Valle de Shuryek&lt;/marker&gt;: Valle designado para el Tte. 1.º Patrick Kinser (oficial Echo 1). Avanzarán hacia el valle de Korengal cerca de medianoche el 11 de agosto, con soldados del ENA agregados. Se trata de un pequeño valle que ya fue explorado por Marcus Luttrell, el superviviente de Red Wings, y habitado por tribus amigas. Por lo tanto, es poco probable que Shah lo cruce.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerChowkay">Valle de Chowkay&lt;/marker&gt;: Valle designado para el Tte. 2.º J. J. Konstant (oficial de Fox 3). Serán transportados hacia el valle de Chowkay por Whiskey 1 a las 2245 del 12 de agosto, con soldados del ENA agregados. El oficial de la Compañía Fox, el capitán Kelly Grissom, los acompañará. Fox 3 también contará con el 1.er Pelotón del Tte. 2.º Stewart Geise (Fox 1) como elemento de seguridad, con una sección de morteros de 81 mm liderados por el Tte. 1.º Ben Middendorf. Fox 1 y los morteros serán transportados por Whiskey 3 y entonces escalarán las montañas con la ayuda de 36 burros para establecer una base en la &lt;marker name="marker_6">Colina 2510&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerNarang">Valle de Narang&lt;/marker&gt;: Valle designado para el Tte. 1.º Kyle Corcoran (oficial de Golf 1) y el Tte. 1.º Clif Kennedy (oficial de Golf 2). Avanzarán hacia el valle del Narang con soldados del ENA agregados hacia el mediodía del 12 de agosto, doce horas después de que las tropas de Echo hayan entrado en los valles septentrionales de la región.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1B8">
+        <English>Who: 3rd Platoon, F Company, 2nd Battalion, 3rd Marine Regiment, Task Force Devil (TF Devil)&lt;br/&gt;What: INTERCEPT Ahmad Shah&lt;br/&gt;Where: In vicinity, Chowkay Valley&lt;br/&gt;When: 063200ZAUG13&lt;br/&gt;Why: Operation Whalers</English>
+        <Spanish>Quién: 3.er Pelotón, Compañía F, 2.º Batallón, 3.er Regimiento de Marines, Fuerza Operativa Devil (TF Devil)&lt;br/&gt;Qué: INTERCEPTAR a Ahmadh Shah&lt;br/&gt;Dónde: En las inmediaciones, valle de Chowkay&lt;br/&gt;Cuándo: 063200ZAUG13&lt;br/&gt;Por qué: Operación Whalers</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1B8">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 50-100 expected&lt;br/&gt;Activity: No movement observed, low radio chatter&lt;br/&gt;Location: Vicinity, &lt;marker name="markerChowkay"&gt;Chowkay Valley&lt;/marker&gt;&lt;br/&gt;Unit: Unknown, expect Taliban mixed infantry&lt;br/&gt;Time Observed: August 11, 2005&lt;br/&gt;Equipment: Unknown, expect Soviet small arms, RPGs, mortars and rocket artillery&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To intercept Ahmad Shah's cell in any of the four valleys in Kunar Province, thwart his forces and ensure an unencumbered parliamentary election.&lt;br/&gt;2. Adjacent Units: Captain Kelly Grissom (callsign: Fox Actual), Fox 1, 81 mm mortar detachment.&lt;br/&gt;3. Supporting: US air assets are on standby. Captain Casmer 'Pigeon' Ratkowiak will be the forward air controller responsible for coordinating with air units. Fox 1's mortar team (led by 1stLt Middendorf) will deploy on &lt;marker name="marker_6">Hill 2510&lt;/marker&gt; and be ready to provide support as necessary. CASEVAC will only be available by request of Fox Actual.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 50-100 esperados&lt;br/&gt;Actividad: No se ha observado movimiento, leves vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerChowkay"&gt;valle de Chowkay&lt;/marker&gt;&lt;br/&gt;Unidades: Se desconoce, cabe esperar infantería mixta talibán&lt;br/&gt;Fecha de observación: 11 de agosto de 2005&lt;br/&gt;Equipo: Se desconoce, cabe esperar armas ligeras soviéticas, RPG, morteros y artillería de cohetes&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Interceptar a la célula de Ahmad Shah en cualquiera de los cuatro valles de la provincia de Kunar, menguar sus fuerzas y garantizar unas elecciones parlamentarias sin impedimentos.&lt;br/&gt;2. Unidades adyacentes: Capitán Kelly Grissom (indicativo: Fox Jefe), Fox 1, destacamento de morteros de 81 mm.&lt;br/&gt;3. Apoyo: Los medios aéreos estadounidenses están a la espera. El capitán Casmer «Pigeon» Ratkowiak será el controlador aéreo responsable de coordinarse con las unidades aéreas. El equipo de morteros de Fox 1 (liderado por el Tte. 1.º Middendorf) se desplegará en la &lt;marker name="marker_6">Colina 2510&lt;/marker&gt; y estará listo para proporcionar apoyo según sea necesario. La CASEVAC solo estará autorizada cuando la solicite Fox Jefe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1B8">
+        <English>Operation Red Wings, in June, was a complete failure. Ahmad Shah and his cell fled to Pakistan, but 2/3 Marines processed intelligence that Shah would be returning to the Korengal Valley in August. This has led to Operation Whalers, where the Marines will occupy the Korengal and all surrounding valleys to intercept Shah and force contact. Fox 3 (led by 2ndLt Konstant) will be transported by Whiskey 1 to the village of &lt;marker name="marker_21">Mandingara&lt;/marker&gt;, where they will dismount and make their way on foot to the &lt;marker name="markerChowkay">Chowkay Valley&lt;/marker&gt;. Afterwards, they will set up a patrol base and stay on the lookout for Shah and his cell. Meanwhile, Fox 1 (led by 2ndLt Geise) will be transported by Whiskey 3 to the village of &lt;marker name="marker_31">Lolosalam&lt;/marker&gt;, where they will dismount and climb up the mountain towards &lt;marker name="marker_6">Hill 2510&lt;/marker&gt; with the help of several donkeys. Once there, they will establish a base and set up their mortars to support Fox 3 in the Chowkay.</English>
+        <Spanish>La Operación Red Wings, en junio, fue un fracaso estrepitoso. Ahmad Shah y su célula huyeron a Pakistán, pero los 2/3 Marines procesaron información de que Shah volvería al valle de Korengal en agosto. Esto ha desembocado en la Operación Whalers, en la que los Marines ocuparán el Korengal y todos los valles circundantes para interceptar a Shah y forzar el contacto. Fox 3 (liderado por el Tte. 2.º Konstant) será transportado por Whiskey 1 a la aldea de &lt;marker name="marker_21">Mandingara&lt;/marker&gt;, donde se apearán y llegarán a pie hasta el &lt;marker name="markerChowkay">valle de Chowkay&lt;/marker&gt;. Después, montarán una base de patrulla y se mantendrán ojo avizor a Shah y su célula. Mientras tanto, Fox 1 (liderado por el Tte. 2.º Geise) será transportado por Whiskey 3 hasta la aldea de &lt;marker name="marker_31">Lolosalam&lt;/marker&gt;, donde se apearán y escalarán la montaña hacia la &lt;marker name="marker_6">Colina 2510&lt;/marker&gt; con la ayuda de varios burros. Una vez allí, establecerán una base y colocarán sus morteros para apoyar a Fox 3 en el Chowkay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1B8">
+        <English>The Chowkay Valley is one of the suspected positions where Shah and his men could appear in. Fox 1 and Fox 3 have been tasked with covering that valley. Move there and establish a patrol base to intercept them if possible.</English>
+        <Spanish>El valle de Chowkay es una de las posiciones sospechosas donde podrían aparecer Shah y sus hombres. Fox 1 y Fox 3 se encargarán de cubrir ese valle. Ve allí y establece una base de patrulla para interceptarlos si es posible.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1B8">
+        <English>Move to the Chowkay Valley</English>
+        <Spanish>Avanzar al valle de Chowkay</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Description_1B8">
+        <English>Follow your platoon leader to your objective, since he knows the way and has carefully studied all the mission objectives.</English>
+        <Spanish>Sigue al líder de tu pelotón hasta tu objetivo, ya que él conoce el camino y ha estudiado minuciosamente todos los objetivos de la misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Title_1B8">
+        <English>Follow Konnie</English>
+        <Spanish>Seguir a Konnie</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1B8">
+        <English>Shah's group has indeed reached the Chowkay! They're ambushing the Marines' patrol base in the valley! Defend the base from their machine guns, RPGs and mortars!</English>
+        <Spanish>¡El grupo de Shah ha llegado al Chowkay! ¡Están emboscando a la base de patrulla de los marines en el valle! ¡Defiende la base de sus ametralladoras, RPG y morteros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1B8">
+        <English>Defend the base</English>
+        <Spanish>Defender la base</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objEquip_Description_1B8">
+        <English>You've been suddenly awoken by a cacophony of gunfire and explosions! They've caught you with your pants down (literally). Grab your vest, your helmet and some ammo from the ammo box inside the base!</English>
+        <Spanish>¡De repente te ha despertado una cacofonía de disparos y explosiones! ¡Te han pillado en bragas (literalmente)! ¡Coge tu chaleco, tu casco y algo de munición de la caja de munición que hay dentro de la base!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objEquip_Title_1B8">
+        <English>Grab your gear</English>
+        <Spanish>Coger tu equipo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1B8">
+        <English>Corporal Einarson has been hit in his right wrist! He's bleeding out! Help him and stabilize him before he bleeds out!</English>
+        <Spanish>¡Han dado al cabo Einarson en su muñeca derecha! ¡Está sangrando! ¡Ayúdalo y estabilízalo antes de que se desangre!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1B8">
+        <English>Heal Einarson</English>
+        <Spanish>Curar a Einarson</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj4_Description_1B8">
+        <English>Regroup with Grissom and Pigeon, who set up a command post behind a large rock. See if they're alright and mainly inquire about the mortar and air support.</English>
+        <Spanish>Reagrúpate con Grissom y Pigeon, que han montado un puesto de mando detrás de una roca grande. Ve a ver si están bien y, sobre todo, pregunta por el apoyo aéreo y de morteros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj4_Title_1B8">
+        <English>Regroup with Grissom and Pigeon</English>
+        <Spanish>Reagruparse con Grissom y Pigeon</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj5_Description_1B8">
+        <English>Shah is throwing everything he has at us all at once! Defend the command post from his machine guns, RPGs and mortars!</English>
+        <Spanish>¡Shah nos está lanzando todo lo que tiene a la vez! ¡Defiende el puesto de mando de sus ametralladoras, RPG y morteros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj5_Title_1B8">
+        <English>Defend the command post</English>
+        <Spanish>Tomar Kezban</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj6_Description_1B8">
+        <English>Pigeon has requested medevac for our wounded. A Dustoff (a nickname for Army ambulance UH-60s) with Apache support is expected to arrive to the valley soon. Let's just hope there aren't any more trigger-happy RPG-wielding Taliban around...</English>
+        <Spanish>Pigeon ha solicitado evacuación para nuestros heridos. Se espera que llegue un Dustoff (apodo para las ambulancias UH-60 del Ejército) con apoyo de Apache al valle pronto. Esperemos que no haya más talibanes con RPG y gatillo fácil...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj6_Title_1B8">
+        <English>Wait for the Dustoff</English>
+        <Spanish>Esperar al Dustoff</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj7_Description_1B8">
+        <English>It's a new day in the Chowkay Valley. Talk to Staff Sergeant Crisp and check how the men are feeling.</English>
+        <Spanish>Es un nuevo día en el valle de Chowkay. Habla con el sargento primero Crisp y pregunta cómo están los hombres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj7_Title_1B8">
+        <English>Talk to Crisp</English>
+        <Spanish>Hablar con Crisp</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj8_Description_1B8">
+        <English>It's a new day in the Chowkay Valley. Talk to Captain Grissom and inquire about the current situation in the valley.</English>
+        <Spanish>Es un nuevo día en el valle de Chowkay. Habla con el capitán Grissom y pregunta sobre la situación actual en el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj8_Title_1B8">
+        <English>Talk to Grissom</English>
+        <Spanish>Hablar con Grissom</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1B8">
+        <English>Victory Point</English>
+        <Spanish>Punto de la victoria</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1B8">
+        <English>Victory Point Intro</English>
+        <Spanish>Punto de la victoria: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1B8">
+        <English>Victory Point Outro</English>
+        <Spanish>Punto de la victoria: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1B8">
+        <English>After the failure of Operation Red Wings, 2/3 Marines take it upon themselves to finish the job and thwart a prominent Taliban cell in Kunar Province before the 2005 parliamentary elections. They called it Operation Whalers.</English>
+        <Spanish>Tras el fracaso de la Operación Red Wings, los 2/3 Marines se encargan de terminar el trabajo y desbaratar una importante célula talibán en la provincia de Kunar antes de las elecciones parlamentarias de 2005. La llamaron Operación Whalers.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescriptionLocked_1B8">
+        <English>Complete the Lone Survivor campaign to unlock this mission.</English>
+        <Spanish>Completa la campaña «El único superviviente» para desbloquear esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1B8">
+        <English>&lt;t color='#09ff00' size='3.5'&gt;VICTORY POINT&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'As maniacally as the Japanese held their ground on Iwo Jima, Marines still raised the flag over Mount Suribachi.&lt;br/&gt;As overwhelming a force as the Chinese may have projected at Korea's Chosin Reservoir, the Marines still crushed their advance.&lt;br/&gt;And as deeply entrenched and fanatically emboldened as the radical Islamic forces surrounding two Marine Corps platoons in the Chowkay Valley may have been in August of 2005, those Marines still decimated their foe.'&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#09ff00' size='3.5'&gt;PUNTO DE LA VICTORIA&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Por muy maniáticamente que los japoneses mantuvieran su posición en Iwo Jima, los Marines aun así izaron la bandera sobre el monte Suribachi.&lt;br/&gt;Por muy abrumadora que fuera la fuerza china en el embalse coreano de Chosin, los Marines aun así aplastaron su avance.&lt;br/&gt;Y por muy atrincheradas y fanáticamente envalentonadas que estuvieran las fuerzas islámicas radicales que rodeaban a dos pelotones del Cuerpo de Marines en el valle de Chowkay en agosto de 2005, los Marines aun así diezmaron a su enemigo.»&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1B8">
+        <English>SSgt Lee Crisp III</English>
+        <Spanish>Sgto. 1.º Lee Crisp III</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_2_1B8">
+        <English>2ndLt JJ 'Konnie' Konstant</English>
+        <Spanish>Tte. 2.º «Konnie» Konstant</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1B8">
+        <English>2nd Bn., 3rd Marines</English>
+        <Spanish>2.º Bat., 3.er Marines</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1B8">
+        <English>Approaching Chowkay Valley</English>
+        <Spanish>Rumbo al valle de Chowkay</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1B8">
+        <English>August 13, 2005 - 0632</English>
+        <Spanish>13 agosto 2005 - 0632</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_2_1B8">
+        <English>August 14, 2005</English>
+        <Spanish>14 agosto 2005</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_3_1B8">
+        <English>August 16, 2005</English>
+        <Spanish>16 agosto 2005</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_geise_radio_1B8">
+        <English>Fox 1 (2ndLt Geise)</English>
+        <Spanish>Fox 1 (Tte. 2.º Geise)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_middendorf_dialogue_1B8">
+        <English>1STLT MIDDENDORF</English>
+        <Spanish>TTE. 1.º MIDDENDORF</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_middendorf_radio_1B8">
+        <English>Fox 1 (1stLt Middendorf)</English>
+        <Spanish>Fox (Tte. 1.º Middendorf)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_konnie_radio_1B8">
+        <English>Fox 3 (2ndLt Konnie)</English>
+        <Spanish>Fox 3 (Tte. 2.º Konnie)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_grip21_radio_1B8">
+        <English>Grip 21</English>
+        <Spanish>Grip 21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_icepalace_radio_1B8">
+        <English>Ice Palace 1</English>
+        <Spanish>Ice Palace 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lee_radio_1B8">
+        <English>Fox 3 (SSgt Crisp)</English>
+        <Spanish>Fox 3 (Sgto. 1.º Crisp)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_konnie_dialogue_1B8">
+        <English>2NDLT KONNIE</English>
+        <Spanish>TTE. 2.º KONNIE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lee_dialogue_1B8">
+        <English>SSGT CRISP</English>
+        <Spanish>SGTO. 1.º CRISP</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_epperly_dialogue_1B8">
+        <English>LCPL EPPERLY</English>
+        <Spanish>SDO. 1.ª EPPERLY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_grissom_radio_1B8">
+        <English>Fox Actual (Capt Grissom)</English>
+        <Spanish>Fox Jefe (Cap. Grissom)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_grissom_dialogue_1B8">
+        <English>CAPT GRISSOM</English>
+        <Spanish>CAP. GRISSOM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_pigeon_radio_1B8">
+        <English>Venom 11 (Pigeon)</English>
+        <Spanish>Venom 11 (Pigeon)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_pigeon_dialogue_1B8">
+        <English>PIGEON</English>
+        <Spanish>PIGEON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_machado_dialogue_1B8">
+        <English>LCPL MACHADO</English>
+        <Spanish>SDO. 1.ª MACHADO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_wilson_dialogue_1B8">
+        <English>LCPL WILSON</English>
+        <Spanish>SDO. 1.ª WILSON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_einarson_dialogue_1B8">
+        <English>CPL EINARSON</English>
+        <Spanish>CABO EINARSON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_doc_dialogue_1B8">
+        <English>LCPL BEEMAN</English>
+        <Spanish>SDO. 1.ª BEEMAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_jimmy_dialogue_1B8">
+        <English>JIMMY</English>
+        <Spanish>JIMMY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1B8">
+        <English>Fuckin' donkeys!</English>
+        <Spanish>¡Putos burros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1B8">
+        <English>You guys movin' yet?</English>
+        <Spanish>¿Os estáis moviendo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1B8">
+        <English>Fuckin' donkeys! We're moving, but it's the damn donkeys. They're... delaying us.</English>
+        <Spanish>¡Putos burros! Nos movemos, pero son los putos burros. Nos están... retrasando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1B8">
+        <English>All right already. You need to push hard, Geise. Those donkeys, you got 'em loaded up, right? They moving with you guys?</English>
+        <Spanish>Bueno está. Tienes que hacer presión, Geise. Los burros, ¿los habéis cargado, verdad? ¿Se mueven con vosotros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1B8">
+        <English>No, sir! The fuckin' donkeys are fuckin' fuckin' each other!</English>
+        <Spanish>¡No, señor! ¡Los putos burros se están puto follando entre sí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1B8">
+        <English>What? Each other?</English>
+        <Spanish>¿Cómo? ¿Entre sí?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1B8">
+        <English>Yeah. They're mounting up on one another. And some committed suicide— they just jumped off the cliffs! It's a circus. None of us can control these... donkeys!</English>
+        <Spanish>Sí. Están montados unos encima de otros. Y algunos se han suicidado, ¡han saltado de los acantilados! Esto es un circo. ¡Nadie puede controlar a estos... burros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1B8">
+        <English>Get all the gear and supplies off the donkeys and spread load everything. Our packs are gonna weigh a ton, but we can't have us delayed any longer. Just get moving!</English>
+        <Spanish>Bajen todo el equipo y las provisiones de los burros y distribúyanlo todo. Nuestras mochilas van a pesar una burrada, pero no podemos retrasarnos más. ¡Pónganse en marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1B8">
+        <English>Damn, Lieutenant, the hell with those bad guys, it's this valley and this heat that's gonna do us all in.</English>
+        <Spanish>Coño, teniente, que les den a los malos, este valle y este calor son los que van a acabar con nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1B8">
+        <English>It's just gonna keep getting more fun. I can't wait for more of it. Just think about all the fun we'll have once the bad guys start shootin' at us. It's all about smokin' cigarettes and slingin' guns, Crisp.</English>
+        <Spanish>Y esto acaba de empezar. Qué ganas tengo. Piensa en lo bien que nos lo vamos a pasar cuando los malos empiecen a dispararnos. La cosa va de fumar y pistolear, Crisp.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1B8">
+        <English>Commander Konstant! The man is confused about you and the Marines. He thinks that you may be the Russians.</English>
+        <Spanish>¡Comandante Konstant! El hombre está confundido con usted y los marines. Cree que son los rusos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1B8">
+        <English>The Russians? Jimmy— tell him that in fact we are the Russians, and that it is 1987, and we're about to defeat the Americans in the Cold War.</English>
+        <Spanish>¿Los rusos? Jimmy, dile que, efectivamente, somos los rusos, y que es 1987, y que estamos a punto de derrotar a los americanos en la Guerra Fría.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1B8">
+        <English>Come on, comrades, onward for Mother Russia.</English>
+        <Spanish>Venga, camaradas, por la madre Rusia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1B8">
+        <English>Let's go, Marines! Keep up the pace and keep your eyes sharp!</English>
+        <Spanish>¡Vamos, marines! ¡Mantened el ritmo y abrid los ojos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1B8">
+        <English>Devil Dogs, we're entering the Chowkay! No pussying out now!</English>
+        <Spanish>¡Devil Dogs, estamos entrando en el Chowkay! ¡Nada de cagarse ahora!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1B8">
+        <English>All right, this looks as good a spot as any in this damn valley. Konnie, order your men to get set up.</English>
+        <Spanish>Muy bien, este parece un lugar tan bueno como cualquier otro en este maldito valle. Konnie, ordena a tus hombres que se preparen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1B8">
+        <English>Marines, get your E-tools out! We're gonna build us a little base.</English>
+        <Spanish>¡Marines, sacad las palas! Nos vamos a construir una base.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1B8">
+        <English>Okay, Marines. We're done. We're staying here until further notice.</English>
+        <Spanish>Vale, marines. Ya está. Nos quedaremos aquí hasta nuevo aviso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1B8">
+        <English>We just went nearly a mile... a mile up. Pretty much five thousand feet vertical in the last 18 hours. Good job, Marines.</English>
+        <Spanish>Acabamos de subir un kilómetro... kilómetro y medio. Básicamente 1500 metros en vertical en las últimas 18 horas. Buen trabajo, marines.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1B8">
+        <English>Nobody does anything but keep an eye out for the enemy. Nobody takes their eyes off the surroundin' terrain. Nobody sleeps, nobody eats.</English>
+        <Spanish>Nadie hace nada más que vigilar al enemigo. Nadie aparta la vista del terreno circundante. Nadie duerme, nadie come.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1B8">
+        <English>Me and Pigeon are gonna set up a CP down there, next to that big rock. Stay frosty, gents.</English>
+        <Spanish>Pigeon y yo vamos a montar un puesto de mando ahí abajo, al lado de esa roca grande. Estén alerta, caballeros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1B8">
+        <English>Fox 1 to Fox 3, we've finally set up a patrol base on Hill 2510. Our mortar tubes are ready to support you.</English>
+        <Spanish>Fox 1 a Fox 3, por fin hemos montado una base de patrulla en la Colina 2510. Nuestros morteros están listos para apoyarlos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1B8">
+        <English>Received, Fox 1. Glad you're covering our backs.</English>
+        <Spanish>Recibido, Fox 1. Me alegro de que nos cubran las espaldas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1B8">
+        <English>Sir! Sir, Ahmad Shah and his men are looking for you. We have heard them talking over their ICOMs!</English>
+        <Spanish>¡Señor! Señor, Ahmad Shah y sus hombres los están buscando. ¡Los hemos oído hablar por sus ICOM!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1B8">
+        <English>What are they saying, Jimmy?</English>
+        <Spanish>¿Qué dicen, Jimmy?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1B8">
+        <English>They have a lot of fighters. I don't know how many. But a lot. And they are looking for the Marines. They are coming into the Chowkay Valley!</English>
+        <Spanish>Tienen muchos combatientes. No sé cuántos. Pero muchos. Y están buscando a los marines. ¡Vienen al valle de Chowkay!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1B8">
+        <English>Not to worry. If they come, they'll meet the Marines head-on. And nobody meets the Marines and goes off scot-free.</English>
+        <Spanish>No hay que preocuparse. Si vienen, se enfrentarán a los Marines. Y nadie se enfrenta a los Marines y se va de rositas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1B8">
+        <English>This is gonna be a long night, Lieutenant.</English>
+        <Spanish>Va a ser una noche larga, teniente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1B8">
+        <English>Complacency kills! Don't ever fucking forget it. Complacency kills! You hear me? Get ya gear on NOW!</English>
+        <Spanish>¡La complacencia mata! No lo olvidéis nunca, joder. ¡La complacencia mata! ¿Me oís? ¡Poneos el equipo AHORA!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1B8">
+        <English>No. Let them rest—without their flaks and Kevlars. Just got off the hook with battalion.</English>
+        <Spanish>No. Deja que descansen, sin sus chalecos y sus kevlars. Acabo de hablar con el batallón.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1B8">
+        <English>We're moving again at 1200 and I want half the Marines resting at any one time while the other half stands to.</English>
+        <Spanish>Nos pondremos en marcha a las 1200 y quiero que la mitad de los marines descanse mientras la otra mitad monta guardia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1B8">
+        <English>And when I say rest, I mean rest, not just laying there gettin' their heads cooked inside their helmets and having body armor jamming into their ribs. It's gonna be a bitch again today and I want to minimize heat casualties.</English>
+        <Spanish>Y cuando digo descansar, digo descansar, no estar ahí tumbados mientras se asan con el casco puesto y el blindaje se les clava en las costillas. Hoy va a ser un día de mierda también y quiero minimizar las bajas por el calor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1B8">
+        <English>Roger that. Okay, Devil Dogs! Rest up—without your gear on—but keep the fuck in a covered position.</English>
+        <Spanish>Recibido. ¡Vale, Devil Dogs! Descansad —sin el equipo puesto—, pero poneos a puto cubierto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1B8">
+        <English>Konnie! Get over here!</English>
+        <Spanish>¡Konnie! ¡Ven para acá!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1B8">
+        <English>Coming!</English>
+        <Spanish>¡Voy!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1B8">
+        <English>Shit! Contact, contact! RPG and machine gun fire from the ridgeline!</English>
+        <Spanish>¡Mierda! ¡Contacto, contacto! ¡Fuego de RPG y ametralladoras desde la cresta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1B8">
+        <English>Machado!</English>
+        <Spanish>¡Machado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1B8">
+        <English>Yes, sir!</English>
+        <Spanish>¡Sí, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1B8">
+        <English>Where's your Kevlar?</English>
+        <Spanish>¿Y tu kevlar?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1B8">
+        <English>Uh... Where's yours, sir?</English>
+        <Spanish>Eh... ¿Y el suyo, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1B8">
+        <English>Right here next to Epperly's flak and all his rounds that I'm about to send downrange on these motherfuckers. Take your helmet and get back to what you were doin'!</English>
+        <Spanish>Justo al lado del chaleco de Epperly y todas las balas que voy a enviar a estos hijos de puta. ¡Coge tu casco y vuelve a lo que estabas haciendo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1B8">
+        <English>Oorah! Sir!</English>
+        <Spanish>¡Oorah! ¡Señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1B8">
+        <English>I wanna hear those guns talkin' to each other, got that, Devil Dogs? I wanna hear 'em talking to each other. Talkin' guns!</English>
+        <Spanish>Quiero oír esas armas hablando entre ellas, ¿entendido, Devil Dogs? Quiero oírlas hablar entre ellas. ¡Armas parlantes!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1B8">
+        <English>Combined arms! These motherfuckers are doin' it just like the Marine Corps does it!</English>
+        <Spanish>¡Armas combinadas! ¡Estos hijos de puta lo están haciendo igual que el Cuerpo de Marines!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1B8">
+        <English>Corpsman! Corpsman! They put a bullet in my ass cheek!</English>
+        <Spanish>¡Sanitario! ¡Sanitario! ¡Me han clavado una bala en el culo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1B8">
+        <English>Doc, patch him up!</English>
+        <Spanish>¡Doc, cúralo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1B8">
+        <English>Plug it with a fuckin' rock! Put the rock under the tourniquet, and that'll slow the bleeding!</English>
+        <Spanish>¡Métele una puta piedra! ¡Pon la piedra debajo del torniquete y eso detendrá la hemorragia!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1B8">
+        <English>Where the fuck is our mortar support?</English>
+        <Spanish>¿Dónde coño está nuestro apoyo de morteros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message49_1B8">
+        <English>Sir! Sir! I've been shot! I've been shot. Oh God! I've been shot! I think I'm gonna die!</English>
+        <Spanish>¡Señor! ¡Señor! ¡Me han disparado! Me han disparado. ¡Dios! ¡Me han disparado! ¡Creo que voy a morir!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_1B8">
+        <English>You're gonna be okay, Einarson. You'll be just fine.</English>
+        <Spanish>Te pondrás bien, Einarson. Estarás de puta madre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_1B8">
+        <English>Sir, do you think I can get the Silver Star for this?</English>
+        <Spanish>Señor, ¿cree que me pueden dar la Estrella de Plata por esto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message52_1B8">
+        <English>You'll get the Purple Heart, for sure. Not too certain about the Silver Star, though.</English>
+        <Spanish>Te darán el Corazón Púrpura, eso seguro. De la Estrella de Plata no estoy tan seguro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message53_1B8">
+        <English>Okay. Sounds good...</English>
+        <Spanish>Vale. Por mí bien...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1B8">
+        <English>Greenfield! Get your ass here and take care of Einarson!</English>
+        <Spanish>¡Greenfield! ¡Mueve el culo para acá y encárgate de Einarson!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1B8">
+        <English>Sir! Sir! SIR! How the fuck you not gettin' your ass shot off, sir?</English>
+        <Spanish>¡Señor! ¡Señor! ¡SEÑOR! ¿Cómo cojones no le están reventando el culo, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1B8">
+        <English>I don't know. I have no idea. Thought for a minute it was raining!</English>
+        <Spanish>No lo sé. No tengo ni idea. ¡Por un momento pensaba que estaba lloviendo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1B8">
+        <English>You're fucking crazy, Lieutenant! I mean, damned motherfuckin' crazy!</English>
+        <Spanish>¡Está loco, teniente! O sea, ¡como una putísima chota!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1B8">
+        <English>You guys good? I wanna make sure you know where you need to shoot. What's the status, Staff Sergeant?</English>
+        <Spanish>¿Vais bien? Quiero asegurarme de que sabéis adónde disparar. ¿Cuál es el estado, sargento primero?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message59_1B8">
+        <English>Yo crazy ass is fucking crazy as ever, dat's the status!</English>
+        <Spanish>¡Que está tan puto chalado como siempre, ese es el estado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1B8">
+        <English>Don't make me laugh. I'm afraid I might hurt myself. Now really, what's the status?</English>
+        <Spanish>No me hagas reír. Me temo que podría hacerme daño. Ahora en serio, ¿cuál es el estado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1B8">
+        <English>Einarson's got it pretty good. But the corpsman says he'll make it. Wilson got shot twice in the leg, once in the ass. He'll make it too.</English>
+        <Spanish>A Einarson le han dado de bien. Pero el sanitario dice que saldrá de esta. A Wilson le han disparado dos veces en la pierna y una en el culo. También saldrá.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1B8">
+        <English>Stuffed rocks in his arteries to keep him alive—I don't know, some crazy corpsman trick. Three others got shot, but not bad enough that they can't keep fighting.</English>
+        <Spanish>Le han metido piedras en las arterias para mantenerlo con vida; yo qué sé, un truco loco de sanitario. Han disparado a otros tres, pero no tanto como para no poder luchar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63_1B8">
+        <English>Good. I'm off to Grissom and Pigeon.</English>
+        <Spanish>Bien. Me voy con Grissom y Pigeon.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message64_1B8">
+        <English>Keep yo crazy ass head down, Lieutenant!</English>
+        <Spanish>¡Agache esa cabeza de loco, teniente!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message65_1B8">
+        <English>We've got one KIA, Lieutenant! Need CASEVAC on the double!</English>
+        <Spanish>¡Tenemos una baja, teniente! ¡Necesitamos CASEVAC a la voz de ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message66_1B8">
+        <English>Sir.</English>
+        <Spanish>Señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message67_1B8">
+        <English>What, Konnie?</English>
+        <Spanish>¿Qué, Konnie?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message68_1B8">
+        <English>Does battalion know what's going on?</English>
+        <Spanish>¿Sabe el batallón lo que está pasando?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message69_1B8">
+        <English>No.</English>
+        <Spanish>No.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message70_1B8">
+        <English>We got mortars?</English>
+        <Spanish>¿Tenemos morteros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message71_1B8">
+        <English>No. Not yet.</English>
+        <Spanish>No. Aún no.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message72_1B8">
+        <English>Pigeon? We got CAS yet?</English>
+        <Spanish>¿Pigeon? ¿Tenemos apoyo aéreo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message73_1B8">
+        <English>No.</English>
+        <Spanish>No.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message74_1B8">
+        <English>Well then, what do we have?</English>
+        <Spanish>Pues ¿qué tenemos entonces?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message75_1B8">
+        <English>Radios that don't fucking work because this fucking Afghan heat is making them melt down! Mountains are supposed to be damn cold. Not like 120 degrees in the shade!</English>
+        <Spanish>¡Radios que no funcionan porque este puto calor afgano las está derritiendo! ¡Se supone que en el monte hace frío, no 50 grados a la sombra!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message76_1B8">
+        <English>Well then, you know what they say? Never go anywhere without at least two captains.</English>
+        <Spanish>Ya sabe lo que dicen, nunca vayas a ninguna parte sin al menos dos capitanes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message77_1B8">
+        <English>Not fucking now, Konnie. This isn't the time for your smart ass bullshit!</English>
+        <Spanish>Ahora no, Konnie, joder. ¡No es hora de tus gilipolleces de listillo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message78_1B8">
+        <English>Eighty-ones good to go, sir, got Lieutenant Middendorf on the hook.</English>
+        <Spanish>Los 81 están listos, señor, tengo al teniente Middendorf al habla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message79_1B8">
+        <English>Excellent!</English>
+        <Spanish>¡Excelente!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message80_1B8">
+        <English>Dorf, you're seeing 'em better as I am! Hit the fucking ridgeline NOW!</English>
+        <Spanish>¡Dorf, tú los estás viendo mejor que yo! ¡Dale a la puta cresta YA!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message81_1B8">
+        <English>I guess that makes this our really lucky day. Somebody get me a lottery ticket.</English>
+        <Spanish>Supongo que eso hace que este sea nuestro día de suerte. Que alguien me traiga un décimo de lotería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message82_1B8">
+        <English>Okay, motherfuckers. Now let's get some.</English>
+        <Spanish>Vale, hijos de puta. A por ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message84_1B8">
+        <English>Dorf, your mission is dead on. The only adjustment I have will be to have you guys walk rounds along the ridge, just to make sure you get all of 'em, especially the fleeing ones.</English>
+        <Spanish>Dorf, tu misión da en el clavo. El único ajuste que te voy a dar es que repaséis con vuestros proyectiles toda la cresta para asegurarnos de cargarnos a todos, sobre todo a los que huyen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message85_1B8">
+        <English>Got battalion on the line! A-10s rolling in.</English>
+        <Spanish>¡Tengo al batallón en la línea! Vienen A-10.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message86_1B8">
+        <English>Good. We need Dustoffs for the wounded. Get 'em in here. But work those A-10s for everything you can. Gun run after gun run on those fuckers running into the mountains.</English>
+        <Spanish>Bien. Necesitamos Dustoffs para los heridos. Tráelos. Pero dales tarea a esos A-10. Pasada tras pasada de ametralladoras contar esos capullos que huyen a las montañas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message87_1B8">
+        <English>Middendorf, I need a mark for the A-10s.</English>
+        <Spanish>Middendorf, necesito una marca para los A-10.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message88_1B8">
+        <English>There you have it.</English>
+        <Spanish>Ahí la llevas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message89_1B8">
+        <English>Grip 21, this is Venom 11. Target marked for you. Our position is roughly 400 meters to the north, watch your fires. How copy, over?</English>
+        <Spanish>Grip 21, aquí Venom 11. Blanco marcado. Nuestra posición está a unos 400 metros al norte, mucho cuidado. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message90_1B8">
+        <English>Venom 11, tally your target. Gun run inbound for glory, bearing 151.</English>
+        <Spanish>Venom 11, blanco confirmado. Pasada de ametralladoras en camino, dirección 151.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message91_1B8">
+        <English>Thanks for a great job.</English>
+        <Spanish>Gracias por el buen trabajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message92_1B8">
+        <English>No problem. Anytime, Venom.</English>
+        <Spanish>De nada. A mandar, Venom.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message93_1B8">
+        <English>Get some! Motherfuckers be turnin' tail and runnin'! Clear some shit hot and shred those bastards! Dorf's marks are on the ground!</English>
+        <Spanish>¡Tomad esa! ¡Los hijos de puta se están dando la vuelta! ¡Da las órdenes y pulveriza a esos cabrones! ¡Las marcas de Dorf están en el suelo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message94_1B8">
+        <English>It's over.</English>
+        <Spanish>Se acabó.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message95_1B8">
+        <English>Okay. They're close. Approaching our position.</English>
+        <Spanish>Vale. Están cerca. Se dirigen a nuestra posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message96_1B8">
+        <English>Got a message from battalion. CJTF-76 is demanding a SEAD package before they'll let any Dustoff inbound.</English>
+        <Spanish>He recibido un mensaje del batallón. El CJTF-76 exige un paquete SEAD antes de dejar entrar a cualquier Dustoff.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message97_1B8">
+        <English>What! Let's get those birds on the ground, get the Marines back to Bagram! What the fuck good is a suppression package going to do now? Those guys are in retreat!</English>
+        <Spanish>¡Qué! ¡Llevemos esos pájaros a tierra, que los marines vuelvan a Bagram! ¿De qué coño va a servir un paquete de supresión ahora? ¡Esos tipos se retiran!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message98_1B8">
+        <English>Check in the box. Anything with a helicopter needs to be done to the letter of the rules after the Chinook shootdown, every box needs to be checked. Let's just do what we gotta do to get these guys out.</English>
+        <Spanish>Para marcar la casilla. Todo lo que conlleve un helicóptero tiene que hacerse a rajatabla después de lo del Chinook, hay que marcar cada casilla. Hagamos lo que haya que hacer para sacar a estos chicos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message99_1B8">
+        <English>Sir, I think you should know that four Army helicopters just entered the Chowkay Valley.</English>
+        <Spanish>Señor, creo que debería saber que cuatro helicópteros del Ejército acaban de entrar en el valle de Chowkay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message100_1B8">
+        <English>SEAD complete. Dustoffs are here. They're ready to extract the wounded.</English>
+        <Spanish>SEAD terminado. Los Dustoffs están aquí. Están listos para extraer a los heridos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message101_1B8">
+        <English>Okay. Let's get these Marines the fuck out of here.</English>
+        <Spanish>Vale. Saquemos a estos marines de aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message102_1B8">
+        <English>Cherry ice.</English>
+        <Spanish>Congelado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message103_1B8">
+        <English>Konnie, I don't think they're comin' to get us.</English>
+        <Spanish>Konnie, creo que no van a venir a por nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message104_1B8">
+        <English>Sir, I want to be very clear when I tell you that I think we need an extract. We're red on ammo, water, medical supplies, and with five Marines now gone, we have a serious force-strength issue.</English>
+        <Spanish>Señor, quiero ser muy claro cuando le digo que creo que necesitamos una extracción. Estamos al límite de municiones, agua, suministros médicos, y con cinco marines menos, tenemos un serio problema de fuerza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message105_1B8">
+        <English>Yeah, Konstant. I understand what's goin' on. But from what I'm hearin' on the net, we're not gettin' outta here—not by helicopter, at least. They just almost lost another helicopter. They're gonna do everything they can to avoid another shoot-down, meaning that when we leave this place, we leave it on foot.</English>
+        <Spanish>Ya, Konstant, entiendo lo que pasa. Pero, según oigo en la red, no vamos a salir de aquí, no en helicóptero al menos. Casi pierden otro helicóptero ahora. Van a hacer todo lo posible por evitar que derriben otro, lo que quiere decir que, cuando nos vayamos de este lugar, lo haremos a pie.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message106_1B8">
+        <English>So then we consolidate—Middendorf and his mortars moving to our position?</English>
+        <Spanish>¿Entonces nos consolidamos, que Middendorf y sus morteros se muevan a nuestra posición?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message107_1B8">
+        <English>Everything's evolving, every minute. But that's what I'd prefer at this point.</English>
+        <Spanish>Todo evoluciona, cada minuto. Pero eso es lo que preferiría en este momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message108_1B8">
+        <English>You know, sir, we're also red on cigarettes.</English>
+        <Spanish>Sabrá, señor, que también estamos al límite de cigarrillos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message109_1B8">
+        <English>I know. We're smokin' like champs up here. Be bad if we ran out.</English>
+        <Spanish>Lo sé. Estamos fumando como campeones. Sería una putada quedarnos a cero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message110_1B8">
+        <English>Well, don't worry. Middendorf's got more. We'll consolidate forces, and then we'll raid Dorf's smokes.</English>
+        <Spanish>No se preocupe, Middendorf tiene más. Consolidaremos fuerzas y saquearemos los pitis de Dorf.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message111_1B8">
+        <English>I guess this is what they mean when they say 'alone and unafraid.'</English>
+        <Spanish>Supongo que a esto se refieren cuando dicen «solos e impávidos».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message112_1B8">
+        <English>Sir... At least we have each other.</English>
+        <Spanish>Señor... Al menos nos tenemos el uno al otro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message113_1B8">
+        <English>Hey, man. How you doin'?</English>
+        <Spanish>Ey, tío. ¿Cómo estás?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message114_1B8">
+        <English>I’m doin' a lot better than you guys. I'm glad you're still alive. So what happened?</English>
+        <Spanish>Mucho mejor que vosotros. Me alegro de que sigas vivo. ¿Qué ha pasado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message115_1B8">
+        <English>I think we killed a lot of bad guys. Is that bad?</English>
+        <Spanish>Creo que hemos matado a muchos malos. ¿Está mal?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message116_1B8">
+        <English>I don't think it's bad. I think it's great. How'd you not get your ass shot off?</English>
+        <Spanish>No creo que esté mal. Creo que está genial. ¿Cómo no te han reventado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message117_1B8">
+        <English>I'm good at a lot of things, Ben, but I'm best at bein' lucky, I guess.</English>
+        <Spanish>Se me dan bien muchas cosas, Ben, pero lo mejor que se me da es tener suerte, supongo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message118_1B8">
+        <English>Crisp. I told everyone yesterday to 'shave away a new day'... yet I see some guys with stubble. 'Get those bristly faces nice and smooth,' I told them.</English>
+        <Spanish>Crisp. Ayer les dije a todos que se «afeitaran para recibir el nuevo día»... pero veo hombres con barbas de tres días. «Dejen esas caras erizadas bien suavecitas», les dije.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message119_1B8">
+        <English>Some of these grunts, you know, Lieutenant, they had hairy armpits when they were like eleven years old. Shit grows fast, even up here.</English>
+        <Spanish>Algunos de estos curritos, ya sabe, teniente, tenían sobacos peludos cuando tenían como once años. Esa mierda crece rápido, incluso aquí arriba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message120_1B8">
+        <English>It will lift their spirits. See to it, Staff Sergeant.</English>
+        <Spanish>Les subirá el ánimo. Encárguese, sargento primero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message121_1B8">
+        <English>So we’re not goin' any higher, huh?</English>
+        <Spanish>O sea que no vamos a subir más, ¿eh?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message122_1B8">
+        <English>As of now, no. We're headed back. Task Force Devil figures that what took us sixteen hours to climb up will take 48 hours to get out of.</English>
+        <Spanish>Por ahora, no. Vamos a volver. La Fuerza Operativa Devil imagina que lo que nos costó 16 horas subir nos costará 48 horas bajar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message123_1B8">
+        <English>Sir, that's funny to me. I wish we could stay up here for weeks, sir, at least until we get every last of Ahmad Shah's little—now littler—army.</English>
+        <Spanish>Señor, tiene gracia. Ojalá pudiéramos quedarnos aquí semanas, señor, al menos hasta cargarnos al último del pequeño —ahora más pequeño— ejército de Ahmad Shah.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_1B8">
+        <English>I'm with you, Lieutenant. Really, I think we should set up a combat outpost right up here, permanently man the place. That's the only way to do it.</English>
+        <Spanish>Yo estoy contigo, teniente. En serio, creo que deberíamos montar un puesto de avanzada justo aquípermanentemente tripulado. Es la única manera de hacerlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message125_1B8">
+        <English>Or just take care of 'em all right now—I mean, I guess we have less than, what, 24 hours to do it?</English>
+        <Spanish>O simplemente encargarnos de todos ahora mismo. Quiero decir, nos quedan cuánto, ¿24 horas para ello?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message126_1B8">
+        <English>Well, yeah. If they attack again.</English>
+        <Spanish>A ver, sí. Si atacan otra vez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message127_1B8">
+        <English>Come and get some... bitches.</English>
+        <Spanish>Venid a por nosotros... mamones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message128_1B8">
+        <English>Sir, ICOM traffic. They are asking that the Marines just leave. They say that there is no reason for you to be in the valley.</English>
+        <Spanish>Señor, tráfico de ICOM. Piden que los marines se vayan. Dicen que no hay razón para que estén en el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message129_1B8">
+        <English>Well, we got six reasons recovering at Bagram.</English>
+        <Spanish>Bueno, tenemos seis razones recuperándose en Bagram.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message130_1B8">
+        <English>We need to move our camp around—not by much—but displace everyone. You can bet that by now, Shah knows exactly where our command post is located.</English>
+        <Spanish>Tenemos que mover el campamento, no mucho, pero desplazar a todos. Con toda seguridad Shah sabe exactamente dónde se encuentra nuestro puesto de mando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message131_1B8">
+        <English>He probably also knows the position of our machine guns and our perimeter defenses.</English>
+        <Spanish>Probablemente también sepa la posición de nuestras ametralladoras y nuestras defensas perimetrales.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message132_1B8">
+        <English>Sir, ICOM traffic!</English>
+        <Spanish>¡Señor, tráfico de ICOM!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message133_1B8">
+        <English>Oh, great, Jimmy. More ICOM traffic. Let me guess, there's nine thousand of them, and they all got flamethrowers.</English>
+        <Spanish>Oh, genial, Jimmy. Más tráfico de ICOM. Deja que adivine, son 9000 y tienen lanzallamas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message134_1B8">
+        <English>Listen, Konstant, we need to take every transmission seriously. What are you hearing, Jimmy?</English>
+        <Spanish>Escucha, Konstant, tenemos que tomarnos todas las transmisiones en serio. ¿Qué has oído, Jimmy?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message135_1B8">
+        <English>There are two groups, and they are talking to each other. The man from the first group said, 'We are all in position, are you there yet?' And then a voice from the other group said, 'Yes, we are all here,' and then the first guy asked, 'How many men do you have?' And that man responded that he had 40.</English>
+        <Spanish>Hay dos grupos y están hablando entre ellos. El hombre del primer grupo dijo: «Estamos todos en posición, ¿ya habéis llegado?». Y entonces una voz del otro grupo dijo: «Sí, estamos todos», y entonces el primero preguntó: «¿Cuántos hombres tienes?». Y ese hombre respondió que tenía cuarenta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message136_1B8">
+        <English>Well, if we've heard that they're massing between 40 and 60 guys to come get us, we've heard it a million times. But let's stand to anyway.</English>
+        <Spanish>Bueno, si hemos oído que están reuniendo entre 40 y 60 hombres para venir a por nosotros, lo hemos oído un millón de veces. Pero vamos a montar guardia igualmente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message137_1B8">
+        <English>And then, Commander Grissom...</English>
+        <Spanish>Y luego, comandante Grissom...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message138_1B8">
+        <English>What is it, Jimmy?</English>
+        <Spanish>¿Qué pasa, Jimmy?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message139_1B8">
+        <English>And then they said one more thing. The commander man said, 'Good, we’re all set, do everything we talked about—but no more talking on the radio or on the phones.' And that was it, Commander Grissom. The ICOM talk went dead.</English>
+        <Spanish>Y luego dijeron una cosa más. El comandante dijo: «Bien, todo listo, haced todo lo que hablamos, pero nada de hablar por la radio o por teléfono». Y se acabó, comandante Grissom. La charla de ICOM se silenció.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message140_1B8">
+        <English>Now that's somethin' we don't hear them do very often. Mouthy motherfuckers always tryin' to scare us with their ICOM chatter. They never give the order to shut up like that.</English>
+        <Spanish>Eso es algo que no les oímos hacer muy a menudo. Los bocazas hijos de puta siempre tratan de asustarnos con su charlas de ICOM. Nunca dan la orden de callarse así.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message141_1B8">
+        <English>Okay. Everybody stay sharp—as usual. Sounds like somethin's imminent—real imminent, like within minutes.</English>
+        <Spanish>Vale. Todo el mundo ojo avizor, como siempre. Parece que hay algo inminente, muy inminente, cosa de minutos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message142_1B8">
+        <English>Lieutenant! Lieutenant! LIEUTENANT!</English>
+        <Spanish>¡Teniente! ¡Teniente! ¡TENIENTE!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message143_1B8">
+        <English>Lieutenant Konstant! How you sleepin' through this! How the fuck you sleepin' through this?!</English>
+        <Spanish>¡Teniente Konstant! ¡Cómo se pone a dormir ahora! ¡Cómo coño se pone a dormir ahora!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message144_1B8">
+        <English>Wha-</English>
+        <Spanish>¿Qué...?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message145_1B8">
+        <English>Man, get yo crazy ass the fuck up—sir!</English>
+        <Spanish>¡Levanta ese puto culo de lunático, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message146_1B8">
+        <English>Corporal Shelton, get those mortar rounds down range! Use the grid ref we worked with last time!</English>
+        <Spanish>¡Cabo Shelton, envíe proyectiles de mortero! ¡Utilice las coordenadas que usamos la última vez!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message147_1B8">
+        <English>They're fuckin' firing rockets at us! Find some cover!</English>
+        <Spanish>¡Nos están disparando putos cohetes! ¡Poneos a cubierto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message148_1B8">
+        <English>This is Fox 1, I think everyone in Fox 3 is dead—the entire platoon!</English>
+        <Spanish>¡Aquí Fox 1, creo que todo Fox 3 está muerto, el pelotón entero!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message150_1B8">
+        <English>Pigeon needs us to work up targeting grids. He's got air on the way. But they need ten-digit grids for a JDAM drop.</English>
+        <Spanish>Pigeon necesita que trabajemos en las redes de objetivos. Tiene aire en camino. Pero necesitan coordenadas de diez dígitos para los JDAM.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message151_1B8">
+        <English>What's with your hand, Konnie? Guess your luck ran out tonight.</English>
+        <Spanish>¿Qué te ha pasado en la mano, Konnie? Supongo que se te ha acabado la suerte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message152_1B8">
+        <English>Hey, I just realized that it's my birthday. I just turned 24 this minute.</English>
+        <Spanish>Eh, me acabo de dar cuenta de que es mi cumple. Acabo de cumplir 24 años.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message153_1B8">
+        <English>What a birthday party you have here.</English>
+        <Spanish>Menuda fiesta de cumpleaños tienes montada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message154_1B8">
+        <English>Pigeon, here's your grid—0138413720! Pound those positions!</English>
+        <Spanish>¡Pigeon, aquí tienes tus coordenadas: 0138413720! ¡Revienta esas posiciones!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message155_1B8">
+        <English>Copy that, an Air Force B-52 is inbound.</English>
+        <Spanish>Recibido, un B-52 de la Fuerza Aérea va de camino.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message156_1B8">
+        <English>What's taking so long, Pigeon?</English>
+        <Spanish>¿Por qué tarda tanto, Pigeon?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message157_1B8">
+        <English>A B-52 doesn't turn on a dime, Lieutenant. Not like those A-10s that can just fly around in tight circles all day long inside the valley.</English>
+        <Spanish>Un B-52 no hace curvas cerradas, teniente. No como esos A-10 que pueden volar en círculos todo el día dentro del valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message158_1B8">
+        <English>Come on, Pigeon. Smoke check—</English>
+        <Spanish>Venga, Pigeon. Comprueba...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message159_1B8">
+        <English>Okay, Konstant. Shut the fuck up! And why don't you go and put some fucking pants on, Lieutenant? You look absolutely ridiculous standing there. A real model officer, aren't you? And what's with your hand?</English>
+        <Spanish>Vale, Konstant. ¡Cierra el puto pico! ¿Por qué no va a ponerse unos putos pantalones, teniente? Menuda pinta tiene. Un oficial modélico que es usted, ¿a que sí? ¿Y qué le ha pasado en la mano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message160_1B8">
+        <English>RPG, sir. Hit by shrapnel.</English>
+        <Spanish>RPG, señor. Me ha alcanzado metralla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message161_1B8">
+        <English>Great. We were almost able to say that we got in that huge contact with the enemy and got out of it completely unscathed. But you had to go and get hit by RPG shrapnel—the only one of all the Marines out here tonight to get injured.</English>
+        <Spanish>Estupendo. Estábamos a punto de decir que entramos en ese enorme contacto con el enemigo y salimos completamente ilesos. Pero te tenía que dar metralla de un RPG, el único de todos los marines aquí esta noche en ser herido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message162_1B8">
+        <English>But it’s my birthday, Captain.</English>
+        <Spanish>Pero es mi cumpleaños, capitán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message163_1B8">
+        <English>You're cleared hot, Ice Palace 1!</English>
+        <Spanish>¡Vía libre, Ice Palace 1!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message164_1B8">
+        <English>Roger, bomb on target within the minute.</English>
+        <Spanish>Recibido, bombas en el blanco en este minuto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message165_1B8">
+        <English>Think we got 'em all, sir?</English>
+        <Spanish>¿Cree que han sido todos, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message166_1B8">
+        <English>We'll know soon enough.</English>
+        <Spanish>Pronto lo sabremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message167_1B8">
+        <English>Echo and Golf platoons are already deeply entrenched within the Korengal, Shuryek and Narang valleys. Now it's our turn. We've been asigned the Chowkay Valley.</English>
+        <Spanish>Los pelotones Echo y Golf ya están atrincherados en los valles de Korengal, Shuryek y Narang. Nos toca a nosotros. Nos han asignado el valle de Chowkay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message168_1B8">
+        <English>Fox 1, you're dropping off at Lolosalam and heading with the donkeys towards Hill 2510. That's where you'll set up your mortar position.</English>
+        <Spanish>Fox 1, se bajarán en Lolosalam y se dirigirán con los burros hacia la Colina 2510. Ahí es donde establecerán su posición de mortero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message169_1B8">
+        <English>Fox 3, Whiskey 1's highbacks and hardbacks will ferry us to Mandingara, a village near the valley. Upon arriving, we'll pack up our stuff. We’re going to start walking—up.</English>
+        <Spanish>Fox 3, los Humvees de Whiskey 1 nos llevarán hasta Mandingara, una aldea cerca del valle. Al llegar, cogeremos nuestras cosas. Empezaremos a andar, hacia arriba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message170_1B8">
+        <English>And we’re gonna keep walking—up, and walking, and walking—up, until someone tells us to stop. Don’t ask where we’re walking up to. Don’t ask how long we’ll be walking. We just keep walking.</English>
+        <Spanish>Y seguiremos andado, hacia arriba, y andando, y andando, hacia arriba, hasta que alguien nos diga que paremos. No pregunten hacia dónde andamos. No pregunten cuánto tiempo estaremos andando. Solo seguiremos andando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message171_1B8">
+        <English>Hey, Lieutenant. How come you neva' give no pep speeches?</English>
+        <Spanish>Oiga, teniente. ¿Cómo es que nunca da discursos motivacionales?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message172_1B8">
+        <English>Because, Crisp—speeches are about as cool as a boner in sweatpants. You want a pep talk? How 'bout this: don't puss out.</English>
+        <Spanish>Porque, Crisp, los discursos molan tanto como que se te ponga dura en chándal. ¿Quieres una arenga? Toma esta: no os caguéis.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message173_1B8">
+        <English>That's about it. Fox Company, ready up. We leave at 2245. Oorah!</English>
+        <Spanish>Ya estaría. Compañía Fox, prepárense. Partimos a las 2245. ¡Oorah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message174_1B8">
+        <English>I hear we're goin' where Osama bin Laden himself used to run training camps. We're goin' after the guys who took down the SEALs.</English>
+        <Spanish>He oído que vamos a donde el propio Osama bin Laden dirigía campos de entrenamiento. Vamos a por los que abatieron a los SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message175_1B8">
+        <English>Osama bin my ass. You best be preservin' all yo energy for yo feet—not fo' runnin' yo mouth.</English>
+        <Spanish>Osama bin cojones. Más os vale ahorrar toda esa energía para darles a los pies, no para darle al palique.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_hint_1B8">
+        <English>If you run out of ammo, there's an ammo box in the base and lots of scattered magazines around!</English>
+        <Spanish>¡Si te quedas sin munición, hay una caja de munición en la base y muchos cargadores dispersos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_korengal_marker_1B8">
+        <English>Korengal Valley</English>
+        <Spanish>Valle de Korengal</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_shuryek_marker_1B8">
+        <English>Shuryek Valley</English>
+        <Spanish>Valle de Shuryek</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_narang_marker_1B8">
+        <English>Narang Valley</English>
+        <Spanish>Valle de Narang</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_chowkay_marker_1B8">
+        <English>Chowkay Valley</English>
+        <Spanish>Valle de Chowkay</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_hill2510_marker_1B8">
+        <English>Hill 2510</English>
+        <Spanish>Colina 2510</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_echo1_marker_1B8">
+        <English>Echo 1</English>
+        <Spanish>Echo 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_echo2_marker_1B8">
+        <English>Echo 2</English>
+        <Spanish>Echo 2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_echo3_marker_1B8">
+        <English>Echo 3</English>
+        <Spanish>Echo 3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_fox1_marker_1B8">
+        <English>Fox 1</English>
+        <Spanish>Fox 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_fox3_marker_1B8">
+        <English>Fox 3</English>
+        <Spanish>Fox 3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_golf1_marker_1B8">
+        <English>Golf 1</English>
+        <Spanish>Golf 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_golf2_marker_1B8">
+        <English>Golf 2</English>
+        <Spanish>Golf 2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_whiskey1_marker_1B8">
+        <English>Whiskey 1</English>
+        <Spanish>Whiskey 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_whiskey3_marker_1B8">
+        <English>Whiskey 3</English>
+        <Spanish>Whiskey 3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ronin_marker_1B8">
+        <English>Team Ronin</English>
+        <Spanish>Equipo Ronin</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage_1B8">
+        <English>&lt;t size='1.5'&gt;In June 2005, Operation Red Wings was launched with the objective of destroying a Taliban cell in Kunar Province. Said operation was a failure and resulted in the deaths of 19 US special operators. Hence, in August 2005, the 2nd Battalion, 3rd Marines conceived Operation Whalers, planning to finish the job and trap the cell's leader, Ahmad Shah, inside the valleys of the province.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;En junio de 2005, se lanzó la Operación Red Wings con el objetivo de destruir una célula talibán en la provincia de Kunar. Dicha operación fue un fracaso y se saldó con la muerte de 19 operadores especiales estadounidenses. Por ende, en agosto de 2005, el 2.º Batallón del 3.er Regimiento de Marines concibió la Operación Whalers, a fin de terminar el trabajo y encerrar al líder de la célula, Ahmad Shah, en los valles de la provincia.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_outromessage2_1B8">
+        <English>&lt;t size='1.5'&gt;Fox 3 suffered the most intense firefights of Operation Whalers in the upper Chowkay Valley, but other engagements occurred in the Korengal Valley and some in the Narang Valley. In the end, more than 40 militants were killed in Kunar Province during the operation.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Fox 3 sufrió los tiroteos más intensos de la Operación Whalers en el alto valle de Chowkay, pero otros enfrentamientos tuvieron lugar en el valle de Korengal y algunos en el valle de Narang. Al final, más de 40 militantes murieron en la provincia de Kunar durante la operación.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_outromessage3_1B8">
+        <English>&lt;t size='1.5'&gt;Whalers ended as a decisive victory for American and Coalition forces against the Taliban in the region, with Shah's cell being destroyed. Shah himself was seriously wounded but not killed, and fled into Pakistan. The 2005 Afghan election proceeded relatively unencumbered as a result of US operations in Kunar Province. After Operation Whalers, Shah was unable to stage attacks in Afghanistan again. He was eventually killed by Pakistani forces at a security checkpoint in April 2008.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Whalers terminó como una victoria decisiva de las fuerzas estadounidenses y de la Coalición contra los talibanes en la región, y se saldó con la destrucción de la célula de Shah. El propio Shah resultó gravemente herido pero no murió, sino que huyó a Pakistán. Las elecciones afganas de 2005 se produjeron relativamente sin impedimentos a consecuencia de las operaciones estadounidenses en la provincia de Kunar. Tras la Operación Whalers, Shah fue incapaz de volver a atentar en Afganistán. Lo terminaron matando fuerzas pakistaníes en un punto de control en abril de 2008.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1B8">
+        <English>Shah's cell destroyed</English>
+        <Spanish>Célula de Shah destruida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1B8">
+        <English>Shah ended up attacking the Chowkay Valley in force. Unfortunately for them, they were facing US Marines. The Marines of Fox Company have held their ground with nerves of steel, never relenting and coordinating with air assets to ensure the destruction of Shah's cell. Is this the last we'll see of him? Is he dead? That's yet to be confirmed.</English>
+        <Spanish>Shah terminó atacando el valle de Chowkay con todo. Por desgracia para ellos, se enfrentaban a marines de los EE. UU. Los marines de la Compañía Fox han mantenido la posición con nervios de acero, sin ceder nunca y coordinándose con los medios aéreos para asegurar la destrucción de la célula de Shah. ¿Es esto lo último que veremos de él? ¿Está muerto? Aún está por confirmar.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

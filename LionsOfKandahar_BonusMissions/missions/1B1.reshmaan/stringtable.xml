@@ -3,9 +3,9 @@
   <Package name="LionsOfKandahar_1B1">
     <Container name="STR_DN">
 	  <Key ID="STR_LOK_BriefingNotes_1B1">
-        <English>EDITOR'S NOTES:&lt;br/&gt;Check ALL your sides, trust me. You can change your loadout on the Teams tab (I wanted to include something similar to an AR-10T or a C7CT, but alas, nothing comes close to them), though the default loadout is perfect for this mission.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;HeadUp for the original idea and working title</English>
-        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Comprueba TODOS los flancos, créeme. Puedes cambiar de armas en la pestaña de «Equipo» (quería incluir algo que se pareciese a un AR-10T o a un C7CT, pero una pena, no hay nada), aunque el armamento por defecto es perfecto para esta misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;HeadUp por la idea original y el título en funciones</Spanish>
-        <Polish>OD AUTORA:&lt;br/&gt;Miej oczy dookoła głowy. Mozesz zmienić wyposażenie w zakładce Drużyny (chciałem dać coś podobnego do AR-10T albo C7CT, ale niestety nic takiego nie znalazłem), ale domyślne wyposażenie jest idealne na tę misję.&lt;br/&gt;&lt;br/&gt;AUTORZY:&lt;br/&gt;HeadUp - oryginalny pomysł i misja</Polish>
+        <English>EDITOR'S NOTES:&lt;br/&gt;Check ALL your sides, trust me. You can change your loadout on the Teams tab, though the default loadout is perfect for this mission.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;HeadUp for the original idea and working title</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Comprueba TODOS los flancos, créeme. Puedes cambiar de armas en la pestaña de «Equipo», aunque el armamento por defecto es perfecto para esta misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;HeadUp por la idea original y el título en funciones</Spanish>
+        <Polish>OD AUTORA:&lt;br/&gt;Miej oczy dookoła głowy. Mozesz zmienić wyposażenie w zakładce Drużyny, ale domyślne wyposażenie jest idealne na tę misję.&lt;br/&gt;&lt;br/&gt;AUTORZY:&lt;br/&gt;HeadUp - oryginalny pomysł i misja</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1B1">
         <English>A. Signal:&lt;br/&gt; RCR HQ - Brig. Gen. FRASER (RCR CO)&lt;br/&gt; Charles Actual - Maj. LUSSIER (ISTAR CO)&lt;br/&gt; Charles 57 - Lt. Col. LAVOIE (1st Battalion CO)&lt;br/&gt; Bravo 39 - Maj. ABTHORPE (Bravo Company CO)&lt;br/&gt; Charles 39 - Maj. SPRAGUE (Charles Company CO)&lt;br/&gt; Charles 36 - Lt. MANLEY (your team)&lt;br/&gt; Charles 37 - Lt. FLETCHER&lt;br/&gt; Charles 42 - Lt. STAMFORD&lt;br/&gt; Charles 43 - Lt. MARCUS</English>
@@ -14,7 +14,7 @@
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1B1">
         <English>1. Supply: Standard desert CADPAT uniforms and tactical vests, CG634 helmets, standard issue Canadian small arms including C7A2 rifles, C8A3 carbines, C9A2 and C6 machine guns, and C14 sniper rifles.&lt;br/&gt;2. Transportation: None. Two LAV IIIs will move in with the infantry in a support role. One LAV will stay behind the river as overwatch. All trucks and G-Wagons are to stay at Major Sprague's command post. Bravo Company will provide overwatch from the west.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Charles Company has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, RCR Command will authorize CASEVAC.</English>
-        <Spanish>1. Suministros: Uniformes estándar en CADPAT árido y chalectos tácticos, cascos CG634, armas ligeras reglamentarias de Canadá como fusiles C7A2, carabinas C8A3, ametralladoras C9A2 y C6 y fusiles de francotirador C14.&lt;br/&gt;2. Transporte: Ninguno. Dos LAV III avanzarán con la infantería en calidad de apoyo. Un LAV se mantendrá atrás del río como vigía. Todos los camiones y G-Wagons se quedarán en el puesto de mando del mayor Sprague. La Compañía Bravo vigilará desde el oeste.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: La Compañía Charles tiene 2x sargentos médicos asignados. En caso de sufrir una cantidad considerable de bajas, el mando del RCR autorizará CASEVAC.</Spanish>
+        <Spanish>1. Suministros: Uniformes estándar en CADPAT árido y chalecos tácticos, cascos CG634, armas ligeras reglamentarias de Canadá como fusiles C7A2, carabinas C8A3, ametralladoras C9A2 y C6 y fusiles de francotirador C14.&lt;br/&gt;2. Transporte: Ninguno. Dos LAV III avanzarán con la infantería en calidad de apoyo. Un LAV se mantendrá atrás del río como vigía. Todos los camiones y G-Wagons se quedarán en el puesto de mando del mayor Sprague. La Compañía Bravo vigilará desde el oeste.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: La Compañía Charles tiene 2x sargentos médicos asignados. En caso de sufrir una cantidad considerable de bajas, el mando del RCR autorizará CASEVAC.</Spanish>
         <Polish>1. Wyposażenie: Standardowe uniformy w pustynnym kamuflażu CADPAT i kamizelki taktyczne, hełmy CG634, standardowa kanadyjska broń małokalibrowa, w tym karabiny C7A2, C8A3, karabiny maszynowe C9A2 i C6, karabiny wyborowe C14.&lt;br/&gt;2. Środki transportu: Brak. Dwa LAVy III będą przemieszczać się z piechotą w roli wsparcia ogniowego. Jeden LAV zostanie za rzeką na czatach. Wszystkie ciężarówki i G-Wagony pozostaną na posterunku z Majorem Spraguem. Kompania Bravo zapewni obserwację z zachodu.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Kompania Charles dysponuje 2x przydzielonymi medykami, w razie niepowodzenia misji spowodowanego znacznymi stratami dowództwo RCR autoryzuje CASEVAC.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1B1">
@@ -98,14 +98,14 @@
         <Polish>Operacja Meduza rozpoczęła się. Po intensywnym bombardowaniu powietrznym i artyleryjskim Królewski Regiment Kanadyjski wszedł do Pashmul, by rozpocząć zabezpieczanie doliny Pandżwai.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B1">
-        <English>Complete 'The Voice of Death' from the main campaign to unlock this mission.</English>
-        <Spanish>Completa «La voz de la muerte» de la campaña principal para desbloquear esta misión.</Spanish>
+        <English>Complete 'The Voice of Death' from Lions of Kandahar to unlock this mission.</English>
+        <Spanish>Completa «La voz de la muerte» de Leones de Kandahar para desbloquear esta misión.</Spanish>
         <Polish>Ukończ "Głos Śmierci" z głównej kampanii, by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B1">
         <English>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The two most powerful warriors are patience and time.'&lt;br/&gt;&lt;br/&gt;-LEO TOLSTOY&lt;/t&gt;</English>
         <Spanish>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Los dos guerreros más poderosos son la paciencia y el tiempo».&lt;br/&gt;&lt;br/&gt;—LEÓN TOLSTÓI&lt;/t&gt;</Spanish>
-        <Polish>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Dwaj najsiilniejsi wojownicy to cierpliwość i czas..'&lt;br/&gt;&lt;br/&gt;- LEW TOŁSTOJ&lt;/t&gt;</Polish>
+        <Polish>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Dwaj najsiilniejsi wojownicy to cierpliwość i czas.'&lt;br/&gt;&lt;br/&gt;- LEW TOŁSTOJ&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1B1">
         <English>Cpl. Tobias Hedley</English>
@@ -413,7 +413,7 @@
         <Polish>Wszystkie jednostki Charles, nasze lotnictwo jest w drodze! Trzymać się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1B1">
-        <English>This is Warthog 19, I got your position and I'm inbound with heavy ordnance. Be advised: danger close. I repeat, danger close. ETA: 30 seconds. Over and out.</English>
+        <English>This is Warthog 19, I got your position and I'm inbound with heavy ordnance. Be advised: danger close. I repeat, danger close. ETA: 30 seconds. Out.</English>
         <Spanish>Aquí Warthog 19, tengo su posición y estoy llegando con artillería pesada. Atención: peligro cercano. Repito, peligro cercano. Tiempo estimado de llegada: 30 segundos. Cambio y corto.</Spanish>
         <Polish>Tutaj Guziec 19, znalazłem waszą pozycję i jestem w drodze z ciężkimi ładunkami. Uwaga, będzie niebezpiecznie blisko. Powtarzam, niebezpiecznie blisko. Czas oczekiwania, 30 sekund. Bez odbioru.</Polish>
       </Key>

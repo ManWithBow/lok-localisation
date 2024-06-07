@@ -128,8 +128,8 @@
         <Polish>Jako członek holenderskiego kontyngentu w Afganistanie zapewnisz wsparcie siłom ISAF podczas początkowej fazy Operacji Meduza przy pomocy śmigłowca szturmowego AH-64 Apache.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_locked_1B3">
-        <English>Complete 'Seven 2,000-Pounders' from the main campaign to unlock this mission.</English>
-        <Spanish>Completa «Siete bombas de 900 kg» de la campaña principal para desbloquear esta misión.</Spanish>
+        <English>Complete 'Seven 2,000-Pounders' from Lions of Kandahar to unlock this mission.</English>
+        <Spanish>Completa «Siete bombas de 900 kg» de Leones de Kandahar para desbloquear esta misión.</Spanish>
         <Polish>Ukończ "Siedem 1-tonówek" z głównej kampanii, by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B3">
@@ -558,7 +558,7 @@
         <Polish>&lt;t size='1.5'&gt;P A R Ę   G O D Z I N   P Ó Ź N I E J . . .&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intermission_1B3">
-        <English>&lt;t size='1.5'&gt;K A N D A H A R   A I R F I E L D&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;S E P T E M B E R   1,   2 0 0 6&lt;/t&gt;</English>
+        <English>&lt;t size='1.5'&gt;K A N D A H A R   A I R F I E L D&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;S E P T E M B E R   1 ,   2 0 0 6&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   D E   S E P T I E M B R E   D E   2 0 0 6&lt;/t&gt;</Spanish>
         <Polish>&lt;t size='1.5'&gt;L O T N I S K O   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   W R Z E Ś N I A ,   2 0 0 6   R .&lt;/t&gt;</Polish>
       </Key>

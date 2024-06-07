@@ -308,9 +308,9 @@
         <Polish>Taliban przeciwstawia się nam w południowym Afganistanie. Siły specjalne Koalicji zaplanowały wielki szturm na Dolinę Chora w celu zajęcia wrogiego kompleksu budynków i wyeliminowania potężnego oficera. Jako część jednostki kanadyjskiego JTF2 będziesz zapewniać wsparcie snajperskie i pomagać w kierowaniu ogniem ze Spectre.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B6">
-        <English>Take out Bari with a precise shot and score over 600 points in the 'Overwatch' part of this operation to unlock this mission.</English>
-        <Spanish>Elimina a Bari con un tiro preciso y consigue más de 600 puntos en la sección «Cobertura» de esta operación para desbloquear esta misión.</Spanish>
-        <Polish>Wyeliminuj Bariego jednym strzałem i zdobądź przynajmniej 600 punktów w części "Obserwacja" tej operacji, by odblokować tę misję.</Polish>
+        <English>Take out Bari with a precise shot and score over 400 points in the 'Overwatch' part of this operation to unlock this mission.</English>
+        <Spanish>Elimina a Bari con un tiro preciso y consigue más de 400 puntos en la sección «Cobertura» de esta operación para desbloquear esta misión.</Spanish>
+        <Polish>Wyeliminuj Bariego jednym strzałem i zdobądź przynajmniej 400 punktów w części "Obserwacja" tej operacji, by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B6">
         <English>&lt;t color='#09ff00' size='3.5'&gt;MORE THAN MEETS THE EYE&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The direct use of force is such a poor solution to any problem, it is generally employed only by small children and large nations.'&lt;br/&gt;&lt;br/&gt;-DAVID FRIEDMAN&lt;/t&gt;</English>

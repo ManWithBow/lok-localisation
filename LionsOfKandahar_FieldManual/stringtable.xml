@@ -143,8 +143,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USMC_Description">
-        <English>%3Marines%4 began staging in Pakistan and Uzbekistan on the border of Afghanistan as early as October 2001 in preparation for Operation Enduring Freedom. The 15th and 26th Marine Expeditionary Units were the %3first conventional forces%4 into Afghanistan in November 2001. After that, Marine battalions have rotated through, but their main area of operations has been %3Helmand Province%4. Additionally, Marine helicopter squadrons have supported Army units in %3joint operations%4, such as %3Operation Anaconda%4 in 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</English>
-        <Spanish>Los %3marines%4 empezaron a desplegarse en Pakistán y Uzbekistán, en la frontera con Afganistán, en octubre de 2001, preparándose para la Operación Libertad Duradera. La 15.ª y 26.ª Unidad Expedicionaria de Marines fueron las %3primeras fuerzas convencionales%4 en entrar en Afganistán en noviembre de 2001. Después de eso, los batallones de marines se han ido turnando, pero su principal área de operaciones ha sido la %3provincia de Helmand%4. Además, los escuadrones de helicópteros de los marines han apoyado a las unidades del Ejército en %3operaciones conjuntas%4, como la %3Operación Anaconda%4 en 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</Spanish>
+        <English>%3Marines%4 began staging in Pakistan and Uzbekistan on the border of Afghanistan as early as October 2001 in preparation for Operation Enduring Freedom. The 15th and 26th Marine Expeditionary Units were the %3first conventional forces%4 into Afghanistan in November 2001. After that, Marine battalions have rotated through, but their main area of operations has been %3Kunar%4 and %3Helmand%4 provinces. One of their most successful operations in Afghanistan was %3Operation Whalers%4, where the Marines destroyed a prominent Taliban cell in the wake of Operation Red Wings, but some of their operations have also failed, like the highly-publicized %3Operation Moshtarak%4, where the Marines took the town of Marjah, the last Taliban stronghold in Helmand Province, only for the Taliban to retake it by 2016. Marine helicopter squadrons have supported Army units in %3joint operations%4, such as %3Operation Anaconda%4 in 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</English>
+        <Spanish>Los %3marines%4 empezaron a desplegarse en Pakistán y Uzbekistán, en la frontera con Afganistán, en octubre de 2001, preparándose para la Operación Libertad Duradera. La 15.ª y 26.ª Unidad Expedicionaria de Marines fueron las %3primeras fuerzas convencionales%4 en entrar en Afganistán en noviembre de 2001. Después de eso, los batallones de marines se han ido turnando, pero su principal área de operaciones han sido las provincias de %3Helmand%4 y %3Kunar%4. Una de sus operaciones más exitosas en Afganistán fue la %3Operación Whalers%4, en la que los Marines destruyeron una importante célula talibán tras la Operación Red Wings, pero algunas de sus operaciones también han fracasado, como la muy publicitada %3Operación Moshtarak%4, en la que los Marines tomaron la ciudad de Marjah, el último bastión talibán en la provincia de Helmand, solo para que los talibanes la retomaran en 2016. Los escuadrones de helicópteros de los marines han apoyado a las unidades del Ejército en %3operaciones conjuntas%4, como la %3Operación Anaconda%4 en 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA">
@@ -175,6 +175,21 @@
 	  <Key ID="STR_LOK_FM_Delta_Description">
         <English>%3Delta Force%4's involvement in Afghanistan is characterized by its %3secrecy%4, precision, and effectiveness. The unit's operatives are responsible for the capture or killing of numerous high-value targets, including Al-Qaeda leaders and Taliban commanders. Although many of their operations are unknown, it is acknowledged they were heavily involved in operations such as %3Tora Bora%4 and %3Operation Anaconda%4. In the latter, they were especially responsible for scouting the %3Shah-i-Kot Valley%4 and making sure the ground troops were safe at all times.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</English>
         <Spanish>La participación de la %3Fuerza Delta%4 en Afganistán está caracterizada por su %3secretismo%4, precisión y efectividad. Los operativos de la unidad son responsables de la captura o muerte de numerosos objetivos de alto valor, incluidos líderes de Al Qaeda y comandantes talibanes. Aunque se desconocen muchas de sus operaciones, se da por hecho que estuvieron muy involucrados en operaciones como %3Tora Bora%4 y la %3Operación Anaconda%4. En esta última, fueron especialmente responsables de reconocer el %3valle de Shah-i-Kot%4 y asegurarse de que las tropas terrestres estuvieran a salvo en todo momento.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Korea">
+        <English>Republic of Korea Army</English>
+        <Spanish>Ejército de la República de Corea</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Korea_short">
+        <English>South Korean Army</English>
+        <Spanish>Ejército de Corea del Sur</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Korea_Description">
+        <English>Although not a major player in any way, the %3South Korean%4 military has participated in Operation Enduring Freedom. With a contingent of approximately 210 engineering and medical troops in %3Bagram Airfield%4 since 2002, Korean specialists worked in the American base, helping their US allies and providing assistance to Afghan civilians after their bloody civil war, but always %3abstaining from any actual fighting%4. However, 2007 was a major turning point for their involvement in the war. In February 2007, %3Yoon Jang-ho%4 was killed in a suicide bomb attack, becoming the first member of the ROK Armed Forces to be killed by enemy action since the Vietnam War. Then, in July, 23 South Korean missionaries were %3kidnapped%4 by the Taliban. After supposedly paying a ransom, the South Korean Government got the hostages back and promptly withdrew all its forces from its initial deployment.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Korea_FM.paa'/&gt;</English>
+        <Spanish>Aunque no ha sido un actor importante ni muchísimo menos, el Ejército de %3Corea del Sur%4 ha participado en la Operación Libertad Duradera. Con un contingente de aproximadamente 210 tropas ingenieras y médicas en el %3aeródromo de Bagram%4 desde 2002, especialistas coreanos trabajaron en la base estadounidense, ayudando a sus aliados estadounidenses y proporcionando asistencia a los civiles afganos después de su cruenta guerra civil, pero siempre %3absteniéndose de combatir directamente%4. Sin embargo, 2007 fue un punto de inflexión para su participación en la guerra. En febrero de 2007, %3Yoon Jang-ho%4 fue asesinado en un atentado suicida, convirtiéndose en el primer militar coreano en morir a manos de un enemigo desde la guerra de Vietnam. Después, en julio, 23 misioneros surcoreanos fueron %3secuestrados%4 por los talibanes. Tras supuestamente pagar un rescate, el Gobierno surcoreano recuperó a los rehenes y retiró poco después a todas las fuerzas de su despliegue inicial.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Korea_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_DEVGRU">
@@ -218,8 +233,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers_Description">
-        <English>The%3 75th Ranger Regiment%4 is one of the most extensively used units of the entire US military. The Rangers are the premier %3light infantry%4 and %3special operations%4 unit of %3USASOC%4. In %3Afghanistan%4, they were %3among the first troops%4 on the ground in 2001 and have continued to play a vital role in the War on Terror ever since. They have participated in several missions, such as Tora Bora, Operation Rhino, Operation Red Wings, and most importantly, %3Operation Anaconda%4. When a DEVGRU team was ambushed on the peak of %3Takur Ghar%4 in 2002, the Rangers bravely fought tooth and nail to rescue them and capture the peak.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</English>
-        <Spanish>El%3 75.º Regimiento Ranger%4 es una de las unidades más usadas de todas las Fuerzas Armadas de los EE. UU. Los Rangers son la principal unidad de %3infantería ligera%4 y %3operaciones especiales%4 del %3USASOC%4. En %3Afganistán%4, fueron %3 de las primeras tropas%4 sobre el terreno en 2001 y han seguido desempeñando un papel esencial en la guerra contra el terrorismo desde entonces. Han participado en varias misiones, como Tora Bora, la Operación Rhino, la Operación Red Wings y, la más importante, la %3Operación Anaconda%4. Cuando un equipo DEVGRU fue emboscado en la cima de %3Takur Ghar%4, los Rangers lucharon con uñas y dientes para rescatarlos y capturar la cima.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</Spanish>
+        <English>The%3 75th Ranger Regiment%4 is one of the most extensively used units of the entire US military. The Rangers are the premier %3light infantry%4 and %3special operations%4 unit of %3USASOC%4. In %3Afghanistan%4, they were %3among the first troops%4 on the ground in 2001 and have continued to play a vital role in the War on Terror ever since. They have participated in several missions, such as Tora Bora, Operation Rhino, and most importantly, %3Operation Anaconda%4. When a DEVGRU team was ambushed on the peak of %3Takur Ghar%4 in 2002, the Rangers bravely fought tooth and nail to rescue them and capture the peak. In 2005, they also took part in the rescue of Marcus Luttrell following the failed %3Operation Red Wings%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</English>
+        <Spanish>El%3 75.º Regimiento Ranger%4 es una de las unidades más usadas de todas las Fuerzas Armadas de los EE. UU. Los Rangers son la principal unidad de %3infantería ligera%4 y %3operaciones especiales%4 del %3USASOC%4. En %3Afganistán%4, fueron %3 de las primeras tropas%4 sobre el terreno en 2001 y han seguido desempeñando un papel esencial en la guerra contra el terrorismo desde entonces. Han participado en varias misiones, como Tora Bora, la Operación Rhino y, la más importante, la %3Operación Anaconda%4. Cuando un equipo DEVGRU fue emboscado en la cima de %3Takur Ghar%4, los Rangers lucharon con uñas y dientes para rescatarlos y capturar la cima. En 2005, también participaron en el rescate de Marcus Luttrell tras la fallida %3Operación Red Wings%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_FrenchAirForce">
@@ -922,6 +937,26 @@
         <Spanish>El %3M21 SWS%4 es básicamente un fusil M14 clásico con una mira de francotirador acoplada. Fue adoptado por el %3Ejército de EE. UU.%4 como su nuevo fusil de tirador designado a finales de los años sesenta y, aunque el M24 SWS lo suplantó a partir de 1988, muchas variantes del M14 y el M21 han vuelto al servicio en las guerras de Irak y Afganistán de los años 2000.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_M14DMR">
+        <English>USMC DMR</English>
+        <Spanish>USMC DMR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M14DMR_Description">
+        <English>The %3United States Marine Corps Designated Marksman Rifle%4 is a modified version of the classic M14 rifle formerly used by the United States Marine Corps. The USMC Precision Weapons Section at Marine Corps Base Quantico built all DMRs. These started being manufactured (or converted from decommissioned M14s) in 1989 and saw service in Marine scout sniper teams since 2001 in both Iraq and Afghanistan. However, beginning in 2008 it was replaced on a one-for-one basis with the %3M39 EMR%4.</English>
+        <Spanish>El %3United States Marine Corps Designated Marksman Rifle%4 es una versión modificada del clásico fusil M14 antes utilizado por el Cuerpo de Marines de los Estados Unidos. La USMC Precision Weapons Section de la Marine Corps Base Quantico construyó todos los DMR. Empezaron a fabricarse (o a convertirse desde M14 descatalogados) en 1989 y sirvieron en equipos de francotiradores marines desde 2001 tanto en Irak como en Afganistán. Sin embargo, a partir de 2008, fue reemplazado por el %3M39 EMR%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M40A3">
+        <English>M40A3</English>
+        <Spanish>M40A3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M40A3_Description">
+        <English>The %3M40%4 sniper rifle has been a staple of the %3USMC%4 scout sniper program since its introduction in 1966, during the thick of the Vietnam War. The original M40 was a military type-classified version of the %3Remington 700%4, from which many other civilian and military variants were derived. The M40 was upgraded into the M40A1 in the early 1970s, and then the %3M40A3%4 was developed in 2001. Compared to previous versions, the M40A3 features a fiberglass stock, a heavy barrel for improved accuracy, and a Unertl (at the beginning) or Schmidt and Bender (later) scope. It has served in Iraq, Afghanistan and other subsequent conflicts.</English>
+        <Spanish>El fusil de francotirador %3M40%4 ha sido un pilar del programa de francotiradores del %3Cuerpo de Marines de EE. UU.%4 desde su introducción en 1966, en plena guerra de Vietnam. El M40 original era la versión militar del %3Remington 700%4, del que se han derivado muchas otras variantes civiles y militares. El M40 se actualizó al M40A1 a principios de los setenta, y luego se desarrolló el %3M40A3%4 en 2001. En comparación con versiones anteriores, el M40A3 cuenta con una culata de fibra de vidrio, un cañón pesado para una mayor puntería y una mira Unertl (al principio) o Schmidt and Bender (después). Ha servido en Irak, Afganistán y otros conflictos posteriores.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_M24">
         <English>M24 SWS</English>
         <Spanish>M24 SWS</Spanish>
@@ -1612,6 +1647,26 @@
         <Spanish>El %3M35%4 es un longevo camión de carga de 2 toneladas y media usado al principio por el Ejército de Estados Unidos en los años cincuenta para reemplazar al GMC CCKW de la II GM y más tarde utilizado por muchas naciones del mundo, como %3Canadá%4. Para reemplazar su flota vintage de M135 de los años cincuenta, el %3Ejército canadiense%4 adoptó versiones licenciadas del M35 en 1982, designado %3Medium Logistics Vehicle Wheeled%4 (MLVW). Los MLVW no se desplegaron con las fuerzas canadienses al principio de Afganistán por su %3falta de blindaje%4, pero se introdujeron mejoras y el MLVW se ha ido desplegando gradualmente en Afganistán.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_M939">
+        <English>M939</English>
+        <Spanish>M939</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M939_Description">
+        <English>The %3M939 series%4 is a family of 5-ton 6x6 military trucks used by the %3United States Armed Forces%4. Introduced in the early 1980s to replace the M39 and M809 series, these trucks are designed for transporting cargo, troops, and equipment. It has become one of the quintessential military trucks and it has evolved into its own family, with cargo, tanker, and wrecker models. Known for their durability and versatility, M939 trucks are commonly used in both combat and support roles. The M939 was eventually replaced by the %3FMTV%4 in %3US Army%4 service and by the %3MTVR%4 in the %3Marine Corps%4, although it's still used in secondary roles.</English>
+        <Spanish>La %3serie M939%4 es una familia de camiones militares 6x6 de 5 toneladas usados por las %3Fuerzas Armadas de los Estados Unidos%4. Introducido a principios de los ochenta para reemplazar a las series M39 y M809, estos camiones están diseñados para transportar cargas, tropas y equipo. Se ha convertido en uno de los camiones militares por antonomasia y ha evolucionado a su propia familia, con modelos de transporte, repostaje y grúas. Conocidos por su durabilidad y versatilidad, los camiones M939 se usan en roles de combate y apoyo. El M399 fue reemplazado por el %3FMTV%4 en el %3Ejército de EE. UU.%4 y por el %3MTVR%4 en el %3Cuerpo de Marines%4, pero aún se sigue usando en roles secundarios.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MTVR">
+        <English>MTVR</English>
+        <Spanish>MTVR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MTVR_Description">
+        <English>The %3Medium Tactical Vehicle Replacement%4 (MTVR) is a series of 7-ton 6x6 military trucks used by the %3United States Marine Corps%4 and %3Navy%4. In service since 2001, the MTVR is designed for transporting cargo, troops, and equipment in various terrains. It features an advanced suspension system, a powerful diesel engine, and a central tire inflation system. The MTVR is known for its high mobility, durability, and capacity, making it essential for logistical and tactical support missions.</English>
+        <Spanish>El %3Medium Tactical Vehicle Replacement%4 (MTVR) es una serie de camiones militares 6x6 de 7 toneladas utilizados por el %3Cuerpo de Marines de Estados Unidos%4 y la %3Armada%4. En servicio desde 2001, el MTVR está diseñado para el transporte de cargas, tropas y equipos en diversos terrenos. Cuenta con un avanzado sistema de suspensión, un potente motor diésel y un sistema central de inflado de neumáticos. El MTVR es conocido por su gran movilidad, durabilidad y capacidad, lo que lo hace esencial para misiones de apoyo logístico y táctico.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_FMTV">
         <English>Steyr 91M</English>
         <Spanish>Steyr 91M</Spanish>
@@ -1762,6 +1817,16 @@
         <Spanish>El %3Coyote Reconnaissance Vehicle%4 es un vehículo de %3reconocimiento blindado%4 no anfibio basado en el diseño del %3LAV II%4 (más conocido como LAV-25) y el MOWAG Piranha II. El %3Ejército canadiense%4 encargó 203 vehículos en 1993 para sustituir al vehículo de reconocimiento Lynx, y todos fueron entregados y entraron en servicio en 1996. Desde su introducción, se ha desplegado en todas las campañas de Canadá en el extranjero, incluido Afganistán.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_LAV25">
+        <English>LAV-25</English>
+        <Spanish>LAV-25</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_LAV25_Description">
+        <English>The %3LAV-25%4 is an 8-wheeled amphibious armored reconnaissance vehicle based on the Canadian %3LAV II%4 and used by the %3United States Marine Corps%4. Introduced in the 1980s, it is armed with a 25mm chain gun, a 7.62mm coaxial machine gun, and a pintle-mounted 7.62mm machine gun. LAVs first saw combat during the invasion of Panama in 1989 and continued service in the Persian Gulf War, Iraq War, and the %3War in Afghanistan%4.</English>
+        <Spanish>El %3LAV-25%4 es un vehículo blindado anfibio de reconocimiento de 8 ruedas basado en el %3LAV II%4 canadiense y utilizado por el %3Cuerpo de Marines de Estados Unidos%4. Introducido en los años ochenta, está dotado de un cañón automático de 25 mm, una ametralladora coaxial de 7,62 mm y una ametralladora de 7,62 mm montada en un pivote. Los LAV entraron en combate por primera vez durante la invasión de Panamá de 1989 y siguieron prestando servicio en la guerra del Golfo, la guerra de Irak y la %3guerra de Afganistán%4.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_Bison">
         <English>Bison</English>
         <Spanish>Bison</Spanish>
@@ -1822,6 +1887,46 @@
         <Spanish>El %3UH-1 «Huey»%4 estadounidense es uno de los vehículos más reconocibles de la época de la Guerra Fría, especialmente debido a su intensa participación en %3Vietnam%4. El %3UH-1H%4 es una versión mejorada con un nuevo motor, entre otras incorporaciones. Se introdujo en 1966 y estuvo en servicio hasta que fue oficialmente sustituido por el UH-60 Black Hawk en 1979. Sin embargo, la Flota Residual de UH-1 del Ejército cuenta con unos 700 UH-1 que se conservarán hasta 2015, y algunas divisiones de la %3Guardia Nacional%4 siguen disponiendo de ellos hasta Afganistán.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_UH1N">
+        <English>UH-1N Twin Huey</English>
+        <Spanish>UH-1N Twin Huey</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_UH1N_Description">
+        <English>The %3UH-1N Twin Huey%4 is the evolution of the classic %3UH-1 'Huey'%4. The UH-1N was originally developed out of negotiations between Canada and Bell Helicopter on the topic of a new utility helicopter during 1968. The Canadians wanted it to be based on the %3Bell 205%4, but instead powered by a pair of engines for a higher level of safety. The US military quickly took an interest in the UH-1N, with the %3Air Force%4 introducing its first UH-1Ns in 1970 in Vietnam and the %3US Marine Corps%4 following suit one year later. The UH-1N has been extensively used by the Marines in %3Afghanistan%4, commonly as a %3gunship%4 in tandem with AH-1W SuperCobras.</English>
+        <Spanish>El %3UH-1N Twin Huey%4 es la evolución del clásico %3UH-1 «Huey»%4. El UH-1N se desarrolló originalmente a partir de las negociaciones entre Canadá y Bell Helicopter sobre el tema de un nuevo helicóptero utilitario durante 1968. Los canadienses querían que se basara en el %3Bell 205%4, pero con un par de motores para aumentar la seguridad. Las Fuerzas Armadas estadounidenses no tardaron en interesarse por el UH-1N: la %3Fuerza Aérea%4 introdujo sus primeros UH-1N en 1970 en Vietnam y el %3Cuerpo de Marines%4 hizo lo mismo un año después. El UH-1N ha sido ampliamente utilizado por los Marines en %3Afganistán%4, normalmente como %3helicóptero artillado%4 en tándem con AH-1W SuperCobras.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_SH60">
+        <English>SH-60B Seahawk</English>
+        <Spanish>SH-60B Seahawk</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_SH60_Description">
+        <English>The %3SH-60 Seahawk%4 is a multi-mission naval helicopter used by the %3United States Navy%4. Based on the Army's %3UH-60 Black Hawk%4, it was introduced in the 1980s and is equipped for anti-submarine warfare, search and rescue, anti-surface warfare, and naval special warfare. The Seahawk features advanced avionics, radar, sonar systems, and can carry torpedoes, missiles, and machine guns. It is known for its versatility, durability, and ability to operate from frigates, destroyers, and aircraft carriers.</English>
+        <Spanish>El %3SH-60 Seahawk%4 es un helicóptero naval multimisión utilizado por la %3Armada de los Estados Unidos%4. Basado en el %3UH-60 Black Hawk%4 del Ejército, se introdujo en los años ochenta y está equipado para la guerra antisubmarina, búsqueda y rescate, guerra antisuperficie y guerra naval especial. El Seahawk dispone de aviónica avanzada, radar, sistemas de sonar y puede transportar torpedos, misiles y ametralladoras. Es conocido por su versatilidad, durabilidad y capacidad para operar desde fragatas, destructores y portaaviones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_SH3">
+        <English>SH-3 Sea King</English>
+        <Spanish>SH-3 Sea King</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_SH3_Description">
+        <English>The %3SH-3 Sea King%4 is a twin-engine, anti-submarine warfare (ASW) helicopter used by the %3United States Navy%4. Introduced in 1961, it was one of the first helicopters specifically designed for ASW missions. The Sea King features amphibious capabilities, sonar systems, and can carry torpedoes and depth charges. It also performs search and rescue, transport, and reconnaissance missions. Known for its versatility and reliability, the SH-3 was a utility asset for several decades prior to being replaced by the non-amphibious %3Sikorsky SH-60 Seahawk%4 in the 1990s.</English>
+        <Spanish>El %3SH-3 Sea King%4 es un helicóptero bimotor de guerra antisubmarina (ASW) utilizado por la %3Armada de los Estados Unidos%4. Introducido en 1961, fue uno de los primeros helicópteros diseñados específicamente para misiones ASW. El Sea King cuenta con capacidades anfibias, sistemas de sonar y puede transportar torpedos y cargas de profundidad. También realiza misiones de búsqueda y rescate, transporte y reconocimiento. Conocido por su versatilidad y fiabilidad, el SH-3 fue un activo de utilidad durante varias décadas antes de ser sustituido por el no anfibio %3Sikorsky SH-60 Seahawk%4 en los años noventa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_CH46">
+        <English>CH-46 Sea Knight</English>
+        <Spanish>CH-46 Sea Knight</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_CH46_Description">
+        <English>The %3CH-46 Sea Knight%4 is the main workhorse of the %3US Marine Corps%4. The Sea Knight features twin rotors for enhanced stability and lift capability, and it can carry up to 25 troops or 4,000 pounds of cargo. It was based on Vertol's V-107 prototype from which the Army's %3CH-47 Chinook%4 was also derived, hence their similarities. Introduced in 1961, it has operated across all the Marines' operational environments since Vietnam. The CH-46 continued to serve the Marine Corps for the ensuing four decades, with Marine Expeditionary Units (MEU) typically including Sea Knights on board amphibious assault ships to transport leathernecks ashore. The last version of the helicopter, the CH-46E, saw heavy combat service in the sands of Iraq and the rugged terrain of %3Afghanistan%4. It served in the Marines until being phased out by the %3MV-22 Osprey%4. The CH-46 was also the %3US Navy%4's main medium-lift utility helicopter until it was fully replaced by the %3MH-60S Knighthawk%4 in 2004.</English>
+        <Spanish>El %3CH-46 Sea Knight%4 es el principal caballo de batalla del %3Cuerpo de Marines de los Estados Unidos%4. El Sea Knight cuenta con rotores en tándem para mejorar la estabilidad y la capacidad de elevación, y puede transportar hasta 25 soldados o 2000 kilogramos de carga. Se basó en el prototipo V-107 de Vertol, del que partió también el %3CH-47 Chinook%4 del Ejército, de ahí sus similitudes. Introducido en 1961, ha operado en todos los entornos operativos de los Marines desde Vietnam. El CH-46 siguió al servicio de los Marines durante las cuatro décadas siguientes, en las que las Unidades Expedicionarias de Marines (MEU) solían incluir Sea Knights a bordo de buques de asalto anfibio para transportar marines a tierra. La última versión del helicóptero, el CH-46E, prestó un intenso servicio de combate en las arenas de Irak y en el escarpado terreno de %3Afganistán%4. Sirvió en los Marines hasta que fue sustituido por el %3MV-22 Osprey%4. El CH-46 fue también el principal helicóptero de transporte medio de la %3Armada de EE. UU.%4 hasta que fue totalmente sustituido por el %3MH-60S Knighthawk%4 en 2004.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_UH60">
         <English>UH-60L Black Hawk</English>
         <Spanish>UH-60L Black Hawk</Spanish>
@@ -1848,8 +1953,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_CH47_Description">
-        <English>The %3CH-47 Chinook%4 is a tandem rotor helicopter developed by American rotorcraft company Vertol and manufactured by Boeing Vertol. The Chinook is a heavy-lift helicopter that is among the heaviest lifting Western helicopters. Its name, Chinook, is from the Native American Chinook people of Oregon and Washington state. It has been serving since Vietnam in several militaries worldwide. It is being used in air assault missions, inserting troops into fire bases, and bringing food, water, and ammunition, normally escorted by an AH-64 Apache helicopter. The %3United States Army%4 and the British %3Army Air Corps%4 have been using it since the beginning of the war. In fact, the%3 101st Aviation Regiment%4's Chinooks stood out and were essential to the success of %3Operation Anaconda%4 in 2002, being the only helicopters capable of transporting troops to the high altitudes of the %3Shah-i-Kot Valley%4. As part of the expanded NATO ISAF mission in southern Afghanistan in August 2006, the %3Royal Netherlands Air Force%4 has three CH-47D Chinook of 298 Squadron stationed at Kandahar Airfield. Meanwhile, the %3Australian Army Aviation%4 sent two CH-47s to Uruzgan Province to support the Special Operations Task Group (SOTG) in March 2006. There's also a special operations variant worth mentioning, the %3MH-47%4, only used by the American%3 160th Special Operations Aviation Regiment%4. Unfortunately, two of these helicopters were shot down during %3Operation Anaconda%4. </English>
-        <Spanish>El %3CH-47 Chinook%4 es un helicóptero de rotor tándem desarrollado por la empresa estadounidense de helicópteros Vertol y fabricado por Boeing Vertol. El Chinook es un helicóptero de carga pesada que se encuentra entre los helicópteros occidentales de elevación más pesada. Su nombre, Chinook, proviene del pueblo índigena Chinook de los estados de Oregón y Washington. Lleva en servicio desde Vietnam en varios ejércitos de todo el mundo. Se utiliza en misiones de asalto aéreo, introduciendo tropas en bases de fuego y llevando alimentos, agua y municiones, normalmente escoltado por un helicóptero AH-64 Apache. El %3Ejército de Estados Unidos%4 y el %3Cuerpo Aéreo del Ejército%4 británico lo llevan utilizando desde el comienzo de la guerra. De hecho, los Chinooks del%3 101.er Regimiento de Aviación%4 sobresalieron y fueron esenciales para el éxito de la %3Operación Anaconda%4 en 2002, ya que eran los únicos helicópteros capaces de transportar tropas a las altitudes del %3valle de Shah-i-Kot%4. Como parte de la misión ampliada de la ISAF de la OTAN en el sur de Afganistán en agosto de 2006, la %3Real Fuerza Aérea de los Países Bajos%4 tiene tres CH-47D Chinook del Escuadrón 298 estacionados en el aeropuerto de Kandahar. Por su parte, la %3Aviación del Ejército australiana%4 envió dos CH-47 a la provincia de Uruzgán para apoyar al Grupo Operativo de Operaciones Especiales (SOTG) en marzo de 2006. También cabe mencionar la variante de operaciones especiales %3MH-47%4, únicamente empleada por el%3 160.º Regimiento de Aviación de Operaciones Especiales%4. Por desgracia, dos de estos helicópteros fueron derribados durante la %3Operación Anaconda%4.</Spanish>
+        <English>The %3CH-47 Chinook%4 is a tandem rotor helicopter developed by American rotorcraft company Vertol and manufactured by Boeing Vertol. The Chinook is a heavy-lift helicopter that is among the heaviest lifting Western helicopters. Its name, Chinook, is from the Native American Chinook people of Oregon and Washington state. It has been serving since Vietnam in several militaries worldwide. It is being used in air assault missions, inserting troops into fire bases, and bringing food, water, and ammunition, normally escorted by an AH-64 Apache helicopter. The %3United States Army%4 and the British %3Army Air Corps%4 have been using it since the beginning of the war. In fact, the%3 101st Aviation Regiment%4's Chinooks stood out and were essential to the success of %3Operation Anaconda%4 in 2002, being the only helicopters capable of transporting troops to the high altitudes of the %3Shah-i-Kot Valley%4. As part of the expanded NATO ISAF mission in southern Afghanistan in August 2006, the %3Royal Netherlands Air Force%4 has three CH-47D Chinook of 298 Squadron stationed at Kandahar Airfield. Meanwhile, the %3Australian Army Aviation%4 sent two CH-47s to Uruzgan Province to support the Special Operations Task Group (SOTG) in March 2006. There's also a special operations variant worth mentioning, the %3MH-47%4, only used by the American%3 160th Special Operations Aviation Regiment%4. Unfortunately, two of these helicopters were shot down during %3Operation Anaconda%4, and another one during %3Operation Red Wings%4. </English>
+        <Spanish>El %3CH-47 Chinook%4 es un helicóptero de rotor tándem desarrollado por la empresa estadounidense de helicópteros Vertol y fabricado por Boeing Vertol. El Chinook es un helicóptero de carga pesada que se encuentra entre los helicópteros occidentales de elevación más pesada. Su nombre, Chinook, proviene del pueblo índigena Chinook de los estados de Oregón y Washington. Lleva en servicio desde Vietnam en varios ejércitos de todo el mundo. Se utiliza en misiones de asalto aéreo, introduciendo tropas en bases de fuego y llevando alimentos, agua y municiones, normalmente escoltado por un helicóptero AH-64 Apache. El %3Ejército de Estados Unidos%4 y el %3Cuerpo Aéreo del Ejército%4 británico lo llevan utilizando desde el comienzo de la guerra. De hecho, los Chinooks del%3 101.er Regimiento de Aviación%4 sobresalieron y fueron esenciales para el éxito de la %3Operación Anaconda%4 en 2002, ya que eran los únicos helicópteros capaces de transportar tropas a las altitudes del %3valle de Shah-i-Kot%4. Como parte de la misión ampliada de la ISAF de la OTAN en el sur de Afganistán en agosto de 2006, la %3Real Fuerza Aérea de los Países Bajos%4 tiene tres CH-47D Chinook del Escuadrón 298 estacionados en el aeropuerto de Kandahar. Por su parte, la %3Aviación del Ejército australiana%4 envió dos CH-47 a la provincia de Uruzgán para apoyar al Grupo Operativo de Operaciones Especiales (SOTG) en marzo de 2006. También cabe mencionar la variante de operaciones especiales %3MH-47%4, únicamente empleada por el%3 160.º Regimiento de Aviación de Operaciones Especiales%4. Por desgracia, dos de estos helicópteros fueron derribados durante la %3Operación Anaconda%4, y otro durante la %3Operación Red Wings%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_AH64">
@@ -2270,6 +2375,26 @@
 	  <Key ID="STR_LOK_FM_ZB26_Description">
         <English>The %3ZB vz. 26%4 was a Czechoslovak light machine gun that shone in the 1920s and saw action throughout World War II. The ZB vz. 26's success even led to variants like the British %3Bren gun%4. In the second half of the 1930s, Nazi Germany sold weapons to %3Afghanistan%4. Together with 7.92 mm rifles, machine guns were supplied, produced at the enterprises of the annexed Czech Republic. In addition, clones of ZB-26 light machine guns were produced in China during World War II. It is very likely that these weapons got to Afghanistan one way or another. They were used during the %3Soviet war%4 and even during the early stages of the 2001 %3War in Afghanistan%4, as there's photographic evidence of caches with this machine gun and %3Eastern Alliance%4 militias wielding it.</English>
         <Spanish>La %3ZB vz. 26%4 era una ametralladora ligera checoslovaca que surgió en los años veinte y entró en acción en la Segunda Guerra Mundial. El éxito de la ZB vz. 26 incluso dio lugar a variantes como la %3Bren%4 británica. En la segunda mitad de los años treinta, la Alemania nazi vendió armas a %3Afganistán%4. Además de fusiles de 7,92 mm, se enviaron ametralladoras producidas en la anexionada República Checa. Además, se produjeron clones de ametralladoras ZB-26 en China durante la Segunda Guerra Mundial. Es muy posible que estas armas llegaran a Afganistán de una u otra forma. Se usaron durante la %3guerra soviética%4 e incluso al principio de la %3guerra de 2001%4, ya que hay pruebas fotográficas de alijos con esta ametralladora y milicias de la %3Alianza del Este%4 usándola.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_K2">
+        <English>K2</English>
+        <Spanish>K2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_K2_Description">
+        <English>The %3K2%4 assault rifle is a gas-operated, selective-fire rifle chambered for the 5.56×45mm NATO cartridge developed in South Korea. Introduced in 1984, the K2 features a rotating bolt and uses a piston-driven operating system, combining elements from the %3M16%4 and %3AK-47%4 rifles. It has a lightweight, durable design suitable for various combat conditions and is the standard service rifle of the %3South Korean military%4.</English>
+        <Spanish>El fusil de asalto %3K2%4 es un fusil accionado por gas de tiro selectivo con recámara para el cartucho 5,56 x 45 mm OTAN desarrollado en Corea del Sur. Introducido en 1984, el K2 presenta un cerrojo rotativo y utiliza un sistema operativo accionado por pistones, combinando elementos de los fusiles %3M16%4 y %3AK-47%4. Tiene un diseño ligero y duradero apto para diversas condiciones de combate y es el fusil reglamentario del %3Ejército surcoreano%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type63MLRS">
+        <English>Type 63 MLRS</English>
+        <Spanish>Lanzacohetes Tipo 63</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type63MLRS_Description">
+        <English>A Chinese-manufactured unguided rocket launcher containing eighteen pounds of TNT, the %3Type 63-2%4 was exported to the %3Afghan mujahideen%4, and it became a symbol of the %3Soviet-Afghan War%4 as much as the Lee-Enfield. During Operation Enduring Freedom, throughout the %3Kunar%4, insurgents would simply lean these up against rocks behind the crest of a ridge near the intended target, then launch them. Because the 63-2 utilizes an electric actuator, it could be set on timers, allowing insurgents time to egress back to their safe houses long before an attack began. Inaccurate, these were used as %3harassment%4 and %3terror weapons%4, but nevertheless inflicted causalties.</English>
+        <Spanish>El %3Tipo 63-2%4, un lanzacohetes no guiado de fabricación china que contiene 8 kilogramos de TNT, se exportó a los %3muyahidines afganos%4, y se convirtió en un símbolo de la %3guerra afgano-soviética%4 tanto como el Lee-Enfield. Durante la Operación Libertad Duradera, en toda la provincia de %3Kunar%4, los insurgentes simplemente los apoyaban contra rocas detrás de la cresta de una colina cerca del objetivo previsto y luego los lanzaban. Dado que el 63-2 utiliza un actuador eléctrico, podía programarse con temporizadores, lo que daba tiempo a los insurgentes a regresar a sus refugios mucho antes de que comenzara el ataque. Eran armas imprecisas que se utilizaban como %3armas de hostigamiento%4 y %3terror%4, pero infligían bajas.</Spanish>
         <Polish></Polish>
       </Key>
     </Container>

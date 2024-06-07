@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor_1M6">
+    <Container name="STR_DN">
+	  <Key ID="STR_LN_BriefingNotes_1M6">
+        <English>EDITOR'S NOTES:&lt;br/&gt;I've read a lot of conflicting information about Marcus' stay in Gulab's village and his extraction, so I've mostly based this on Marcus' book.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Explosions in the Sky - A Storm Is Coming&lt;br/&gt;Explosions in the Sky - Letter Received/Taliban Attacks&lt;br/&gt;Explosions in the Sky - Lone Survivor&lt;br/&gt;Explosions in the Sky - Never, Never, Never Give Up</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;He leído mucha información contradictoria acerca de la estancia de Marcus en la aldea de Gulab y su extracción, así que he basado esta misión principalmente en el libro de Marcus.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Explosions in the Sky - A Storm Is Coming&lt;br/&gt;Explosions in the Sky - Letter Received/Taliban Attacks&lt;br/&gt;Explosions in the Sky - Lone Survivor&lt;br/&gt;Explosions in the Sky - Never, Never, Never Give Up</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_Briefing_Text_1M6">
+        <English>Mikey, Axe and Danny are all dead. Brutally killed by these fucking fanatics. I'm alive. Don't know how, don't even know if I should be. I thank the Lord for giving me the strength to go on and lending me a helping hand. The Battle for Murphy's Ridge was on the 28th. It's been five days, and I still remember it vividly. In some way, I'm still in that ravine. Tomorrow's the Fourth of July. I don't know how things are at home, and I ain't sure if I want to. Mom, Dad, Morgan and Scottie must be heartbroken. But SEALs are not KIA until their body has been found and their kill has been confirmed. No, Marcus, stop thinking about it. Right now I'm sitting on a patch of grass in Marmakur, a small village down the Shuryek Valley. I was found four days ago by the village doctor, a man named Sarawa, who took me in, tended my wounds and gave me water. However, now the Taliban know I'm staying here. I'm now being taken care of by the local police chief, a man called Muhammad Gulab. I never thought I'd say this, but Gulab's kind of become a friend, the closest thing to a friend there is around here. He's a good man. He cares about his people and he's treated me well. All the village folks, including the children, have been super nice to me, and I don't know why. In retrospect, I've been somewhat harsh to them. Gulab has never allowed me to leave the village and head to A-Bad. Just yesterday, we'd planned to make the trek to the nearest American outpost, but that had to be postponed due to a massive rainstorm that came last night. I'll admit I was pissed. I wanted to get out of here as soon as possible, but Gulab wasn't letting me. Now I understand he was trying to protect me at all costs. I don't know what will happen to me anymore. Guess we'll see.</English>
+        <Spanish>Mikey, Axe y Danny están muertos. Brutalmente asesinados por estos putos fanáticos. Yo estoy vivo. No sé cómo, ni siquiera sé si debería estarlo. Doy gracias al Señor por darme fuerzas para seguir adelante y echarme una mano. La batalla por la cresta de Murphy fue el 28. Han pasado cinco días y aún la recuerdo como si siguiera allí. En cierto modo, sigo en ese barranco. Mañana es 4 de julio. No sé cómo están las cosas por casa, y no sé si quiero saberlo. Mamá, papá, Morgan y Scottie deben estar destrozados. Pero los SEAL no están muertos hasta que no se encuentran sus cadáveres y se confirma su muerte. No, Marcus, deja de pensar en eso. Ahora mismo estoy sentado en un terreno de hierba en Marmakur, una aldea pequeña en el valle de Shuryek. Hace cuatro días me encontró el médico de la aldea, un hombre llamado Sarawa, que me acogió, me curó las heridas y me dio agua. Sin embargo, ahora los talibanes saben que estoy aquí. Me está cuidando el jefe de policía local, un hombre llamado Muhamad Gulab. Jamás pensé que diría esto, pero Gulab se ha convertido en una especie de amigo, lo más cercano a un amigo que hay por aquí. Es un buen hombre. Se preocupa por su gente y me ha tratado bien. Todos los aldeanos, incluso los niños, han sido súper amables conmigo, y no sé por qué. Echando la vista atrás, he sido algo duro con ellos. Gulab nunca me ha permitido salir de la aldea y dirigirme a A-Bad. Justo ayer, habíamos planeado hacer el viaje al puesto de avanzada estadounidense más cercano, pero tuvo que posponerse debido a una enorme tormenta que cayó anoche. Admito que estaba mosqueado. Quería salir de aquí lo antes posible, pero Gulab no me dejaba. Ahora entiendo que intentaba protegerme a toda costa. Ya no sé lo que me pasará. Supongo que lo veremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Description_1M6">
+        <English>The Taliban are coming! Follow Gulab to a safe spot before the Taliban get their hands on you!</English>
+        <Spanish>¡Los talibanes se acercan! ¡Sigue a Gulab a un lugar seguro antes de que los talibanes te pongan la mano encima!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Title_1M6">
+        <English>Follow Gulab</English>
+        <Spanish>Seguir a Gulab</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_Description_1M6">
+        <English>The Taliban are searching the village for you. Keep an eye on them, but don't fire unless Gulab gives you the order. The last thing you want right now is to be caught and/or to put the village in danger.</English>
+        <Spanish>Los talibanes te están buscando en la aldea. Vigílalos, pero no dispares a menos que Gulab te dé la orden. Lo último que quieres ahora es que te atrapen y/o poner en peligro a la aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_Title_1M6">
+        <English>Watch the Taliban</English>
+        <Spanish>Vigilar a los talibanes</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_Description_1M6">
+        <English>It's now or never. If you stay, you'll cause these poor people unnecessary pain. Go with Gulab and reach the nearest American outpost, &lt;marker name="marker_0"&gt;near Spetzyahir&lt;/marker&gt;.</English>
+        <Spanish>Es ahora o nunca. Si te quedas, causarás a esta pobre gente un dolor innecesario. Ve con Gulab al puesto de avanzada estadounidense más cercano, &lt;marker name="marker_0"&gt;cerca de Spetzyahir&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_Title_1M6">
+        <English>Reach American forces</English>
+        <Spanish>Llegar a fuerzas estadounidenses</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_Description_1M6">
+        <English>A helicopter is coming to exfiltrate you. However, it will not arrive until nightfall, since the village is surrounded by Taliban forces. Wait until then.</English>
+        <Spanish>Un helicóptero se dirige a extraerte. Sin embargo, no llegará hasta la noche, dado que la aldea está rodeada por fuerzas talibanes. Espera hasta entonces.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_Title_1M6">
+        <English>Wait for the helicopter</English>
+        <Spanish>Esperar al helicóptero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj5_Description_1M6">
+        <English>The Taliban are doing one final assault on the village to kill you! Hold them off with the Rangers and Gulab's villagers!</English>
+        <Spanish>¡Los talibanes están haciendo un último asalto a la aldea para matarte! ¡Mantenlos a raya con los Rangers y los aldeanos de Gulab!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj5_Title_1M6">
+        <English>Defend the village</English>
+        <Spanish>Defender la aldea</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj6_Description_1M6">
+        <English>Time to go! Board the extraction helicopter!</English>
+        <Spanish>¡Hora de irse! ¡Súbete al helicóptero de extracción!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj6_Title_1M6">
+        <English>Board the helicopter</English>
+        <Spanish>Montar en el helicóptero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_MissionTitle_1M6">
+        <English>Two-Two-Eight</English>
+        <Spanish>Dos-dos-ocho</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Intro_1M6">
+        <English>Mission 6 Intro</English>
+        <Spanish>Misión 6: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Outro_1M6">
+        <English>Mission 6 Outro</English>
+        <Spanish>Misión 6: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionDescription_1M6">
+        <English>After being taken in and taken care of by a Pashtun tribe, Marcus and his new protector, local chief Mohammad Gulab, make a break for it in an effort to get Marcus to an American base before the Taliban assault the village.</English>
+        <Spanish>Tras ser acogido y cuidado por una tribu pastún, Marcus y su nuevo protector, el jefe local Mohamad Gulab, emprenden una huida en un esfuerzo por llevar a Marcus a una base estadounidense antes de que los talibanes asalten la aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_text_1M6">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER VI - Two-Two-Eight&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'In her mind, there could be only one possible reason for the call... They'd found my body on the mountain... A voice came down the line and demanded, “Is the family assembled?”.'&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO VI: Dos-dos-ocho&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«En su mente, solo podía haber una razón posible para la llamada... Habían encontrado mi cuerpo en la montaña... Una voz sonó en la línea y preguntó: '¿Está reunida la familia?'»&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_1M6">
+        <English>HM2 Marcus Luttrell</English>
+        <Spanish>HM2 Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_1M6">
+        <English>A Platoon, SDVT-1</English>
+        <Spanish>Pelotón A, SDVT-1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_1M6">
+        <English>Marmakur, Shuryek Valley</English>
+        <Spanish>Marmakur, valle de Shuryek</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel4_1M6">
+        <English>July 3, 2005 - 0931</English>
+        <Spanish>3 julio 2005 - 0931</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message1_1M6">
+        <English>How are you, American?</English>
+        <Spanish>¿Cómo estás, americano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message2_1M6">
+        <English>Holding on.</English>
+        <Spanish>Tirando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message3_1M6">
+        <English>I bring more water. I have guard, Norzamund, he protect you in cave.</English>
+        <Spanish>Traigo más agua. Tengo guardia, Norzamund, protege en cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message4_1M6">
+        <English>American, come. You go back to village.</English>
+        <Spanish>Americano, venir. Volver a aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message5_1M6">
+        <English>You stay in Gulab house. He is son of village boss and policeman. Taliban not attack if you with him.</English>
+        <Spanish>Tú quedar en casa Gulab. Es hijo de jefe aldea y policía. Talibán no ataca si estás con él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message6_1M6">
+        <English>Okay, American, talk me about you.</English>
+        <Spanish>Vale, americano, háblame de ti.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message7_1M6">
+        <English>I'm Marcus. I was doing a recon mission and the Taliban ambushed me. I don't know how I got out of there. I am a military doctor...</English>
+        <Spanish>Soy Marcus. Estaba haciendo una misión de reconocimiento y los talibanes me emboscaron. No sé ni cómo salí de ahí. Soy un doctor militar...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message8_1M6">
+        <English>Doctor? Ah! Hello, Dr. Marcus! Family very important. The village is my life. I have wife, 6 kids and many, many more family.</English>
+        <Spanish>¿Doctor? ¡Ah! ¡Hola, Dr. Marcus! Familia muy importante. Aldea es mi vida. Tengo mujer, 6 niños y mucha, mucha más familia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_1M6">
+        <English>I have my parents, and my brothers Morgan and Scottie. I always think about them here. Morgan looks identical to me. It is a pretty insane thing if you think about it.</English>
+        <Spanish>Yo tengo a mis padres y a mis hermanos, Morgan y Scottie. Siempre pienso en ellos aquí. Morgan es idéntico a mí. Es algo bastante loco si lo piensas bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message10_1M6">
+        <English>Here are more Americans like you. Over there, Dr. Marcus, far side.</English>
+        <Spanish>Aquí más americanos como tú. Allí, Dr. Marcus, lejos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message11_1M6">
+        <English>Yeah. Spetzyahir? There's a US outpost there. But I can't walk all the way there in my state.</English>
+        <Spanish>Sí. ¿Spetzyahir? Hay un puesto de avanzada estadounidense allí. Pero no puedo andar hasta allí en mi estado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message12_1M6">
+        <English>We help. Shina, he goes to Asadabad. You write letter, Shina take it, Americans read it, you go home.</English>
+        <Spanish>Ayudamos. Shina, va a Asadabad. Escribes nota, Shina coge, americanos leen, vas a casa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message13_1M6">
+        <English>I guess we can do that. When would we be leaving?</English>
+        <Spanish>Supongo que podemos hacer eso. ¿Cuándo nos marcharíamos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message14_1M6">
+        <English>We? No, no we. You wounded, Taliban want your head. Only Shina.</English>
+        <Spanish>¿Nos? No, no nos. Tú herido, talibán quieren cabeza. Solo Shina.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message15_1M6">
+        <English>Hey! Down here! It's Marcus! Shit... Here's hoping this powerful yet tiny old man makes it to A-Bad.</English>
+        <Spanish>¡Eh! ¡Aquí abajo! ¡Soy Marcus! Mierda... Espero que ese vejete enano pero poderoso llegue a A-Bad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message16_1M6">
+        <English>Gulab, I have to leave. There's no news from Shina, I'm in danger as long as I'm here, and I don't want you folks to suffer.</English>
+        <Spanish>Gulab, tengo que irme. No hay noticias de Shina, estoy en peligro mientras esté aquí, y no quiero que sufráis.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message17_1M6">
+        <English>Okay. We wait for dark. We slip through Taliban and walk to Spetzyahir. Tonight.</English>
+        <Spanish>Okay. Esperamos a noche. Esquivamos talibán y andamos a Spetzyahir. Hoy noche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message18_1M6">
+        <English>I guess it's either that or going to Asadabad, which is too far away for my leg, or staying here and getting this entire village destroyed.</English>
+        <Spanish>Supongo que es eso o ir a Asadabad, que está demasiado lejos para mi pierna, o quedarme aquí y que destruyan todo este pueblo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message19_1M6">
+        <English>Taliban! Taliban are here! In the village! Run, Dr. Marcus, for God's sake, run!</English>
+        <Spanish>¡Talibán! ¡Talibán aquí! ¡En aldea! ¡Corre, Dr. Marcus, por amor de Dios, corre!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message20_1M6">
+        <English>Gulab! Gulab! Stop! Stop! I don't have my gun.</English>
+        <Spanish>¡Gulab! ¡Gulab! ¡Para! ¡Para! No tengo mi arma.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message21_1M6">
+        <English>(IN PASHTO) What a complete fucking idiot you've turned out to be.</English>
+        <Spanish>(EN PASTÚN) Menudo idiota redomado has resultado ser.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message22_1M6">
+        <English>Stay here. I come back.</English>
+        <Spanish>Espera aquí. Vuelvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message23_1M6">
+        <English>Taliban, Dr. Marcus. We fight. I stay at door. You look through window.</English>
+        <Spanish>Talibán, Dr. Marcus. Luchamos. Yo en puerta. Tú mira en ventana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message24_1M6">
+        <English>Okay guys, let's rock 'n' roll.</English>
+        <Spanish>Vale, chicos, vamos a rocanrolear.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message25_1M6">
+        <English>Death to the infidel!</English>
+        <Spanish>¡Muerte al infiel!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message26_1M6">
+        <English>What the fuck are they doing?</English>
+        <Spanish>¿Qué coño están haciendo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message27_1M6">
+        <English>They come here for you. They want to scare us. But they don't.</English>
+        <Spanish>Vienen por ti. Quieren asustar. Pero no.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message28_1M6">
+        <English>They're leaving, Gulab.</English>
+        <Spanish>Se van, Gulab.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message29_1M6">
+        <English>Taliban gone. They searched house.</English>
+        <Spanish>Talibán fuera. Buscaron casa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message30_1M6">
+        <English>What happens now? Bagram?</English>
+        <Spanish>¿Y ahora qué? ¿Bagram?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message31_1M6">
+        <English>Bagram. Helicopter will come.</English>
+        <Spanish>Bagram. Helicóptero viene.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message32_1M6">
+        <English>Helicopter no come.</English>
+        <Spanish>Helicóptero no viene.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message33_1M6">
+        <English>Helicopter come.</English>
+        <Spanish>Helicóptero viene.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message34_1M6">
+        <English>We should get moving right away, Gulab. The weather's nice, and the Talibs will be back, and they may not fire up into the air next time.</English>
+        <Spanish>Deberíamos ponernos en marcha, Gulab. Hace buen tiempo y los talis volverán, y puede que la próxima vez no disparen al cielo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_1M6">
+        <English>Okay. Let's go. Follow me.</English>
+        <Spanish>Okay. Vamos. Sigue.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_2_1M6">
+        <English>Dude, that's fucking Shah!</English>
+        <Spanish>¡Tío, ese es el puto Shah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message36_1M6">
+        <English>Don't shoot, Marcus.</English>
+        <Spanish>No dispares, Marcus.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message37_1M6">
+        <English>(IN PASHTO) You. Give us the American and no harm will befall you or your village.</English>
+        <Spanish>(EN PASTÚN) Tú. Danos al americano y no os ocurrirá ningún daño ni a ti ni a tu aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message38_1M6">
+        <English>(IN PASHTO) No, I will not hand him over to you.</English>
+        <Spanish>(EN PASTÚN) No, no te lo voy a entregar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message39_1M6">
+        <English>(IN PASHTO) You will die. Your brother will die. Your cousins will die. Your whole family will die. It's not worth it. Give us the American.</English>
+        <Spanish>(EN PASTÚN) Morirás. Tu hermano morirá. Tus primos morirán. Tu familia entera morirá. No vale la pena. Danos al americano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message40_1M6">
+        <English>(IN PASHTO) No, I will protect him 'til the end.</English>
+        <Spanish>(EN PASTÚN) No, lo protegeré hasta el final.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message41_1M6">
+        <English>(IN PASHTO) You made your choice. We will come for all of you! For this you will die. Let's go.</English>
+        <Spanish>(EN PASTÚN) Has tomado una decisión. ¡Iremos a por todos! Moriréis por esto. Vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message42_1M6">
+        <English>What did he say, Gulab?</English>
+        <Spanish>¿Qué ha dicho, Gulab?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message43_1M6">
+        <English>Nothing. We go now.</English>
+        <Spanish>Nada. Vamos ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message44_1M6">
+        <English>Gulab, I don't know if I'm gonna make it... My legs aren't as strong as they used to be.</English>
+        <Spanish>Gulab, no sé si voy a poder... Mis piernas no son tan fuertes como antes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message45_1M6">
+        <English>Come on, Dr. Marcus! Just a bit more!</English>
+        <Spanish>¡Vamos, Dr. Marcus! ¡Un poquito más!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message46_1M6">
+        <English>You! Halt!</English>
+        <Spanish>¡Tú! ¡Alto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message47_1M6">
+        <English>Two-Two-Eight! It's Two-Two-Eight!</English>
+        <Spanish>¡Dos-dos-ocho! ¡Es dos-dos-ocho!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message48_1M6">
+        <English>American?</English>
+        <Spanish>¿Americano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message49_1M6">
+        <English>Uh-huh.</English>
+        <Spanish>Ajá.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message50_1M6">
+        <English>It's Marcus, guys! We got him! We got him!</English>
+        <Spanish>¡Es Marcus, chicos! ¡Lo tenemos! ¡Lo tenemos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message51_1M6">
+        <English>Hey, bro. It's good to see you.</English>
+        <Spanish>Ey, tío. Me alegro de verte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message52_1M6">
+        <English>Travis, patch this man up ASAP!</English>
+        <Spanish>¡Travis, cura a este hombre ahora mismo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message53_1M6">
+        <English>So, how do you guys pass the time in the village?</English>
+        <Spanish>Y ¿cómo pasáis el rato en la aldea?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message54_1M6">
+        <English>We pray. We plant. We farm. We take care of family. With Taliban we can't have fun.</English>
+        <Spanish>Rezamos. Plantamos. Trabajamos. Cuidamos a familia. Con talibán no podemos pasarlo bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message55_1M6">
+        <English>The Taliban are nasty bastards. But this is all coming to an end. We will bring democracy to this place.</English>
+        <Spanish>Los talibanes son cabrones repugnantes. Pero todo esto está llegando a su fin. Traeremos la democracia a este sitio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message56_1M6">
+        <English>People see you as invaders. People think Taliban are bad, but Afghan. They scared of people from other land.</English>
+        <Spanish>Gente ve vosotros como invasores. Gente cree que talibán malos, pero afganos. Miedo de personas de otra tierra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message57_1M6">
+        <English>This wouldn't have happened if it weren't for some rich Arab guy. Ain't our fault. But you folks are alright. I want you to be safe.</English>
+        <Spanish>Esto no habría pasado de no ser por un árabe ricachón. No es culpa nuestra. Pero vosotros sois buena gente. Quiero que estéis a salvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message58_1M6">
+        <English>What happened, Marcus? What can we do for you?</English>
+        <Spanish>¿Qué ha pasado, Marcus? ¿Qué podemos hacer por ti?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message59_1M6">
+        <English>Get me and Gulab out of here. That's all I will ask for.</English>
+        <Spanish>Sacadme a Gulab y a mí de aquí. Es lo único que pediré.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message60_1M6">
+        <English>My guys —Mikey, Danny, Axe— are all dead. I was the doctor, and I couldn't save them. It's been haunting me ever since.</English>
+        <Spanish>Mis chicos —Mikey, Danny, Axe— están muertos. Era el médico y no pude salvarlos. Me ha estado carcomiendo desde entonces.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message61_1M6">
+        <English>I'm really sorry to hear that. US forces are still trying to retrieve their bodies. Them and a helicopter crew that was shot down.</English>
+        <Spanish>Lo siento mucho. Las fuerzas estadounidenses aún están intentando recuperar sus cuerpos. Los suyos y los de una tripulación de un helicóptero derribado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message62_1M6">
+        <English>There's Taliban everywhere around here. Al Riyal's their main stronghold in the area, but they've got guys all over the valley.</English>
+        <Spanish>Hay talibanes por todas partes. Al Riyal es su principal bastión en la zona, pero tienen gente en todo el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message63_1M6">
+        <English>They want to take me, and they'll burn the village I'm staying in to the ground if they have to. They're waiting for their chance to strike.</English>
+        <Spanish>Quieren secuestrarme, y harán cenizas la aldea donde me estoy alojando si hace falta. Están esperando la oportunidad de atacar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message64_1M6">
+        <English>Don't worry about that, Marcus. We've got enough guys for them. Where are you staying?</English>
+        <Spanish>No te preocupes por eso, Marcus. Tenemos chicos de sobra para ellos. ¿Dónde te alojas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message65_1M6">
+        <English>Marmakur, down the Shuryek Valley. How many guys do you have?</English>
+        <Spanish>Marmakur, en el valle de Shuryek. ¿Cuánta gente tienes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message66_1M6">
+        <English>We're good. Twenty. We got gunships, Apache 64s, standing by. Whatever we need. We're good.</English>
+        <Spanish>De sobra. Veinte. Tenemos artillados, Apaches 64, a la espera. Lo que necesitamos. Estamos bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message67_1M6">
+        <English>Okay. But you should really know, we are surrounded by them.</English>
+        <Spanish>Vale. Pero deberías saber que estamos rodeados por ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message68_1M6">
+        <English>Roger that, Marcus. We'll act accordingly. Let's go back to the village and prep the exfil. Shall we?</English>
+        <Spanish>Recibido, Marcus. Actuaremos en consecuencia. Volvamos a la aldea y preparemos la extracción. ¿Vamos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message69_1M6">
+        <English>One sec, before we leave. How the hell did you know I was here?</English>
+        <Spanish>Un segundo, antes de irnos. ¿Cómo diantres sabíais que estaba aquí?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message70_1M6">
+        <English>The flight crews picked up your radio beacon. We knew it was a SEAL radio, but we had to make sure it wasn't a Taliban operating it.</English>
+        <Spanish>Las tripulaciones de vuelo captaron tu radiobaliza. Sabíamos que era de una radio de un SEAL, pero teníamos que asegurarnos de que no la estuviese operando un talibán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message71_1M6">
+        <English>We figured the Taliban have no clue how to operate a beacon, so we reasoned that one of the SEALs was indeed still alive in the valley. So we started looking for you, and here we are now.</English>
+        <Spanish>Pensamos que los talibanes no tienen ni idea de cómo funciona una baliza, así que dedujimos que, efectivamente, uno de los SEAL seguía vivo en el valle. Así que empezamos a buscarte, y aquí estamos ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message72_1M6">
+        <English>You know, guys, I was hoping I'd be rescued by SEALs.</English>
+        <Spanish>Veréis, chicos, esperaba que me rescatasen los SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message73_1M6">
+        <English>See that, the SEALs get in trouble, and they gotta send for the Army to get 'em out, like always. Ha ha!</English>
+        <Spanish>Ya lo véis, los SEAL se meten en líos y tienen que enviar al Ejército a sacarlos, como siempre. ¡Ja, ja!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message74_1M6">
+        <English>No, but really, I am truly grateful. You sure risked a lot coming here.</English>
+        <Spanish>No, pero en serio, estoy muy agradecido. Habéis arriesgado mucho viniendo aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message75_1M6">
+        <English>Hooah. No one gets left behind.</English>
+        <Spanish>Hooah. Nadie se queda atrás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message76_1M6">
+        <English>Beastmaster, this is Spartan 32. We've found Luttrell. He's stable. The rest of the team is KIA, according to him. Luttrell's safe for now, but we're holed up in Marmakur, a potentially hostile Afghan village, and we're surrounded by the Taliban. Requesting evacuation at nightfall. How copy, over?</English>
+        <Spanish>Beastmaster, aquí Spartan 32. Hemos encontrado a Luttrell. Está estable. El resto del equipo cayó en combate, según él. Luttrell está a salvo por ahora, pero estamos atrincherados en Marmakur, una aldea afgana posiblemente hostil, y estamos rodeados por los talibanes. Solicito evacuación por la noche. ¿Me recibe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message77_1M6">
+        <English>Solid copy, Spartan 32. That's great news. We'll send a Pave Hawk at 2200. Sit tight. Out.</English>
+        <Spanish>Alto y claro, Spartan 32. Buenísima noticia. Enviaremos un Pave Hawk a las 2200. Aguanten. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message78_1M6">
+        <English>Now, Marcus, I completely understand if you don't want to talk about it, but where can we find your fallen teammates?</English>
+        <Spanish>Marcus, entiendo perfectamente que no quieras hablar del tema, pero ¿dónde podemos encontrar a tus camaradas caídos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message79_1M6">
+        <English>I'll gladly tell you. Those men need a proper burial. We were ambushed by the Taliban on the peak of Sawtalo Sar, just west of Al Riyal.</English>
+        <Spanish>Te lo diré encantado. Esos hombres necesitan un funeral en condiciones. Nos emboscaron los talibanes en la cima de Sawtalo Sar, justo al oeste de Al Riyal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message80_1M6">
+        <English>We had to try to get to open ground, so we kept retreating and returning fire, jumping off several cliffs, hoping to establish some defense that was never feasible. Matt Axelson was holding our left flank with overwhelming gallantry.</English>
+        <Spanish>Teníamos que intentar llegar a terreno abierto, así que seguimos retrocediendo y devolviendo el fuego, saltando desde varios acantilados, con la esperanza de establecer alguna defensa que nunca fue factible. Matt Axelson estaba defendiendo nuestro flanco izquierdo con una gallardía abrumadora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message81_1M6">
+        <English>Danny Dietz was in the worst position by far. Shot multiple times, but he kept firing until his last breath. He died in my arms, bullet to the head. I'll never forget that. We dropped to the ravine that leads to the Shuryek Valley.</English>
+        <Spanish>Danny Dietz era el que peor estaba con diferencia. Le dispararon varias veces, pero siguió disparando hasta su último aliento. Murió en mis brazos, con una bala en la cabeza. Nunca lo olvidaré. Caímos al barranco que lleva al valle de Shuryek.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message82_1M6">
+        <English>When we thought all was lost, Mikey —Mike Murphy—, our team leader, my best friend, who demonstrated incredible leadership skills, did the bravest act I can possibly think of.</English>
+        <Spanish>Cuando pensamos que todo estaba perdido, Mikey —Mike Murphy—, nuestro líder de equipo, mi mejor amigo, que hizo gala de sus increíbles dotes para el liderazgo, hizo el acto más valeroso que se me ocurriría jamás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message83_1M6">
+        <English>He walked out from our cover and exposed himself to enemy fire in order to contact our QRF. I didn't see him die, but his screams were absolutely haunting. I heard him returning fire until the very end.</English>
+        <Spanish>Salió de nuestra cobertura y se expuso al fuego enemigo para ponerse en contacto con nuestra FRR. No lo vi morir, pero sus gritos eran absolutamente estremecedores. Le oí devolver el fuego hasta el final.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message84_1M6">
+        <English>It was just Axe and me left. Axe was heavily wounded, with a gunshot to the back of his head. I didn't have time to make amends with God when a grenade blew us apart. I woke up further down the ravine and that was the last I saw of Axe.</English>
+        <Spanish>Solo quedábamos Axe y yo. Axe estaba gravemente herido, con un disparo en la nuca. No tuve tiempo de enmendarme con Dios cuando una granada nos hizo saltar por los aires. Me desperté más abajo en el barranco y esa fue la última vez que vi a Axe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message85_1M6">
+        <English>Bleeding, I walked all the way to the village lake, where these folks found me. I've been here like four days now. We're SEALs, we're never out of the fight.</English>
+        <Spanish>Sangrando, caminé hasta el lago de la aldea, donde esta gente me encontró. Llevo aquí como cuatro días ya. Somos SEAL, nunca dejamos de luchar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message86_1M6">
+        <English>But in the end, and despite being SEALs, there were just too many of them, and too many Russian grenades, the ones that finally blew Axe and me clean out of the battle.</English>
+        <Spanish>Pero al final, y pese a ser SEAL, eran demasiados y había demasiadas granadas rusas, las que nos dejaron a Axe y a mí fuera de combate.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message87_1M6">
+        <English>Their casualties were high, of course. But they have no shortage of followers. Gulab and his people have taken care of me. I owe them my life, really.</English>
+        <Spanish>Sus bajas fueron elevadas, por supuesto. Pero no tienen escasez de seguidores. Gulab y su gente han cuidado de mí. Les debo mi vida, de verdad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message88_1M6">
+        <English>My God. That's quite the story, Marcus. You and your friends are heroes in my book. I doubt the Taliban will attack this village, with so many Americans now. Let's find a good LZ and wait it out.</English>
+        <Spanish>Dios mío. Menuda historia, Marcus. Tus amigos y tú sois héroes para mí. Dudo que los talibanes ataquen esta aldea con tantos americanos ahora. Busquemos una buena ZA y esperemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message89_1M6">
+        <English>Marcus! Marcus! Taliban! Taliban, Marcus! Taliban!</English>
+        <Spanish>¡Marcus! ¡Marcus! ¡Talibán! ¡Talibán, Marcus! ¡Talibán!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message90_1M6">
+        <English>Captain, the Taliban are coming!</English>
+        <Spanish>¡Capitán, los talibanes se acercan!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message91_1M6">
+        <English>Gents, to your stations! Man the guns! Don't let 'em through!</English>
+        <Spanish>¡Señores, a sus puestos! ¡A las armas! ¡Que no pasen!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message92_1M6">
+        <English>Call it in!</English>
+        <Spanish>¡Pídelo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message93_1M6">
+        <English>Beastmaster, Spartan 32! Requesting close air support at Marmakur! We're being attacked by several Taliban squads, over!</English>
+        <Spanish>¡Beastmaster, Spartan 32! ¡Solicito apoyo aéreo cercano en Marmakur! ¡Nos están atacando varios escuadrones talibanes, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message94_1M6">
+        <English>Roger that, we're sending you an escort Apache, callsign Shock 54. ETA: 2 minutes. Out.</English>
+        <Spanish>Recibido, enviamos un Apache de escolta, indicativo Shock 54. Tiempo estimado de llegada: 2 minutos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message95_1M6">
+        <English>Hey fellas, you asked for a ride?</English>
+        <Spanish>Hola, señores, ¿han pedido un transporte?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message96_1M6">
+        <English>Marcus, get to the chopper!</English>
+        <Spanish>¡Marcus, entra en el helicóptero!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message97_1M6">
+        <English>Come on, Gulab, let's go!</English>
+        <Spanish>¡Venga, Gulab, vámonos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message98_1M6">
+        <English>I guess this is a goodbye. Thank you, Gulab. I, uh... don't know what to say.</English>
+        <Spanish>Supongo que esto es una despedida. Gracias, Gulab. Eh... no sé qué decir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message99_1M6">
+        <English>Nothing. Take care of you, Dr. Marcus.</English>
+        <Spanish>Nada. Cuida de ti, Dr. Marcus.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message100_1M6">
+        <English>Likewise. You people deserve the very best. Please, take my watch as my way of saying thanks.</English>
+        <Spanish>Igualmente. Os merecéis lo mejor. Por favor, quédate con mi reloj como forma de darte las gracias.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message101_1M6">
+        <English>No, I can't. We help people who need help. You go home now.</English>
+        <Spanish>No, no puedo. Ayudamos a personas que necesitan ayuda. Ve a casa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message102_1M6">
+        <English>Oh, Marcus! Come on, buddy. Let's get you on a stretcher.</English>
+        <Spanish>¡Oh, Marcus! Ven, amigo. Voy a subirte a una camilla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message103_1M6">
+        <English>Mr. and Mrs. Luttrell?</English>
+        <Spanish>¿Señor y señora Luttrell?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message103_2_1M6">
+        <English>Yes.</English>
+        <Spanish>Sí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message104_1M6">
+        <English>We got him, ma'am. We got Marcus. And he's stable.</English>
+        <Spanish>Lo tenemos, señora. Tenemos a Marcus. Y está estable.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_dontshoot_hint_1M6">
+        <English>Don't fire unless explicitly told to and don't get yourself seen by the Taliban! If you are spotted, you will be captured and the village will be razed to the ground!</English>
+        <Spanish>¡Mantengamos el ritmo, caballeros! ¡OBL no se va a capturar solo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_taliban_dialogue_1M6">
+        <English>TALIBAN</English>
+        <Spanish>TALIBÁN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_shah_dialogue_1M6">
+        <English>SHAH</English>
+        <Spanish>SHAH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_afghansoldier_dialogue_1M6">
+        <English>ANA SOLDIER</English>
+        <Spanish>SOLDADO DEL ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_rangerleader_dialogue_1M6">
+        <English>RANGER LEADER</English>
+        <Spanish>LÍDER RANGER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_mrsluttrell_dialogue_1M6">
+        <English>MRS. LUTTRELL</English>
+        <Spanish>SRA. LUTTRELL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_telephone_dialogue_1M6">
+        <English>TELEPHONE</English>
+        <Spanish>TELÉFONO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_rangerleader_radio_1M6">
+        <English>Spartan 32</English>
+        <Spanish>Spartan 32</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_blackhawk_radio_1M6">
+        <English>Dustoff 6</English>
+        <Spanish>Dustoff 6</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission1_1M6">
+        <English>&lt;t size='1.5'&gt;S O M E   D A Y S   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N O S   D Í A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission_1M6">
+        <English>&lt;t size='1.5'&gt;There is a randomness to life. A luck, a rhythm that is beyond my ability to understand.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Hay un azar en la vida. Una suerte, un ritmo que está más allá de mi capacidad de comprensión.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission2_1M6">
+        <English>&lt;t size='1.5'&gt;Brave men have fought and died building the proud tradition and fear of reputation that I am bound to uphold.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Valientes hombres han luchado y muerto forjando la orgullosa tradición y miedo a la reputación que yo debo defender.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission3_1M6">
+        <English>&lt;t size='1.5'&gt;I died up on that mountain. There's no question a part of me will forever be up on that mountain dead as my brothers died.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Yo morí en esa montaña. No cabe duda de que parte de mí seguirá en esa montaña, muerta como mis hermanos.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission4_1M6">
+        <English>&lt;t size='1.5'&gt;But, there is a part of me that lived. Because of my brothers, because of them, I am still alive, and I can never forget that no matter how much it hurts, how dark it gets, how far you fall...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Pero hay una parte de mí que vivió. Gracias a mis hermanos, gracias a ellos, sigo vivo, y jamás puedo olvidar que, por mucho que duela, por muy oscuro que sea, por mucho que caigas...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission5_1M6">
+        <English>&lt;t size='1.5'&gt;You are never out of the fight.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Nunca dejas de luchar.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission6_1M6">
+        <English>&lt;t size='1.5'&gt;The remains of Axelson, Dietz and Murphy were retrieved two days later by Air Force PJs Josh Appel and Chris Piercecchi. Including all the soldiers on board the downed helicopter, a total of 19 US servicemen were killed on June 28th, including the commander of the 160th SOAR, Major Stephen C. Reich, and ground commander LCDR Erik S. Kristensen, of SEAL Team 10.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Los restos de Axelson, Dietz y Murphy fueron recuperados dos días después por los pararrescatadores Josh Appel y Chris Piercecchi de la Fuerza Aérea. Contando todos los soldados a bordo del helicóptero derribado, un total de 19 militares estadounidenses murieron el 28 de junio, incluidos el comandante del 160.º SOAR, el mayor Stephen C. Reich, y el comandante LCDR Erik S. Kristensen, del Décimo Equipo SEAL.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission7_1M6">
+        <English>&lt;t size='1.5'&gt;In the weeks following Marcus Luttrell's rescue, Gulab and his family received threats from the Taliban, and they were relocated to Asadabad. Gulab travelled several times to the US to visit his new unlikely friend.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;En las semanas posteriores al rescate de Marcus Luttrell, Gulab y su familia recibieron amenazas de los talibanes y fueron trasladados a Asadabad. Gulab viajó varias veces a EE. UU. para visitar a su nuevo amigo inesperado&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission8_1M6">
+        <English>&lt;t size='1.5'&gt;Marcus Luttrell returned to Iraq, engaging in high-intensity urban fighting in the city of Ramadi. While back in Iraq, Luttrell got injured again, blowing out his knees and fracturing his spine during a raid. In addition, his injuries from Operation Red Wings had not been given enough time to heal. As a result, he left the Navy in 2007 and was officially medically retired from duty in 2009.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Marcus Luttrell volvió a Irak, participando en combates urbanos de alta intensidad en la ciudad de Ramadi. De vuelta en Irak, Luttrell volvió a resultar herido, se destrozó las rodillas y se fracturó la columna durante una incursión. Además, sus heridas de la Operación Red Wings no habían tenido tiempo suficiente para curarse. En consecuencia, abandonó la Armada en 2007 y fue retirado oficialmente del servicio por motivos médicos en 2009.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_subtitle_1M6">
+        <English>You were spotted</English>
+        <Spanish>Te han visto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_description_1M6">
+        <English>You have been spotted by the Taliban! You've put the whole village at risk!</English>
+        <Spanish>¡Los talibanes te han visto! ¡Has puesto a la aldea entera en riesgo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_end1_subtitle_1M6">
+        <English>Successfully rescued</English>
+        <Spanish>Rescatado con éxito</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_end1_description_1M6">
+        <English>Tragedy after tragedy, sacrifice after sacrifice, you made it. After five long days of unbearable pain and extreme endurance, you've survived. Thanks to Mike, Axe and Danny, thanks to Sarawa, Gulab and the other villagers, thanks to the Rangers and PJs, you live to tell the story. It is finally over.</English>
+        <Spanish>Tragedia tras tragedia, sacrificio tras sacrificio, lo has conseguido. Tras cinco largos días de dolor insoportable y resistencia extrema, has sobrevivido. Gracias a Mike, Axe y Danny, gracias a Sarawa, Gulab y los demás aldeanos, gracias a los Rangers y los PJ, vives para contarlo. Por fin ha terminado.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

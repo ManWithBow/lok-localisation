@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor_1M1">
+    <Container name="STR_DN">
+	  <Key ID="STR_LN_BriefingNotes_Text_1M1">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Welcome and thanks for playing Lone Survivor, a custom campaign for Arma 3! This campaign is mainly based on Marcus Luttrell's non-fiction book, parts of the 2013 movie by the same name, and some elements from Ed Darack's book Victory Point. The aim of this campaign is to depict the fateful Operation Red Wings in 2005 as faithfully and respectfully as possible. Hope you enjoy! This mission is a very chill one, mostly based on the opening scenes of the movie, but also includes some tidbits from Marcus' book.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Slipknot - Before I Forget&lt;br/&gt;Explosions in the Sky - Waking Up&lt;br/&gt;Foo Fighters - Everlong</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;¡Bienvenido y gracias por jugar a El único superviviente, una campaña personalizada para Arma 3! Esta campaña se basa principalmente en el libro factual de Marcus Luttrell, en partes de la película homónima de 2013 y en algunos elementos del libro Victory Point de Ed Darack. El objetivo de esta campaña es representar la fatídica Operación Red Wings de 2005 de la forma más fiel y respetuosa posible. ¡Espero que la disfrutes! Esta misión es muy tranquila y se basa principalmente en las escenas iniciales de la película, pero también incluye algunos fragmentos del libro de Marcus.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Slipknot - Before I Forget&lt;br/&gt;Explosions in the Sky - Waking Up&lt;br/&gt;Foo Fighters - Everlong</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Description_1M1">
+        <English>You aren't possibly thinking of going outside in your underwear, right? Go to your wardrobe and put on your uniform.</English>
+        <Spanish>No estarás pensando en salir afuera en calzoncillos, ¿verdad? Ve al armario y ponte el uniforme.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Title_1M1">
+        <English>Get dressed</English>
+        <Spanish>Vestirse</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_Description_1M1">
+        <English>The rest of the team will be at the gym, or so they've said. Go there and meet them.</English>
+        <Spanish>El resto del equipo estará en el gimnasio, o eso han dicho. Ve allí y reúnete con ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_Title_1M1">
+        <English>Go to the gym</English>
+        <Spanish>Ir al gimnasio</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_Description_1M1">
+        <English>It's a good time to eat a good bowl of cereal. Go grab some breakfast and sit at the table.</English>
+        <Spanish>Es buena hora para comerse un buen bol de cereales. Pilla el desayuno y siéntate en la mesa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_Title_1M1">
+        <English>Have breakfast</English>
+        <Spanish>Desayunar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_Description_1M1">
+        <English>Almost every day, you pass some hours at the hospital helping the doctor. Go pay him a visit and see what you can do for him.</English>
+        <Spanish>Casi todos los días, pasas algunas horas en el hospital ayudando al doctor. Hazle una visita y a ver qué puedes hacer por él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_Title_1M1">
+        <English>Help at the hospital</English>
+        <Spanish>Ayudar en el hospital</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj5_Description_1M1">
+        <English>A marine has arrived at the hospital looking for assistance. Help him.</English>
+        <Spanish>Ha llegado un marine al hospital en busca de ayuda. Dásela.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj5_Title_1M1">
+        <English>Help the marine</English>
+        <Spanish>Ayudar al marine</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj6_1_Description_1M1">
+        <English>The marine has brought two wounded Afghan civilians to the airfield. Pull them out of the ambulance, carry them inside the hospital tent, stabilize them and treat their wounds.</English>
+        <Spanish>El marine ha traído dos civiles afganos heridos al aeródromo. Sácalos de la ambulancia, llévalos a la tienda hospital, estabilízalos y trata sus heridas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj6_1_Title_1M1">
+        <English>Treat the first civilian</English>
+        <Spanish>Tratar al primer civil</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj6_2_Title_1M1">
+        <English>Treat the second civilian</English>
+        <Spanish>Tratar al segundo civil</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_objBriefing_Description_1M1">
+        <English>Operation Red Wings is set to begin in just a few hours. Go to the hangar where the PLO's being held and attend the briefing to get all the information you need for the op.</English>
+        <Spanish>La Operación Red Wings comenzará en escasas horas. Ve al hangar donde se está realizando el PLO y asiste a la reunión para obtener toda la información que necesitas para la operación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_objBriefing_Title_1M1">
+        <English>Attend the briefing</English>
+        <Spanish>Asistir a la reunión</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_MissionTitle_1M1">
+        <English>To Afghanistan... in a Flying Warehouse</English>
+        <Spanish>Hacia Afganistán... en un almacén volador</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Intro_1M1">
+        <English>Mission 1 Intro</English>
+        <Spanish>Misión 1: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Outro_1M1">
+        <English>Mission 1 Outro</English>
+        <Spanish>Misión 1: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionDescription_1M1">
+        <English>Marcus, now seconded to SEAL Team 10, is sent to Bagram Airfield, Afghanistan to get ready for an upcoming recon mission, Operation Red Wings.</English>
+        <Spanish>Marcus, ahora transferido al Décimo Equipo SEAL, es enviado al aeródromo de Bagram, Afganistán para prepararse para una misión de reconocimiento, la Operación Red Wings.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_text_1M1">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER I - To Afghanistan... in a Flying Warehouse&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'This was payback time for the World Trade Center. We were coming after the guys who did it. If not the actual guys, then their blood brothers, the lunatics who still wished us dead and might try it again.'&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO I: Hacia Afganistán... en un almacén volador&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Fue venganza por el World Trade Center. Íbamos a por los que lo habían hecho. Si no a por ellos mismos, entonces a por sus hermanos de sangre, a por los lunáticos que nos querían ver muertos y podían volver a intentarlo.»&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_1M1">
+        <English>HM2 Marcus Luttrell</English>
+        <Spanish>HM2 Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_1M1">
+        <English>A Platoon, SDVT-1</English>
+        <Spanish>Pelotón A, SDVT-1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_1M1">
+        <English>Bagram Airfield</English>
+        <Spanish>Aeródromo de Bagram</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel4_1M1">
+        <English>June 26, 2005 - 0600</English>
+        <Spanish>26 junio 2005 - 0600</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message1_1M1">
+        <English>Is this doable?</English>
+        <Spanish>¿Esto es factible?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message2_1M1">
+        <English>Expensive.</English>
+        <Spanish>Es caro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message3_1M1">
+        <English>How much?</English>
+        <Spanish>¿Cuánto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message4_1M1">
+        <English>Arabian. She’s got good taste.</English>
+        <Spanish>Árabe. Tiene buen gusto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message5_1M1">
+        <English>I'll find out. Expensive.</English>
+        <Spanish>Lo averiguaré. Caro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message6_1M1">
+        <English>I'll go see if Danny's up for some training. See you at the gym?</English>
+        <Spanish>Voy a ver si a Danny le apetece entrenar un poco. ¿Te veo en el gimnasio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message7_1M1">
+        <English>Sure, in a little while.</English>
+        <Spanish>Sí, en un ratito.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message8_1M1">
+        <English>Alright, Sleeping Beauty. 'Til later.</English>
+        <Spanish>Vale, Bella Durmiente. Hasta luego.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_1M1">
+        <English>Since when does she want an Arabian horse?</English>
+        <Spanish>¿Desde cuándo quiere un caballo árabe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message10_1M1">
+        <English>Since I got an email this morning. Probably saw it on Oprah.</English>
+        <Spanish>Desde que me llegó un email esta mañana. Seguramente lo vio en Oprah.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message11_1M1">
+        <English>Oprah rides Arabian horses?</English>
+        <Spanish>¿Oprah tiene caballos árabes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message12_1M1">
+        <English>I don't know what Oprah does.</English>
+        <Spanish>Yo qué sé lo que hace Oprah.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message13_1M1">
+        <English>She can afford them.</English>
+        <Spanish>Ella se los puede permitir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message14_1M1">
+        <English>Why? How much do they cost?</English>
+        <Spanish>¿Por qué? ¿Cuánto cuestan?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message15_1M1">
+        <English>I don't know. Oprah money.</English>
+        <Spanish>No lo sé. Dinero de Oprah.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message16_1M1">
+        <English>Fuck.</English>
+        <Spanish>Joder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message17_1M1">
+        <English>I thought you guys were doing this tomorrow?</English>
+        <Spanish>Pensaba que íbais a hacer esto mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message18_1M1">
+        <English>Maybe I’m starting to become tele-fucking-pathic - non-verbal Yoda or something. I could swear I just said out loud that I thought this was happening tomorrow.</English>
+        <Spanish>Creo que me estoy volviendo telepático, un puto Yoda no verbal o yo qué sé. Juraría que acabo de decir que pensaba que esto iba a pasar mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message19_1M1">
+        <English>I think Red Wings is a go. Tomorrow.</English>
+        <Spanish>Creo que Red Wings es un hecho. Mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message20_1M1">
+        <English>Oh. Outstanding.</English>
+        <Spanish>Ah. Maravilloso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message21_1M1">
+        <English>You're doing it now?</English>
+        <Spanish>¿Vais a hacerlo ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message22_1M1">
+        <English>They're going at it now?</English>
+        <Spanish>¿Lo van a hacer ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message23_1M1">
+        <English>Looks that way.</English>
+        <Spanish>Eso parece.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message24_1M1">
+        <English>Thought you guys were doing this tomorrow...</English>
+        <Spanish>Pensaba que íbais a hacer esto mañana...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message25_1M1">
+        <English>Ready?</English>
+        <Spanish>¿Listo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message26_1M1">
+        <English>Yup.</English>
+        <Spanish>Sip.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message27_1M1">
+        <English>Mark. Set. Go.</English>
+        <Spanish>Preparado. Listo. Ya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message28_1M1">
+        <English>Am I going?</English>
+        <Spanish>¿Yo voy?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message29_1M1">
+        <English>No idea.</English>
+        <Spanish>Ni idea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message30_1M1">
+        <English>I don't know.</English>
+        <Spanish>No lo sé.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message31_1M1">
+        <English>You know.</English>
+        <Spanish>Lo sabes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message32_1M1">
+        <English>If I say I don't know, I don't know. If you go you’ll go. If you don’t go, trust me you will go. Eventually. Comprende?</English>
+        <Spanish>Si digo que no lo sé, es que no lo sé. Si vas, irás. Si no vas, créeme que irás. En algún momento. ¿Capice?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message33_1M1">
+        <English>So, I'm not going?</English>
+        <Spanish>¿O sea que no voy?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message34_1M1">
+        <English>I didn't say that.</English>
+        <Spanish>Yo no he dicho eso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_1M1">
+        <English>You said if you don't go, you will eventually go.</English>
+        <Spanish>Has dicho que si no vas, irás en algún momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message36_1M1">
+        <English>Yeah, that's not saying you aren't going.</English>
+        <Spanish>Sí, eso no es decir que no vas a ir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message37_1M1">
+        <English>I'm not going.</English>
+        <Spanish>No voy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message38_1M1">
+        <English>Whatever, bro. I'm gonna get some chow. I'll see you two at Ouellette.</English>
+        <Spanish>Lo que tú digas, tío. Voy a comer algo. Os veo en Ouellette.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message39_1M1">
+        <English>Murphy by 1.1.</English>
+        <Spanish>Murphy por 1,1.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message40_1M1">
+        <English>Fuck.</English>
+        <Spanish>Joder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message41_1M1">
+        <English>Who won?</English>
+        <Spanish>¿Quién ha ganado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message42_1M1">
+        <English>Murphy. Barely.</English>
+        <Spanish>Murphy. Por poco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message43_1M1">
+        <English>Head shave?</English>
+        <Spanish>¿Rapada?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message44_1M1">
+        <English>Man... I got to think this one out. If I shave his head, I’m going to have to look at him. Really look at him. Ears, face, funny shaped head... I don’t know. Marcus? What do you think?</English>
+        <Spanish>Tío... Tengo que pensármelo. Si le rapo la cabeza, voy a tener que mirarlo. Mirarlo en serio. Orejas, cara, cabezón... No sé. ¿Marcus? ¿Qué opinas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message45_1M1">
+        <English>I don’t know, boss... I don’t want to be looking at him that close either, but he has been running his mouth about beating you... a lot. Head shave is fair.</English>
+        <Spanish>No sé, jefe... Yo tampoco quiero verlo tan de cerca, pero no ha hecho más que decir que te iba a ganar... sin parar. Raparlo es lo justo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message46_1M1">
+        <English>Axe?</English>
+        <Spanish>¿Axe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message47_1M1">
+        <English>Hell yea, I say shave him, and he can’t eat with us, make him eat with E3 Marines until it grows back. Shave the boy.</English>
+        <Spanish>Dí que sí, yo lo raparía. Y que no coma con nosotros, que coma con los marines de E3 hasta que le crezca el pelo. Afeitad al chaval.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message48_1M1">
+        <English>Shane?</English>
+        <Spanish>¿Shane?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message49_1M1">
+        <English>Well, I could go both ways on this. He did lose but, he was close and you’re Mike Murphy and I would have expected a much bigger separation. I’ll plead the fifth on this one.</English>
+        <Spanish>Bueno, lo puedo ver de dos formas. Perdió, pero ha estado cerca, y eres Mike Murphy y habría esperado una separación mucho mayor. Me acogeré a la quinta enmienda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message50_1M1">
+        <English>But you’re the boss, boss. So I’m with you. I’ll shave his head, wax his balls if you give me the order. Sir, I’ll wax my own balls if you take me on Red Wings.</English>
+        <Spanish>Pero eres el jefe, jefe. Así que estoy contigo. Le raparé la cabeza y le depilaré las pelotas si me das la orden. Señor, me depilaré mis propias pelotas si me llevas a Red Wings.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message51_1M1">
+        <English>This fucking guy... I'll leave you guys to it then, I got shit to do at the med station.</English>
+        <Spanish>Qué chaval... Os dejo con lo vuestro, tengo cosas que hacer en la estación médica.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message52_1M1">
+        <English>Alright Marcus. Please, don't break some poor guy's neck.</English>
+        <Spanish>Vale Marcus. Por lo que más quieras, no le partas el cuello a nadie.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message53_1M1">
+        <English>What's up, Doc? How you doing? Anything I can help you with?</English>
+        <Spanish>¿Qué dices, doc? ¿Cómo estás? ¿Te puedo ayudar con algo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message54_1M1">
+        <English>Hi, Marcus. Pretty quiet morning so far, I'm just patching this feller up. The rest are stable and recuperating.</English>
+        <Spanish>Hola, Marcus. Está siendo una mañana muy tranquila. Solo estoy curando a este hombre. Los demás están estables y recuperándose.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message55_1M1">
+        <English>That's good then. And the marines?</English>
+        <Spanish>Eso está bien. ¿Y los marines?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message56_1M1">
+        <English>Well, we've had some fatal casualties and that's a damn shame, but the wounded are stable for now. They're in the other tent.</English>
+        <Spanish>Bueno, hemos tenido algunas bajas de gravedad y es una lástima, pero los heridos están estables por ahora. Están en la otra tienda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message57_1M1">
+        <English>You want me to, uh... stay around in case you need me?</English>
+        <Spanish>¿Quieres que, eh... me quede por aquí por si me necesitas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message58_1M1">
+        <English>I certainly wouldn't oppose to that. Thank you, Marcus.</English>
+        <Spanish>No te voy a decir que no. Gracias, Marcus.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message59_1M1">
+        <English>Fucking Talibs... Stay strong marines, this will not go unpunished!</English>
+        <Spanish>Putos talis... ¡Aguantad, marines, esto no quedará sin castigo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message60_1M1">
+        <English>Danny by 1.1.</English>
+        <Spanish>Danny por 1,1.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message61_1M1">
+        <English>Fuck.</English>
+        <Spanish>Joder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message62_1M1">
+        <English>Who won?</English>
+        <Spanish>¿Quién ha ganado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message63_1M1">
+        <English>Danny. Barely.</English>
+        <Spanish>Danny. Por poco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message64_1M1">
+        <English>Murph, come on... You fell off, man.</English>
+        <Spanish>Murph, venga ya... Te me has caído, tío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message65_1M1">
+        <English>He ran out of the gym first, for what it's worth.</English>
+        <Spanish>El salió primero del gimnasio, que conste.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message66_1M1">
+        <English>I don’t hear no cries, boss. I said I'd beat you, and here we are now.</English>
+        <Spanish>No oigo lloros, jefe. Dije que te ganaría y aquí estamos ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message67_1M1">
+        <English>Yeah Mikey, I'd say he beat you fair and square. But don't sweat it, this doesn't make you any worse of a team leader.</English>
+        <Spanish>Sí, Mikey, yo diría que te ha ganado con todas las de la ley. Pero no te rayes, esto no hace que seas peor líder de equipo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message68_1M1">
+        <English>How about we shave him? Appropriate punishment or nah?</English>
+        <Spanish>¿Y si lo rapamos? ¿Castigo apropiado o no?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message69_1M1">
+        <English>Listen, you attempt to shave me and I'll pluck every single hair from your ass with a pair of tweezers.</English>
+        <Spanish>Mira, como intentes raparme te arranco cada pelo del culo con unas pinzas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message70_1M1">
+        <English>Ouch. That would suck. Alright, fellas, I gotta go help out at the hospital. See ya.</English>
+        <Spanish>Auch. Putada. Bueno, señores, tengo que echar una mano en el hospital. Nos vemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message71_1M1">
+        <English>Doctor, I need you here!</English>
+        <Spanish>¡Doctor, lo necesito aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message72_1M1">
+        <English>Marcus, can you please assist him?</English>
+        <Spanish>Marcus, ¿puedes ayudarlo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message73_1M1">
+        <English>Sure.</English>
+        <Spanish>Claro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message74_1M1">
+        <English>What's the matter?</English>
+        <Spanish>¿Qué pasa?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message75_1M1">
+        <English>I've brought two wounded civilians from the city. They need medical assistance. Come help me bring 'em here.</English>
+        <Spanish>He traído dos civiles heridos de la ciudad. Necesitan asistencia médica. Ayúdeme a traerlos aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message76_1M1">
+        <English>They're in the back of the ambulance.</English>
+        <Spanish>Están en la parte trasera de la ambulancia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message77_1M1">
+        <English>Alright, I got this.</English>
+        <Spanish>Bien, yo me encargo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message78_1M1">
+        <English>That's it, Doc. They're both stabilized. What do you want me to do now?</English>
+        <Spanish>Ya está, doc. Están estabilizados los dos. ¿Qué quieres que haga ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message79_1M1">
+        <English>Great, Marcus. I'll treat them. Here, take over for me.</English>
+        <Spanish>Genial, Marcus. Yo los trataré. Relévame por aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message80_1M1">
+        <English>We were gonna wait but she’s all into it and when she gets her head into something, that’s it. There’s no stopping her.</English>
+        <Spanish>Íbamos a esperar, pero se le ha metido en la cabeza y, cuando algo se le mete en la cabeza, se acabó. No tiene freno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message81_1M1">
+        <English>So just let her do it. It’s good for her. You got a handy man woman. That’s good.</English>
+        <Spanish>Pues deja que lo haga. Le viene bien. Tienes una mujer manitas. Eso está bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message82_1M1">
+        <English>I don't know.</English>
+        <Spanish>No sé.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message83_1M1">
+        <English>Don't know what?</English>
+        <Spanish>¿No sabes qué?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message84_1M1">
+        <English>He’s worried that he’s losing control over his castle.</English>
+        <Spanish>Le preocupa que esté perdiendo el control de su castillo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message85_1M1">
+        <English>Really.</English>
+        <Spanish>En serio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message86_1M1">
+        <English>Ask him.</English>
+        <Spanish>Pregúntale.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message87_1M1">
+        <English>Are you worried that you’re losing control over your castle?</English>
+        <Spanish>¿Te preocupa que estés perdiendo el control de tu castillo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message88_1M1">
+        <English>Shut up, Murph.</English>
+        <Spanish>Cállate, Murph.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message89_1M1">
+        <English>He’s having control issues cause he’s the one who's always made the 'taste' issues in the family.</English>
+        <Spanish>Tiene problemas de control porque él es el que siempre ha tenido los problemas de «gusto» de la familia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message90_1M1">
+        <English>She’s got great taste. I trust her.</English>
+        <Spanish>Tiene muy buen gusto. Me fío de ella.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message91_1M1">
+        <English>So what's the problem?</English>
+        <Spanish>Entonces ¿cuál es el problema?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message92_1M1">
+        <English>It’s not a problem. It’s just very ongoing. Know what I mean?</English>
+        <Spanish>No es un problema. Es que es muy continuo. ¿Sabéis lo que digo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message93_1M1">
+        <English>Not really, no. Marcus, you know what he means?</English>
+        <Spanish>No, no mucho. Marcus, ¿tú sabes lo que dice?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message94_1M1">
+        <English>Control issues.</English>
+        <Spanish>Problemas de control.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message95_1M1">
+        <English>It's not control issues.</English>
+        <Spanish>No son problemas de control.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message96_1M1">
+        <English>What is it?</English>
+        <Spanish>¿Qué es?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message97_1M1">
+        <English>New grass leads to new bushes by the window, leads to new windows, leads to new curtains, leads to new sofa, leads to new rug, leads to new floor...</English>
+        <Spanish>Césped nuevo lleva a arbustos nuevos junto a la ventana, lleva a ventanas nuevas, lleva a cortinas nuevas, lleva a sofá nuevo, lleva a alfombra nueva, lleva a suelo nuevo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message98_1M1">
+        <English>Got it.</English>
+        <Spanish>Entiendo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message99_1M1">
+        <English>Loss of control. Got to let that go, bro.</English>
+        <Spanish>Pérdida de control. Tienes que dejarlo ir, hermano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message100_1M1">
+        <English>It’s like this weird journey that she’s on. Moving through the house one room to the next.</English>
+        <Spanish>Es como un viaje extraño que está haciendo. Moviéndose por la casa de una habitación a otra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message101_1M1">
+        <English>Where is she now?</English>
+        <Spanish>¿Por dónde va ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message102_1M1">
+        <English>Kitchen, I think.</English>
+        <Spanish>Por la cocina, creo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message103_1M1">
+        <English>Uh-oh.</English>
+        <Spanish>Oh, oh.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message104_1M1">
+        <English>Oh shit, the PLO's in one hour. Let's move it, guys.</English>
+        <Spanish>Hostia, el PLO es en una hora. Moveos, chicos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message105_1M1">
+        <English>Operation Red Wings. The target is Ahmad Shah and his, we are estimating ten men, 'loyal amigos'.</English>
+        <Spanish>Operación Red Wings. El blanco es Ahmad Shah y sus, estimamos diez, «leales amigos».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message106_1M1">
+        <English>Objective of this mission is to positively identify Ahmad Shah. Shah killed fourteen marines last Tuesday.</English>
+        <Spanish>El objetivo de esta misión es identificar a Ahmad Shah. Shah mató a catorce marines el martes pasado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message107_1M1">
+        <English>It will in fact be a glorious day when Ahmad Shah is no longer a member of our human community.</English>
+        <Spanish>Será un día glorioso cuando Ahmad Shah ya no forme parte de nuestra comunidad humana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message108_1M1">
+        <English>This operation was conceived by 2/3 Marines and involves a recon team identifying Shah in Phase 1. Phase 2 will involve a SEAL DA team and marines capturing or killing him.</English>
+        <Spanish>Esta operación ha sido planeada por los 2/3 Marines y conlleva que un equipo de reconocimiento identifique a Shah en la fase 1. En la fase 2, un equipo SEAL DA y los marines lo capturarán o matarán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message109_1M1">
+        <English>Meanwhile, marines and ANA soldiers will sweep the surrounding valleys. In the following days, the marines will provide medical care and, depending on the situation, will depart.</English>
+        <Spanish>Mientras tanto, marines y soldados del ENA peinarán los valles de alrededor. En los días siguientes, los marines proporcionarán ayuda médica y, dependiendo de la situación, se marcharán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message110_1M1">
+        <English>Commander Kristensen, your SEALs will be the ones inserted in the region. You have the floor.</English>
+        <Spanish>Comandante Kristensen, sus SEAL serán insertados en la región. Tiene la palabra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message111_1M1">
+        <English>We’re going in with a four man team. The recon team is Dietz, comms. Axe, nav. Luttrell, medic. Murphy, team leader. Murphy, fill us in.</English>
+        <Spanish>Iremos con un equipo de cuatro. El equipo de reconocimiento es Dietz, comunicaciones. Axe, navegación. Luttrell, médico. Murphy, líder. Murphy, pónganos al día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message112_1M1">
+        <English>Bad guy. Senior Taliban commander responsible for killing marines in Eastern Afghanistan and sport killing civilians in the Hindu Kush.</English>
+        <Spanish>Mala gente. Alto comandante talibán responsable del asesinato de marines en el este de Afganistán y de la matanza de civiles en el Hindu Kush.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message113_1M1">
+        <English>Considered Tier One target rumored to be close to Bin Laden. Axe is going to go over our route in.</English>
+        <Spanish>Considerado objetivo de primer nivel, se rumorea que es cercano a Bin Laden. Axe va a repasar nuestra ruta de entrada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message114_1M1">
+        <English>The helo pilots are going to do two false inserts. Then drop us off at our primary insert, located here. Secondary insert located here. From our primary insert, bearing will be zero three zero patrolling 1.5 kilometers to our designated lay up point.</English>
+        <Spanish>Los pilotos van a hacer dos inserciones falsas. Luego nos dejarán en nuestro punto de inserción primario, aquí. El punto secundario está aquí. Desde nuestro punto primario, el rumbo será cero-tres-cero patrullando 1,5 kilómetros hasta nuestro punto de descanso designado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message115_1M1">
+        <English>We will be moving up the backside of this mountain which will offer us good concealment from the target, but the terrain is gonna be rocky, so watch your footing. I’m estimating it’s gonna take us about two hours to complete.</English>
+        <Spanish>Subiremos por la parte trasera de esta montaña, que nos ofrecerá una buena ocultación del blanco, pero el terreno será rocoso, así que cuidado con los pies. Calculo que nos llevará unas dos horas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message116_1M1">
+        <English>Luttrell - medical.</English>
+        <Spanish>Luttrell, medicina.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message117_1M1">
+        <English>First things first, win the fight. There’s no medicine in a gunfight. It’s self aid, buddy aid, corpsman aide. Two weeks ago, Team 3 was near where we will be.</English>
+        <Spanish>Lo primero es lo primero, ganar el combate. No hay medicina en un tiroteo. Es autoayuda, ayuda de compañero, ayuda de enfermero. Hace dos semanas, el Tercer Equipo estuvo cerca de donde estaremos nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message118_1M1">
+        <English>Capelli got bit by a rattlesnake, and contrary to popular belief, there is poison oak, so watch the cock and balls 'cause that will suck. Drink lots of water, wear sunscreen, and Dietz, bring your own chapstick.</English>
+        <Spanish>A Capelli lo mordió una serpiente de cascabel y, en contra de la creencia popular, hay roble venenoso, así que cuidado con la polla y los cojones porque eso sería una putada. Bebed mucha agua, usad protector solar, y Dietz, tráete tu propio bálsamo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message119_1M1">
+        <English>Crypto will be wide band, segment 2-4. Murph’s got a SAT phone. Region is very steep so expect typical comms problems. We’ll be on two hour comms windows.</English>
+        <Spanish>El cripto será de banda ancha, segmento 2-4. Murph tiene un teléfono SAT. La región es muy escarpada, así que esperad los típicos problemas de comunicación. Tendremos ventanas de comunicación de dos horas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message120_1M1">
+        <English>If we miss two windows I’d say wake somebody up. Other than that, don’t sweat it.</English>
+        <Spanish>Si nos saltamos dos ventanas, yo despertaría a alguien. Si no, no hay problema.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message121_1M1">
+        <English>AC-130 is with us?</English>
+        <Spanish>¿El AC-130 estará con nosotros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message122_1M1">
+        <English>Correct. Just for the infil. All comms will be relayed through the AC-130, call sign Glimmer. Sun's up, she’s out. Some of the key prowords - when we have a successful insert, Budweiser.</English>
+        <Spanish>Correcto. Solo para la inserción. Todas las comunicaciones se transmitirán a través del AC-130, indicativo Glimmer. Cuando salga el sol, se va. Algunas de las palabras clave: inserción satisfactoria, Budweiser.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message123_1M1">
+        <English>When we’re one third through infil, it’ll be Corona. Two thirds, Heineken. At our observation point, Schlitz Malt Liquor. And if we positively identify Shah: Touchdown.</English>
+        <Spanish>Cuando llevemos un tercio del camino, Corona. Dos tercios, Heineken. En nuestro punto de observación, Schlitz Malt Liquor. Y si identificamos a Shah: Touchdown.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message124_1M1">
+        <English>Reaction force is the following: the 47’s will relocate to A-Bad overnight. You’ll have fifteen team guys, and about a dozen marines standing by all night.</English>
+        <Spanish>La fuerza de reacción es la siguiente: los 47 se trasladarán a A-Bad por la noche. Tendréis quince hombres del equipo y una docena de marines a la espera toda la noche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message125_1M1">
+        <English>When we hear Schlitz Malt Liquor, we’re heading back to Bagram for phase 2. QRF will stay there - we’re leaving you with 4 team guys, 20 marines, 2 Blackhawks and 2 Apaches. The Apaches stay with the Blackhawks.</English>
+        <Spanish>Cuando oigamos Schlitz Malt Liquor, volveremos a Bagram para la fase 2. La FRR se quedará allí; os dejaremos con 4 hombres del equipo, 20 marines, 2 Blackhawks y 2 Apaches. Los Apaches se quedan con los Blackhawks.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message126_1M1">
+        <English>Lotta moving parts...</English>
+        <Spanish>Muchos factores...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message127_1M1">
+        <English>For whatever reason, I don't like driving through this place...</English>
+        <Spanish>Por lo que sea, no me gusta conducir por aquí...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message128_1M1">
+        <English>Yep... They clearly don't like us. See those black flags? That means 'Americans not welcome'.</English>
+        <Spanish>Ya... Está claro que no les caemos bien. ¿Ves esas banderas negras? Significan «Americanos no bienvenidos».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message129_1M1">
+        <English>The Arab world is full of all kinds of undercurrents of hatred. To me, these are all Al-Qaeda sympathisers.</English>
+        <Spanish>El mundo árabe está lleno de todo tipo de corrientes de odio. Para mí, todos estos son simpatizantes de Al Qaeda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message130_1M1">
+        <English>Maybe. But if they're not carrying weapons, they're civilians first and foremost.</English>
+        <Spanish>Quizás. Pero si no llevan armas, son civiles ante todo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message131_1M1">
+        <English>Just get us to the airport, Mikey. Counting the hours till we get out of here, dude.</English>
+        <Spanish>Tú llévanos al aeropuerto, Mikey. Cuento las horas hasta que salgamos de aquí, tío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message132_1M1">
+        <English>Hate to break it to you pal, but we're heading to A-stan. Remember Iraq? Same story.</English>
+        <Spanish>Odio tener que decírtelo, socio, pero vamos a Afganistán. ¿Te acuerdas de Irak? Tres cuartos de lo mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message133_1M1">
+        <English>Do you really need to play that shit at that volume, kiddo?</English>
+        <Spanish>¿De verdad tienes que poner la música tan alta, chaval?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message134_1M1">
+        <English>It's cool, man... dude, chill.</English>
+        <Spanish>No pasa nada, tío... relájate, tronco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message135_1M1">
+        <English>Jesus Christ.</English>
+        <Spanish>Dios santo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message136_1M1">
+        <English>Seems to me like you’ve got to straighten this shit out.</English>
+        <Spanish>Me parece que tienes que encauzar esta mierda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message137_1M1">
+        <English>There’s nothing to straighten out.</English>
+        <Spanish>No hay nada que encauzar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message138_1M1">
+        <English>If there’s nothing to straighten, why are you fighting?</English>
+        <Spanish>Si no hay nada que encauzar, ¿por qué os peleáis?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message139_1M1">
+        <English>We’re not fighting?</English>
+        <Spanish>No nos peleamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message140_1M1">
+        <English>Well, what is it that you’re doing?</English>
+        <Spanish>Y ¿qué hacéis entonces?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message141_1M1">
+        <English>We're more like disagreeing.</English>
+        <Spanish>Estamos más discrepando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message142_1M1">
+        <English>Disagreeing or arguing?</English>
+        <Spanish>¿Discrepando o discutiendo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message143_1M1">
+        <English>Probably more like mildly arguing. Just because you’re Mr. Perfect Marriage, don’t be judging us mortal marriages who occasionally have mild disagreements, sometimes even loving arguments.</English>
+        <Spanish>Probablemente más bien discutiendo ligeramente. Que tú seas don Matrimonio Perfecto no te da derecho a juzgar los matrimonios mortales que a veces tienen desacuerdos ligeros, incluso discusiones de amor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message144_1M1">
+        <English>It’s a fucking stupid loving argument.</English>
+        <Spanish>Es una puta gilipollez de discusión de amor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message145_1M1">
+        <English>It's not an argument.</English>
+        <Spanish>No es una discusión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message146_1M1">
+        <English>It is an argument. Sounded like a couple of bighorn rams smashing skulls.</English>
+        <Spanish>Es una discusión. Parecían dos carneros chocando cabezas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message147_1M1">
+        <English>What the fuck is everyone listening to my shit for?</English>
+        <Spanish>¿Por qué coño todo el mundo escucha mi mierda?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message148_1M1">
+        <English>Bro, you're loud.</English>
+        <Spanish>Macho, hablas alto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message149_1M1">
+        <English>You’re louder than I am.</English>
+        <Spanish>Tú hablas más alto que yo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message150_1M1">
+        <English>Just pick some tile and move the fuck on.</English>
+        <Spanish>Escoge un azulejo y pasa puta página.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message151_1M1">
+        <English>I picked the tile. She doesn’t like it.</English>
+        <Spanish>Ya escogí el azulejo. No le gusta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message152_1M1">
+        <English>What does she fucking like?</English>
+        <Spanish>¿Qué coño le gusta?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message153_1M1">
+        <English>'Rose Honey Dew'.</English>
+        <Spanish>«Miel rosado».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message154_1M1">
+        <English>Say what, bro?</English>
+        <Spanish>¿Cómo dices, hermano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message155_1M1">
+        <English>She likes rose honey dew... or something.</English>
+        <Spanish>Le gusta el color miel rosado... o algo así.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message156_1M1">
+        <English>Are you fucking kidding me?</English>
+        <Spanish>¿Estás de puta coña?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message157_1M1">
+        <English>That's what she likes.</English>
+        <Spanish>Es lo que le gusta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message158_1M1">
+        <English>You gotta control that situation.</English>
+        <Spanish>Tienes que controlar esa situación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message159_1M1">
+        <English>Rose tiles in the kitchen?</English>
+        <Spanish>¿Azulejos rosas en la cocina?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message160_1M1">
+        <English>Can we talk about something else?</English>
+        <Spanish>¿Podemos hablar de otra cosa?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message161_1M1">
+        <English>Yeah, let’s talk about what she’s gonna tile your bathroom in.</English>
+        <Spanish>Sí, hablemos de qué azulejos les va a poner a tu baño.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message162_1M1">
+        <English>I don't wanna talk about that.</English>
+        <Spanish>No quiero hablar de eso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message163_1M1">
+        <English>Danny? I’m gonna put it out there, if you like it, you can take it, if you don’t, send it right back.</English>
+        <Spanish>¿Danny? Lo voy a dejar caer, si te gusta, cógelo, si no, devuélvelo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message164_1M1">
+        <English>Our birds are here. Let's pack it up.</English>
+        <Spanish>Ya están aquí los pájaros. Coged el petate.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message165_1M1">
+        <English>Operation Red Wings is a go!</English>
+        <Spanish>¡Operación Red Wings en marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_doctor_dialogue_1M1">
+        <English>DOCTOR</English>
+        <Spanish>MÉDICO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_marine_dialogue_1M1">
+        <English>US MARINE</English>
+        <Spanish>MARINE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_getdressed_action_1M1">
+        <English>get dressed</English>
+        <Spanish>vestirse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_openambulance_action_1M1">
+        <English>open the ambulance</English>
+        <Spanish>abrir la ambulancia</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_heal_hint_1M1">
+        <English>To treat both civilians, firstly select "Unload Injured" from your action menu and, once you are carrying a wounded civilian, take him to the hospital tent where the doctor is.</English>
+        <Spanish>Para tratar a ambos civiles, primero selecciona «Unload Injured» de tu menú de acciones y, una vez que lleves a un civil herido, llévalo a la tienda hospital donde está el médico.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_heal_hint2_1M1">
+        <English>The civilian has been safely taken to the hospital. Now, stop carrying him and stabilize him. The doctor will deal with the rest.</English>
+        <Spanish>El civil ha sido llevado a salvo al hospital. Ahora, deja de cargarlo y estabilízalo. El médico se encargará del resto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_introtext_1_1M1">
+        <English>MANAMA, BAHRAIN</English>
+        <Spanish>MANAMA, BARÉIN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_introtext_2_1M1">
+        <English>MARCH 2005</English>
+        <Spanish>MARZO DE 2005</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission_1M1">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   D A Y . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A L   D Í A   S I G U I E N T E . . .&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

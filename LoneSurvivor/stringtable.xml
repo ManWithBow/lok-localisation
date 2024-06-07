@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor">
+    <Container name="STR_DN">
+      <Key ID="STR_LN_CampaignName">
+        <English>Lone Survivor</English>
+        <Spanish>El único superviviente</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_AuthorName_man">
+        <English>man</English>
+        <Spanish>man</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_CampaignOverview">
+        <English>"Lone Survivor" tells the true story of Operation Red Wings, a reconnaissance mission gone wrong in Kunar Province, in 2005. A four-man team is sent to track a Taliban leader, but they're exposed and outnumbered. This campaign will put you in the shoes of Marcus Luttrell, one of the SEALs involved in the operation, from his training until that fateful day. Based on Luttrell's non-fiction book of the same name, you will experience the SEALs' fight for survival and the courage it takes to overcome seemingly impossible odds.</English>
+        <Spanish>«El único superviviente» narra la historia real de la Operación Red Wings, una misión de reconocimiento que salió mal en la provincia de Kunar en 2005. Un equipo de cuatro es enviado a localizar un líder talibán, pero son descubiertos y superados en número. Esta campaña te pondrá en la piel de Marcus Luttrell, uno de los SEAL que participaron en la operación, desde su entrenamiento hasta aquel fatídico día. Basada en el libro factual homónimo, vivirás la lucha por la supervivencia de los SEAL y el valor necesario para superar obstáculos aparentemente imposibles.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingNotes">
+        <English>Editor's Notes and Credits</English>
+        <Spanish>Notas del editor y créditos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSEALs">
+        <English>Briefing - A Platoon</English>
+        <Spanish>Instrucciones: Pelotón A</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_Briefing">
+        <English>Briefing</English>
+        <Spanish>Instrucciones</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSituation">
+        <English>I. Situation</English>
+        <Spanish>I. Situación</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingMission">
+        <English>II. Mission</English>
+        <Spanish>II. Misión</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingExecution">
+        <English>III. Execution</English>
+        <Spanish>III. Ejecución</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSustainment">
+        <English>IV. Sustainment</English>
+        <Spanish>IV. Mantenimiento</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingCommand">
+        <English>V. Command and Control</English>
+        <Spanish>V. Mando y control</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingDiary">
+        <English>Diary - Marcus Luttrell</English>
+        <Spanish>Diario: Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_marcus_dialogue">
+        <English>MARCUS</English>
+        <Spanish>MARCUS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_murphy_dialogue">
+        <English>MIKE</English>
+        <Spanish>MIKE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_axe_dialogue">
+        <English>AXE</English>
+        <Spanish>AXE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_danny_dialogue">
+        <English>DANNY</English>
+        <Spanish>DANNY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_marcus_radio">
+        <English>Spartan 01 (Marcus)</English>
+        <Spanish>Spartan 01 (Marcus)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_murphy_radio">
+        <English>Spartan 01 (Mike)</English>
+        <Spanish>Spartan 01 (Mike)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_axe_radio">
+        <English>Spartan 01 (Axe)</English>
+        <Spanish>Spartan 01 (Axe)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_danny_radio">
+        <English>Spartan 01 (Danny)</English>
+        <Spanish>Spartan 01 (Danny)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_spartan01_radio">
+        <English>Spartan 01</English>
+        <Spanish>Spartan 01</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_patton_dialogue">
+        <English>SHANE</English>
+        <Spanish>SHANE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_healy_dialogue">
+        <English>HEALY</English>
+        <Spanish>HEALY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_suh_dialogue">
+        <English>JAMES</English>
+        <Spanish>JAMES</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_sarawa_dialogue">
+        <English>SARAWA</English>
+        <Spanish>SARAWA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_gulab_dialogue">
+        <English>GULAB</English>
+        <Spanish>GULAB</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_norzamund_dialogue">
+        <English>NORZAMUND</English>
+        <Spanish>NORZAMUND</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_kristensen_dialogue">
+        <English>LCDR KRISTENSEN</English>
+        <Spanish>LCDR KRISTENSEN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_kristensen_radio">
+        <English>Spartan Base (LCDR Kristensen)</English>
+        <Spanish>Spartan Base (LCDR Kristensen)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_macmannis_dialogue">
+        <English>LTCOL MACMANNIS</English>
+        <Spanish>TTE. CNEL. MACMANNIS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_macmannis_radio">
+        <English>Beastmaster (LtCol MacMannis)</English>
+        <Spanish>Beastmaster (Tte. Cnel. MacMannis)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_chinook1_radio">
+        <English>Anvil 1</English>
+        <Spanish>Anvil 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_chinook2_radio">
+        <English>Anvil 2</English>
+        <Spanish>Anvil 2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_spectre_radio">
+        <English>Glimmer 3</English>
+        <Spanish>Glimmer 3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_budweiser_marker">
+        <English>Budweiser</English>
+        <Spanish>Budweiser</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_corona_marker">
+        <English>Corona</English>
+        <Spanish>Corona</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_heineken_marker">
+        <English>Heineken</English>
+        <Spanish>Heineken</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_schlitz_marker">
+        <English>Schlitz Malt Liquor</English>
+        <Spanish>Schlitz Malt Liquor</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_gatigal_marker">
+        <English>Gatigal Sar</English>
+        <Spanish>Gatigal Sar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_sawtalo_marker">
+        <English>Sawtalo Sar</English>
+        <Spanish>Sawtalo Sar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_murphy_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Team Leader&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de equipo&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_dietz_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Communications Specialist&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en comunicaciones&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_axe_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Marksman&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Tirador&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_suh_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Medical Specialist&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista médico&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_kristensen_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Acting CO, SEAL Team 10&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficial al mando en funciones, Décimo Equipo SEAL&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_healy_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Team Leader&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de equipo&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_patton_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Communications Specialist&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en comunicaciones&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_luttrell_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Medical Specialist&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista médico&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_macmannis_displayName">
+        <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Battalion Commander, 2/3 Marines&lt;/t&gt;</English>
+        <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Comandante de batallón, 2/3 Marines&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_end1_title">
+        <English>Mission completed</English>
+        <Spanish>Misión cumplida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_title">
+        <English>Mission failed</English>
+        <Spanish>Misión fallida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_subtitle">
+        <English>Squadmate died</English>
+        <Spanish>Un compañero ha muerto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_description">
+        <English>One of your squadmates was killed! All squadmates must survive this mission!</English>
+        <Spanish>¡Uno de tus compañeros de escuadrón ha muerto! ¡Todo el escuadrón debe sobrevivir a esta misión!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_man_down_basic_dialogue">
+        <English>Fuck, we've got a man down! Need CASEVAC on the double!</English>
+        <Spanish>¡Mierda, hombre abatido! ¡Necesitamos CASEVAC a la voz de ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

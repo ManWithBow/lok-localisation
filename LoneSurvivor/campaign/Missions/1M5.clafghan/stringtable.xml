@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor_1M5">
+    <Container name="STR_DN">
+	  <Key ID="STR_LN_BriefingNotes_1M5">
+        <English>EDITOR'S NOTES:&lt;br/&gt;This mission is not a 1:1 recreation of Marcus' memoir. For instance, it was at night, and his pants had been ripped off at this point, but unfortunately Arma 3 doesn't have support for separate shirts and pants. Also, he had to crawl and tumble all the way to a water source, and without a map or a compass at that. Walking 2 kilometers in Arma 3 with no indications of where to go would be insane to do. Even though you'll start with your legs wounded and without a compass, you can find some helpful items along the way if you keep an eye out. You'll get more information as the mission progresses.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Explosions in the Sky - 47 Down&lt;br/&gt;Explosions in the Sky - Hunted&lt;br/&gt;Explosions in the Sky - Gulab&lt;br/&gt;Explosions in the Sky - Near Beheading</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta misión no es una recreación 1:1 de las memorias de Marcus. Por ejemplo, era de noche y se había quedado sin pantalones a estas alturas, pero, por desgracia, Arma 3 no permite tener pantalones y camisas por separado. También tuvo que arrastrarse y andar a trompicones hasta una fuente de agua, y sin mapa ni brújula. Andar 2 kilómetros en Arma 3 sin indicaciones de adónde ir sería una locura. Aunque empezarás con las piernas heridas y sin brújula, puedes encontrar objetos útiles en el camino si estás atento. Recibirás más información a medida que avance la misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Explosions in the Sky - 47 Down&lt;br/&gt;Explosions in the Sky - Hunted&lt;br/&gt;Explosions in the Sky - Gulab&lt;br/&gt;Explosions in the Sky - Near Beheading</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingCommand_Text_1M5">
+        <English>A. Signal:&lt;br/&gt; Beastmaster - LtCol MACMANNIS (2/3 Marines CO)&lt;br/&gt; Spartan Actual - LCDR KRISTENSEN (SEAL Team 10 CO)&lt;br/&gt; Spartan 01 (your team) - LT MURPHY&lt;br/&gt; Anvil 1 - TF Brown MH-47 Chinooks&lt;br/&gt; Glimmer 3 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Beastmaster: Tte. Cnel. MACMANNIS (oficial al mando de 2/3 Marines)&lt;br/&gt; Spartan Jefe: LCDR KRISTENSEN (oficial al mando del Décimo Equipo SEAL)&lt;br/&gt; Spartan 01 (tu equipo): Tte. MURPHY&lt;br/&gt; Anvil 1: MH-47 Chinooks de la TF Brown&lt;br/&gt; Glimmer 3: Supervisión de AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSustainment_Text_1M5">
+        <English>1. Supply: Standard US SOF Desert/Woodland raid-cut BDUs, RRV vests, MICH2001 and Pro-Tec helmets, standard issue Navy SEAL small arms, including M4A1 carbines, Mk 25 pistols, and Mk 12 sniper rifles.&lt;br/&gt;2. Transportation: Spartan 01 will be inserted via fast rope in a 160th SOAR MH-47 Chinook.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Spartan 01 has 1x hospital corpsman, in the event of a mission failure due to substantial casualties, Spartan 01 Actual will authorize CASEVAC and insertion by SEAL Team 10 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto/boscoso, chalecos RRV, cascos MICH2001 y Pro-Tec, armas reglamentarias de los Navy SEAL como carabinas M4A1, pistolas Mk. 25 y fusiles de tirador Mk. 12.&lt;br/&gt;2. Transporte: Spartan 01 será insertado vía rápel en un MH-47 Chinook del 160.º SOAR.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Spartan 01 tiene 1x sanitario médico. En caso de fracaso debido a una cantidad considerable de bajas, Spartan 01 Jefe autorizará CASEVAC y la inserción de la FRR del Décimo Equipo SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingExecution_Text_1M5">
+        <English>The first part of Operation Red Wings will be conducted in three (3) phases:&lt;br/&gt;&lt;br/&gt;Phase 1 - INSERT in Korengal Valley. The four-man Navy SEAL recon team (Spartan 01), led by LT Michael Murphy, will be inserted via fast rope by an MH-47 Chinook from Task Force Brown &lt;marker name="marker_0"&gt;here&lt;/marker&gt;, in a saddle between &lt;marker name="gatigal"&gt;Gatigal Sar&lt;/marker&gt; and &lt;marker name="sawtalo"&gt;Sawtalo Sar&lt;/marker&gt;. Meanwhile, another Chinook will perform a series of decoy drops around the operating area to confuse the enemy. Right after inserting, Spartan 01 will pass the proword Budweiser.&lt;br/&gt;&lt;br/&gt;Phase 2 - ADVANCE to the observation point. Slowly but surely, Spartan 01 will make their way to their planned &lt;marker name="marker_5"&gt;observation point&lt;/marker&gt;, proword Schlitz Malt Liquor. Meanwhile, they will call the prowords &lt;marker name="marker_3"&gt;Corona&lt;/marker&gt; and &lt;marker name="marker_4"&gt;Heineken&lt;/marker&gt; after reaching one third and two thirds of the trek respectively. &lt;br/&gt;&lt;br/&gt;Phase 3 - IDENTIFY Ahmad Shah. Once at the observation point, Spartan 01 will reconnoitre the village of &lt;marker name="marker_1"&gt;Al Riyal&lt;/marker&gt;, where Shah is suspected to be hiding. If they positively identify him, they will pass the proword Touchdown and give the order for the Marines to begin the next phase of the operation.</English>
+        <Spanish>La primera parte de la Operación Red Wings se llevará a cabo en tres (3) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: INSERTAR en el valle de Korengal. El equipo de reconocimiento SEAL de cuatro hombres (Spartan 01), liderado por el Tte. Michael Murphy, será insertado vía rápel desde un MH-47 Chinook de la Fuerza Operativa Brown &lt;marker name="marker_0"&gt;aquí&lt;/marker&gt;, en un collado entre &lt;marker name="gatigal"&gt;Gatigal Sar&lt;/marker&gt; y &lt;marker name="sawtalo"&gt;Sawtalo Sar&lt;/marker&gt;. Mientras tanto, otro Chinook realizará una serie de despliegues falsos en el área de operaciones para confundir al enemigo. Justo después de insertar, Spartan 01 comunicará la palabra clave Budweiser.&lt;br/&gt;&lt;br/&gt;Fase 2: AVANZAR al punto de observación. Sin prisa pero sin pausa, Spartan 01 se abrirá paso hasta el &lt;marker name="marker_5"&gt;punto de observación&lt;/marker&gt;, palabra clave Schlitz Malt Liquor. Mientras tanto, comunicarán las palabras clave &lt;marker name="marker_3"&gt;Corona&lt;/marker&gt; y &lt;marker name="marker_4"&gt;Heineken&lt;/marker&gt; después de alcanzar un tercio y dos tercios del camino, respectivamente. &lt;br/&gt;&lt;br/&gt;Fase 3: IDENTIFICAR a Ahmad Shah. Una vez en el punto de observación, Spartan 01 reconocerá el pueblo de &lt;marker name="marker_1"&gt;Al Riyal&lt;/marker&gt;, donde se sospecha que se esconde Shah. Si lo identifican positivamente, comunicarán la palabra clave Touchdown y darán la orden a los marines de iniciar la siguiente fase de la operación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingMission_Text_1M5">
+        <English>Who: Spartan 01, Alpha Platoon, SEAL Delivery Vehicle Team 1, Task Force Spartan (TF Spartan)&lt;br/&gt;What: IDENTIFY Ahmad Shah&lt;br/&gt;Where: In vicinity, Korengal Valley&lt;br/&gt;When: 234300ZJUN27&lt;br/&gt;Why: Operation Red Wings</English>
+        <Spanish>Quién: Spartan 01, Pelotón Alpha, Primer Equipo SEAL Delivery Vehicle, Fuerza Operativa Spartan (TF Spartan)&lt;br/&gt;Qué: IDENTIFICAR a Ahmad Shah&lt;br/&gt;Dónde: En las inmediaciones, valle de Korengal&lt;br/&gt;Cuándo: 234300ZJUN27&lt;br/&gt;Por qué: Operación Red Wings</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSituation_Text_1M5">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 10-20&lt;br/&gt;Activity: Light movement, light radio chatter&lt;br/&gt;Location: Vicinity, Korengal Valley&lt;br/&gt;Unit: Taliban mixed light infantry&lt;br/&gt;Time Observed: June 26, 2006&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To thwart ACM activity in Kunar Province, reducing friendly casualties and ensuring a free and safe parliamentary election.&lt;br/&gt;2. Adjacent Units: SEAL Team 10 QRF (callsign: Spartan 13).&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. The QRF will only be available by request of Spartan 01 Actual.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 10-20&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio ligeras&lt;br/&gt;Ubicación: Inmediaciones, valle de Korengal&lt;br/&gt;Unidades: Infantería ligera mixta talibán&lt;br/&gt;Fecha de observación: 26 de junio de 2006&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Desbaratar la actividad ACM en la provincia de Kunar, reduciendo las bajas aliadas y garantizando unas elecciones parlamentarias libres y seguras.&lt;br/&gt;2. Unidades adyacentes: FRR del Décimo Equipo SEAL (indicativo: Spartan 13).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. La FRR solo estará autorizada cuando la solicite Spartan 01 Jefe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_Briefing_Text_1M5">
+        <English>The 2nd Batallion, 3rd Marines has conceived Operation Red Wings in order to neutralize or capture Ahmad Shah, a prominent Taliban leader operating in the Kunar Province of Afghanistan. It is known that Shah has been orchestrating numerous attacks against Coalition forces in the country, resulting in the deaths of several servicemen, and it is suspected that he will attack at the upcoming September 2005 Afghan parliamentary election. This is a great opportunity to degrade Taliban leadership and disrupt their ability to conduct attacks in the region. The first phase of the operation will involve a four-man Navy SEAL team that will insert in the Korengal Valley and positively identify Shah after making their way through the mountains. Upon successfully identifying him, the Marines and the ANA will launch the main assault in the second phase.</English>
+        <Spanish>El 2.º Batallón del 3.er Regimiento de Marines ha concebido la Operación Red Wings para neutralizar o capturar a Ahmad Shah, un destacado líder talibán que opera en la provincia de Kunar de Afganistán. Se sabe que Shah ha estado orquestando numerosos ataques contra fuerzas de la Coalición en el país, dando lugar a la muerte de varios soldados, y se sospecha que atentará en las próximas elecciones parlamentarias afganas de septiembre de 2005. Esta es una gran oportunidad para degradar el liderazgo talibán y perturbar su capacidad de realizar atentados en la región. En la primera fase de la operación participará un equipo SEAL formado por cuatro hombres que se introducirá en el valle de Korengal e identificará a Shah tras abrirse paso a través de las montañas. Una vez identificado, los Marines y el ENA iniciarán el asalto principal en la segunda fase.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Description_1M5">
+        <English>You lost your Mk 12 sniper rifle during the fall. Luckily, it didn't fall far. Pick it up, you'll need it!</English>
+        <Spanish>Antes de nada, tenemos que encontrar una posición elevada que nos dé una buena vista del complejo de cuevas de Tora Bora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Title_1M5">
+        <English>Pick up your rifle</English>
+        <Spanish>Coger tu fusil</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_Description_1M5">
+        <English>You're exhausted and you can barely speak, let alone walk. You need to find some water urgently.</English>
+        <Spanish>Estás agotado y apenas puedes hablar, y mucho menos andar. Necesitas agua urgentemente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_Title_1M5">
+        <English>Find water</English>
+        <Spanish>Encontrar agua</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_Description_1M5">
+        <English>Your legs are bleeding and you have bruises all over your face. Find a first aid kit you can use some 100 meters around here.</English>
+        <Spanish>Te sangran las piernas y tienes moratones por toda la cara. Encuentra un kit de primeros auxilios que puedas usar a unos 100 metros a la redonda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_Title_1M5">
+        <English>(Optional) Patch yourself up</English>
+        <Spanish>(Opcional) Curarte</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_Description_1M5">
+        <English>You need to find water, but you don't really know where to go. Find a compass you can use some 100 meters around here.</English>
+        <Spanish>Tienes que encontrar agua, pero no sabes bien adónde ir. Encuentra una brújula que puedas usar a unos 100 metros a la redonda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_Title_1M5">
+        <English>(Optional) Find a compass</English>
+        <Spanish>(Opcional) Encontrar una brújula</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_MissionTitle_1M5">
+        <English>Blown Up, Shot, and Presumed Dead</English>
+        <Spanish>Reventado, tiroteado y dado por muerto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Intro_1M5">
+        <English>Mission 5 Intro</English>
+        <Spanish>Misión 5: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Outro_1M5">
+        <English>Mission 5 Outro</English>
+        <Spanish>Misión 5: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionDescription_1M5">
+        <English>Left alone in the wilderness of the Afghan highlands, bleeding, with no teammates and barely any ammo left, Marcus tries to survive and find some water while the Taliban are on his tail.</English>
+        <Spanish>Marcus, abandonado a su suerte en las tierras altas de Afganistán, sangrando, sin compañeros y sin apenas munición, intenta sobrevivir y encontrar agua mientras los talibanes le pisan los talones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_text_1M5">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER V - Blown Up, Shot, and Presumed Dead&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Right behind me I heard the soft footsteps of the chasing gunmen... there were two of them, just above me in the rocks. Searching. I had only split seconds to work, because they were both on me, AKs raised... I went for my grenades.'&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO V: Reventado, tiroteado y dado por muerto&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Justo detrás de mí oí los suaves pasos de los milicianos que me perseguían... eran dos, justo encima de mí, entre las rocas. Buscando. Tuve solo unos segundos para actuar, porque ambos estaban sobre mí, AK en mano... Recurrí a mis granadas.»&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_1M5">
+        <English>HM2 Marcus Luttrell</English>
+        <Spanish>HM2 Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_1M5">
+        <English>A Platoon, SDVT-1</English>
+        <Spanish>Pelotón A, SDVT-1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_1M5">
+        <English>Shuryek Valley</English>
+        <Spanish>Valle de Shuryek</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel4_1M5">
+        <English>June 28, 2005 - 1902</English>
+        <Spanish>28 junio 2005 - 1902</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message1_1M5">
+        <English>First 47 will fly over the LZ, make sure it’s clear. Kristensen’s 47 will be first to hover.</English>
+        <Spanish>El primer 47 sobrevolará la ZA para asegurarse de que está despejado. El 47 de Kristensen será el primero en planear.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message2_1M5">
+        <English>Looks good. Looks quiet.</English>
+        <Spanish>Pinta bien. Parece tranquilo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message3_1M5">
+        <English>Roger that, we're good to drop.</English>
+        <Spanish>Recibido, todo bien para saltar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message4_1M5">
+        <English>Let's do this. Patton, you're first! You good?</English>
+        <Spanish>Vamos con ello. ¡Patton, tú primero! ¿Estás bien?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message6_1M5">
+        <English>Couldn't be more good!</English>
+        <Spanish>¡No podría estar mejor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message7_1M5">
+        <English>Glorious opportunity here, Mr. Patton.</English>
+        <Spanish>Oportunidad gloriosa, señor Patton.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message8_1M5">
+        <English>Yes, sir.</English>
+        <Spanish>Sí, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_1M5">
+        <English>RPG!</English>
+        <Spanish>¡RPG!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_2_1M5">
+        <English>No!</English>
+        <Spanish>¡No!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message10_1M5">
+        <English>We have a downed 47. Repeat, a downed 47.</English>
+        <Spanish>Tenemos un 47 derribado. Repito, un 47 derribado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message11_1M5">
+        <English>I want everybody moving ASAP! Ground forces and aviation assets, everything! We have to retrieve the bodies of Spartan 01 and the QRF! Let's go, for fuck's sake!</English>
+        <Spanish>¡Quiero a todo el mundo en movimiento! ¡Fuerzas terrestres y de aviación, todo! ¡Tenemos que recuperar los cuerpos de Spartan 01 y de la FRR! ¡Vamos, por el amor de Dios!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message12_1M5">
+        <English>Thank you, God. Thank you.</English>
+        <Spanish>Gracias, Dios. Gracias.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message13_1M5">
+        <English>Hey! Down here! Friendly down here! Fuck.</English>
+        <Spanish>¡Eh! ¡Aquí abajo! ¡Amigo aquí abajo! Joder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message14_1M5">
+        <English>Hey, you getting that beacon?</English>
+        <Spanish>Oye, ¿captas esa baliza?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message15_1M5">
+        <English>Yeah, we got it... but no further information.</English>
+        <Spanish>Sí, la captamos... pero no hay más información.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message16_1M5">
+        <English>That should hold on for now.</English>
+        <Spanish>Esto debería aguantar por ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message17_1M5">
+        <English>Alright, this is good. If I recall correctly, there was a lake to the southeast of our OP...</English>
+        <Spanish>Vale, esto es bueno. Si no recuerdo mal, había un lago al sureste de nuestro PO...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message18_1M5">
+        <English>Oh my God. Oh my God. Finally. I can't fucking believe it. Thank you, Almighty.</English>
+        <Spanish>Dios mío. Dios mío. Por fin. No me lo puedo creer. Gracias, Todopoderoso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message19_1M5">
+        <English>Fuck! Stay back! Stay the fuck back!</English>
+        <Spanish>¡Joder! ¡Atrás! ¡Ni os acerquéis!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message20_1M5">
+        <English>I have a grenade. I don't care. You understand? I don't give a shit. I will kill us all.</English>
+        <Spanish>Tengo una granada. Me da igual. ¿Entendéis? Me importa una mierda. Nos mataré a todos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message21_1M5">
+        <English>American! Okay! Okay!</English>
+        <Spanish>¡Americano! ¡Okay! ¡Okay!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message22_1M5">
+        <English>Taliban? You Taliban?</English>
+        <Spanish>¿Talibanes? ¿Sois talibanes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message23_1M5">
+        <English>No Taliban! No Taliban!</English>
+        <Spanish>¡No talibán! ¡No talibán!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message24_1M5">
+        <English>Taliban? Taliban?</English>
+        <Spanish>¿Talibanes? ¿Talibanes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message25_1M5">
+        <English>No! No! No Taliban!</English>
+        <Spanish>¡No! ¡No! ¡No talibán!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message26_1M5">
+        <English>My name Sarawa. I am village doctor. Come. I don't harm you.</English>
+        <Spanish>Nombre Sarawa. Soy doctor de aldea. Venir. No hago daño.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message27_1M5">
+        <English>I need help. Hospital, water.</English>
+        <Spanish>Necesito ayuda. Hospital, agua.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message28_1M5">
+        <English>Huh?</English>
+        <Spanish>¿Eh?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message29_1M5">
+        <English>Water. I must have clean water.</English>
+        <Spanish>Agua. Debo tomar agua limpia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message30_1M5">
+        <English>Ah! Hydrate!</English>
+        <Spanish>¡Ah! ¡Hidratación!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message31_1M5">
+        <English>Hydrate. You got that right, pal. I've been shot.</English>
+        <Spanish>Hidratación. Tú lo has dicho, socio. Me han disparado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message32_1M5">
+        <English>(IN PASHTO) Lift this man up. We must heal his wounds and defend him. Take him to the village.</English>
+        <Spanish>(EN PASTÚN) Levantad a este hombre. Debemos sanar sus heridas y defenderlo. Llevadlo a la aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message33_1M5">
+        <English>Stay here. We take your gun, now you are wounded doctor. Okay? Rest.</English>
+        <Spanish>Tú aquí. Cogemos arma, tú ser doctor herido. ¿Okay? Duerme.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message34_1M5">
+        <English>Why are you doing this?</English>
+        <Spanish>¿Por qué estáis haciendo esto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_1M5">
+        <English>Hello, American!</English>
+        <Spanish>¡Hola, americano!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message36_1M5">
+        <English>Why you here? What American planes doing?</English>
+        <Spanish>¿Por qué aquí? ¿Qué hacen aviones americanos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message37_1M5">
+        <English>I'm an Army doctor! I was just here helping out! I needed some water!</English>
+        <Spanish>¡Soy un doctor del Ejército! ¡Solo estaba echando una mano! ¡Necesitaba agua!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message38_1M5">
+        <English>No. Army no beard. We will kill you like American helicopter! Death to the Satan! Death to the infidel!</English>
+        <Spanish>No. Ejército no barba. ¡Mataremos como helicóptero americano! ¡Muerte a Satán! ¡Muerte al infiel!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message39_1M5">
+        <English>(IN PASHTO) Get out. This man is our guest. He is not to be harmed on account of lokhay warkawal. You know it as well as I do.</English>
+        <Spanish>(EN PASTÚN) Fuera. Este hombre es nuestro invitado. No se le hará daño a causa de lokhay warkawal. Lo sabéis tan bien como yo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message40_1M5">
+        <English>(IN PASHTO) We will be back.</English>
+        <Spanish>(EN PASTÚN) Volveremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message41_1M5">
+        <English>Not safe, American. We move you to cave.</English>
+        <Spanish>No seguro, americano. Movemos a cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hint_1M5">
+        <English>You're alone now. You're bleeding, thirsty, and you don't have a map nor a compass. You need to find water somewhere to complete this mission, but there's a couple of things to note:&lt;br/&gt;&lt;br/&gt;1. You can find a first aid kit in a 100 meter radius from the pertinent task waypoint. It will be next to a destroyed pick-up truck. Patching yourself up will enable you to run and sprint normally, but it won't fully restore your health.&lt;br/&gt;2. You can find a compass in a 100 meter radius from the pertinent task waypoint. It will be next to a destroyed pick-up truck. Taking the compass will tell you in real time how far away you are from a water source, so at least you'll know which direction to go.&lt;br/&gt;3. The Taliban are looking for you. They're patrolling the entire valley. If they spot you, they will communicate your location to the rest.&lt;br/&gt;4. Don't bother killing enemies or civilians to get FAKs or a map, they have none of those.</English>
+        <Spanish>Estás solo. Estás sangrando, sediendo y no tienes mapa o brújula. Tienes que encontrar agua en alguna parte para terminar la misión, pero hay un par de cosas que destacar:&lt;br/&gt;&lt;br/&gt;1. Puedes encontrar un kit de primeros auxilios en un radio de 100 metros desde el punto de referencia de la tarea pertinente. Estará al lado de una camioneta destruida. Curarte te permitirá correr y esprintar con normalidad, pero no restaurará toda tu salud.&lt;br/&gt;&lt;br/&gt;1. Puedes encontrar una brújula en un radio de 100 metros desde el punto de referencia de la tarea pertinente. Estará al lado de una camioneta destruida. Coger la brújula te dirá en tiempo real lo lejos que estás de una fuente de agua, así que al menos sabrás en qué dirección ir.&lt;br/&gt;&lt;br/&gt;3. Los talibanes te están buscando. Están patrullando el valle entero. Si te avistan, comunicarán tu ubicación a los demás.&lt;br/&gt;&lt;br/&gt;4. No te molestes en matar enemigos o civiles para conseguir kits de primeros auxilios o mapas, no tienen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_chinook_gunner_dialogue_1M5">
+        <English>CHINOOK GUNNER</English>
+        <Spanish>ARTILLERO DEL CHINOOK</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_taliban_dialogue_1M5">
+        <English>TALIBAN LEADER</English>
+        <Spanish>LÍDER TALIBÁN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_apache_radio_1M5">
+        <English>Shock 54</English>
+        <Spanish>Shock 54</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_blackhawk_radio_1M5">
+        <English>Skillful 3</English>
+        <Spanish>Skillful 3</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

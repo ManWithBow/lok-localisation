@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor_1M0">
+    <Container name="STR_DN">
+	  <Key ID="STR_LN_BriefingCommand_Text_1M0">
+        <English>Tomorrow's the day. BUD/S. Navy SEAL training. Been training for this my whole life, feels surreal it's finally here. Stomach's got a knot in it the size of a battleship, but it's not fear, exactly. Maybe anticipation. Excitement, even.&lt;br/&gt;Head Instructor Schulz, they say, is a legend. Built like a brick wall and reputed to have a stare that could curdle milk. Guys who've washed out say the hardest part isn't the physical stuff, though God knows that'll be brutal. It's the mental game. Sleep deprivation, sensory overload, the constant push to break you. They want to see what you're made of, see if you can crack.&lt;br/&gt;Room's packed already, bunks full of guys from all walks - college athletes, farm boys, even a couple of ex-Marines. All different backgrounds, but the same steely glint in their eyes. We're all here for a reason, a purpose bigger than ourselves.&lt;br/&gt;Mom keeps calling, worried sick. I told her not to sweat it, that I'll be fine. Part of me wants to believe that. The other part knows it's gonna be hell. I still remember the day I left home and her teary-eyed demeanor. It was the same when Morgan left. But hell or high water, I'm gonna make it through. I have to. The Trident's waiting for me at the end of this, a symbol of the elite, the best of the best.</English>
+        <Spanish>Mañana es el día. BUD/S. Entrenamiento de los Navy SEAL. Llevo entrenando para esto toda mi vida, es surrealista que por fin haya llegado. Tengo un nudo en el estómago del tamaño de un acorazado, pero no es miedo precisamente. Tal vez anticipación. Emoción, incluso.&lt;br/&gt;El instructor jefe Schulz, según dicen, es una leyenda. Con la constitución de una pared de ladrillo y fama de tener una mirada que podría cuajar la leche. Los que han fracasado dicen que lo más duro no es lo físico, aunque Dios sabe que será brutal. Es el juego mental. La falta de sueño, la sobrecarga sensorial, la presión constante para romperte. Quieren ver de qué pasta estás hecho, ver si puedes quebrarte.&lt;br/&gt;La habitación ya está abarrotada, literas llenas de gentes de todo tipo: atletas universitarios, granjeros, incluso un par de exmarines. Todos de diferentes orígenes, pero con el mismo brillo acerado en sus ojos. Todos estamos aquí por una razón, un propósito más grande que nosotros mismos.&lt;br/&gt;Mamá sigue llamando, muy preocupada. Le he dicho que no se preocupe, que estaré bien. Una parte de mí quiere creer eso. La otra parte sabe que va a ser un infierno. Aún recuerdo el día que me fui de casa y su semblante con los ojos llorosos. Pasó lo mismo cuando Morgan se fue. Pero contra viento y marea, lo superaré. Tengo que hacerlo. El tridente me espera al final de esto, un símbolo de la élite, de lo mejor de lo mejor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Description_1M0">
+        <English>The first phase of BUD/S assesses SEAL candidates in physical conditioning, water competency, teamwork, and mental tenacity. Physical conditioning phase utilizes daily running, swimming, calisthenics, and grows harder as the weeks progress. It is, without a doubt, the hardest part of all the BUD/S training, especially due to the so-called "Hell Week". It is at this stage when most SEAL candidates are dropped from training.</English>
+        <Spanish>La primera fase del BUD/S evalúa a los candidatos a SEAL en cuanto a condición física, competencia acuática, trabajo en equipo y tenacidad mental. La fase de acondicionamiento físico se vale de carreras diarias, natación y calistenia, y se va endureciendo a medida que pasan las semanas. Es, sin duda, la parte más dura de todo el entrenamiento BUD/S, especialmente debido a la llamada «Hell Week». Es en esta fase cuando la mayoría de los candidatos a SEAL son expulsados del entrenamiento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Title_1M0">
+        <English>Phase 1: Physical conditioning</English>
+        <Spanish>Fase 1: Acondicionamiento físico</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj1_1_Description_1M0">
+        <English>Candidates must participate in weekly 4-mile timed runs in boots and pants along the beach, getting accustomed to the hazards of running in sand and water. Follow Instructor Schulz and make sure you keep up with him. If you stray too far, you will be dropped from training.</English>
+        <Spanish>Los candidatos deben participar en carreras cronometradas de 6 km en botas y pantalones a lo largo de la playa, acostumbrándose a los peligros de correr por la arena y el agua. Sigue al instructor Schulz y asegúrate de mantener su ritmo. Si te alejas demasiado, te expulsarán del entrenamiento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_1_Title_1M0">
+        <English>Run the 4-mile course</English>
+        <Spanish>Hacer la carrera de 6 km</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj1_2_Description_1M0">
+        <English>SEAL candidates must also be expert swimmers. They will swim distances up to two miles wearing fins in the ocean. Swim across the ocean to reach Ensign Burns' position.</English>
+        <Spanish>Los candidatos a SEAL también han de ser expertos nadadores. Nadarán distancias de hasta 3 km llevando aletas en el océano. Cruza el océano nadando para llegar a la posición del alférez Burns.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_2_Title_1M0">
+        <English>Swim across</English>
+        <Spanish>Cruzar nadando</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj1_3_Description_1M0">
+        <English>SEAL recruits must also be able to complete an obstacle course in time. Candidates that consistently do not meet specified time requirements for running and swimming tests are dropped from training. You must complete the course in under 2 minutes. If you don't, you will be dropped.</English>
+        <Spanish>Los recrutas SEAL también deben ser capaces de terminar una pista de obstáculos a tiempo. Los candidatos que no cumplan sistemáticamente los requisitos de tiempo especificados para las pruebas de carrera y natación son expulsados del entrenamiento. Debes completar el recorrido en menos de 2 minutos. Si no lo haces, serás expulsado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_3_Title_1M0">
+        <English>Complete the obstacle course</English>
+        <Spanish>Completa la pista de obstáculos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_Description_1M0">
+        <English>The diving phase of BUD/S training develops and qualifies SEAL candidates as competent basic combat swimmers. During this period, physical training continues and becomes even more intensive. This second phase concentrates on dive physics, underwater skills, and combat SCUBA.</English>
+        <Spanish>La fase de buceo del entrenamiento BUD/S desarrolla y cualifica a los candidatos a SEAL como nadadores de combate básicos competentes. Durante este periodo, el entrenamiento físico continúa y se vuelve aún más intensivo. Esta segunda fase se concentra en las físicas del buceo, habilidades subacuáticas y SCUBA de combate.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_Title_1M0">
+        <English>Phase 2: Combat diving</English>
+        <Spanish>Fase 2: Buceo de combate</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_1_Description_1M0">
+        <English>There is a shipwreck just below the dinghy. Inside it, there's a mystery item that you'll have to retrieve and give to the instructor. You have 5 minutes to do it. Make sure you check all the crevices and crates inside the ship.</English>
+        <Spanish>Hay un naufragio justo debajo del bote. Dentro hay un objeto misterioso que tendrás que recoger y dar al instructor. Tienes 5 minutos. Asegúrate de revisar todos los rincones y las cajas dentro del buque.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_1_Title_1M0">
+        <English>Retrieve the item</English>
+        <Spanish>Recuperar el objeto</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_Description_1M0">
+        <English>The land warfare phase teaches the class basic weapons, demolitions, land navigation, patrolling, rappelling, marksmanship, infantry tactics, and small-unit tactics. During the third phase, the class is taught to gather and process information that will complete the overall mission.</English>
+        <Spanish>En la fase de guerra terrestre se enseña a la clase armamento básico, demoliciones, orientación terrestre, patrullaje, rápel, puntería, tácticas de infantería y tácticas de unidades pequeñas. Durante la tercera fase, se enseña a la clase a recopilar y procesar información que completará la misión general.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_Title_1M0">
+        <English>Phase 3: Land warfare</English>
+        <Spanish>Fase 3: Guerra terrestre</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_1_Description_1M0">
+        <English>Our first objective is to meet an informant who will give us further orders. He's expected to be at a radio tower to the northwest of our LZ.</English>
+        <Spanish>Nuestro primer objetivo es reunirnos con un informante que nos dará más órdenes. Se espera que esté en una torre de radio al noroeste de nuestra ZA.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_1_Title_1M0">
+        <English>Meet the informant</English>
+        <Spanish>Reunirse con el informante</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_2_Description_1M0">
+        <English>The informant has told us there's some confidential documents just north of the radio tower. We need to grab them.</English>
+        <Spanish>El informante nos ha dicho que hay documentos confidenciales justo al norte de la torre de radio. Tenemos que cogerlos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_2_Title_1M0">
+        <English>Retrieve the documents</English>
+        <Spanish>Recuperar los documentos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj3_3_Description_1M0">
+        <English>The documents say OPFOR has hidden a weapons cache inside a tin hut west of the radio tower. Destroy it.</English>
+        <Spanish>Los documentos dicen que OPFOR ha escondido un alijo de armas dentro de una choza de hojalata al oeste de la torre de radio. Destrúyelo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj3_3_Title_1M0">
+        <English>Destroy the cache</English>
+        <Spanish>Destruir el alijo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_Description_1M0">
+        <English>After becoming a SEAL, new SEALs must attend a number of formal or informal schools or courses. These schools lead to required qualifications and designations that collectively allow the platoon to perform as an operational combat team. One of these schools is the USMC Scout Sniper School at Camp Pendleton, where SEALs learn the basics of camouflage and long-range shooting.</English>
+        <Spanish>Tras convertirse en SEAL, los nuevos SEAL deben asistir a una serie de escuelas o cursos formales o informales. Estas escuelas conducen a las cualificaciones y designaciones requeridas que, en conjunto, permiten al pelotón actuar como un equipo de combate operativo. Una de estas escuelas es la USMC Scout Sniper School en Camp Pendleton, donde los SEAL aprenden los conceptos básicos de camuflaje y tiro a larga distancia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_Title_1M0">
+        <English>Complete Sniper School</English>
+        <Spanish>Completar la escuela de francotirador</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_1_Description_1M0">
+        <English>Your first test will be to properly use a standard-issue M4A1 carbine in a long-range environment, using an ACOG scope. Go grab an M4A1 from the armory.</English>
+        <Spanish>Tu primera prueba será utilizar una carabina M4A1 reglamentaria en un entorno de larga distancia, usando una mira ACOG. Coge una M4A1 de la armería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_1_Title_1M0">
+        <English>Grab an M4A1</English>
+        <Spanish>Coger una M4A1</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_2_Description_1M0">
+        <English>Shoot at the targets as they appear with your issued long-range weapon.</English>
+        <Spanish>Dispara a los blancos según aparezcan con tu arma de largo alcance asignada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_2_Title_1M0">
+        <English>Shoot at the targets</English>
+        <Spanish>Disparar a los blancos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_3_Description_1M0">
+        <English>Your second test will be to properly use a standard-issue SR-25 semi-automatic sniper rifle in a long-range environment. Go grab a Mk 11 from the armory.</English>
+        <Spanish>Tu segunda prueba será utilizar un fusil de francotirador semiautomático SR-25 reglamentario en un entorno de larga distancia. Coge un Mk. 11 de la armería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_3_Title_1M0">
+        <English>Grab a Mk 11</English>
+        <Spanish>Coger un Mk. 11</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj4_4_Description_1M0">
+        <English>Your third test will be to properly use a .300 Winchester Magnum M91A2 bolt-action sniper rifle in a long-range environment. Go grab an M91A2 from the armory.</English>
+        <Spanish>Tu tercera prueba será utilizar un fusil de francotirador de cerrojo M91A2 en .300 Winchester Magnum en un entorno de larga distancia. Coge un M91A2 de la armería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj4_4_Title_1M0">
+        <English>Grab an M91A2</English>
+        <Spanish>Coger un M91A2</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_MissionTitle_1M0">
+        <English>A School for Warriors</English>
+        <Spanish>Una escuela para guerreros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Intro_1M0">
+        <English>Prologue Mission Intro</English>
+        <Spanish>Misión de prólogo: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Outro_1M0">
+        <English>Prologue Mission Outro</English>
+        <Spanish>Misión de prólogo: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionDescription_1M0">
+        <English>Marcus Luttrell, a hopeful and patriotic Navy recruit from Texas, is subjected to the intense BUD/S training regime of the Navy SEALs.</English>
+        <Spanish>Marcus Luttrell, un recluta de la Armada patriótico y optimista, es sometido al intenso régimen de entrenamiento BUD/S de los Navy SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_1M0">
+        <English>Marcus Luttrell</English>
+        <Spanish>Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_1M0">
+        <English>Class 226, US Navy</English>
+        <Spanish>Clase 226, Armada de EEUU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_1M0">
+        <English>Naval Base Coronado</English>
+        <Spanish>Base Naval de Coronado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel4_1M0">
+        <English>June 18, 1999 - 0500</English>
+        <Spanish>18 junio 1999 - 0500</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_2_1M0">
+        <English>Class 228, US Navy</English>
+        <Spanish>Clase 228, Armada de EEUUD</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_2_1M0">
+        <English>San Clemente Island</English>
+        <Spanish>Isla San Clemente</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_3_1M0">
+        <English>Camp Pendleton</English>
+        <Spanish>Camp Pendleton</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message1_1M0">
+        <English>So, I understand you all want to be frogmen?</English>
+        <Spanish>¿Doy por hecho que todos queréis ser submarinistas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message2_1M0">
+        <English>Hooyah!</English>
+        <Spanish>¡Hooyah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message3_1M0">
+        <English>I guess we'll see about that. Find out how bad you really want it.</English>
+        <Spanish>Eso habrá que verlo. A ver cuántas ganas tenéis de serlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message4_1M0">
+        <English>This is fucking Phase 1 of your BUD/S training, gentlemen. Only the very best can get through Hell Week.</English>
+        <Spanish>Esta es la puta fase 1 de vuestro entrenamiento BUD/S, caballeros. Solo los mejores pueden pasar la Hell Week</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message5_1M0">
+        <English>Now drop and push 'em out, assholes!</English>
+        <Spanish>¡Al suelo y flexiones, imbéciles!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message6_1M0">
+        <English>Again!</English>
+        <Spanish>¡Otra vez!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message7_1M0">
+        <English>Now let's go! Hit the surf! Get wet and sandy! Move, move, move!</English>
+        <Spanish>¡Ahora, vamos! ¡A la playa! ¡Mojaos y llenaos de arena! ¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message8_1M0">
+        <English>Don't stop moving! Get those boots covered in sand!</English>
+        <Spanish>¡No os paréis! ¡Que esas botas se llenen de arena!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_1M0">
+        <English>Come on, you goddamn fairies! Get a fucking grip on yourselves!</English>
+        <Spanish>¡Venga, putas hadas! ¡Bajaos de las putas nubes!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message10_1M0">
+        <English>On your feet, Luttrell! You sure you wanna be here? You wanna quit right now?</English>
+        <Spanish>¡En pie, Luttrell! ¿Seguro que quieres estar aquí? ¿Quieres abandonar ahora mismo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message11_1M0">
+        <English>No, sir!</English>
+        <Spanish>¡No, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message12_1M0">
+        <English>Feeling tired yet? Well, it's not over yet, you sissies! You see that stretch of land out there? Ensign Burns is waiting for you. Go! Get in the surf! Right now!</English>
+        <Spanish>¿Estáis cansados? ¡Pues no se ha acabado, nenazas! ¿Veis ese trozo de tierra a lo lejos? El alférez Burns os está esperando. ¡Venga! ¡Al agua patos! ¡Ahora!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message13_1M0">
+        <English>You want a pat on the back or something? Let's go, swim back! Move, move, move!</English>
+        <Spanish>¿Qué quieres, una palmadita en la espalda o qué? ¡Venga, vuelve nadando! ¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message14_1M0">
+        <English>Luttrell, you are expected to keep up the pace! Fuck off and don't come back here!</English>
+        <Spanish>¡Luttrell, se da por supuesto que vas a mantener el ritmo! ¡Vete a tomar por culo y no vuelvas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message15_1M0">
+        <English>Alright men, it's time to run the obstacle course. Any worthy SEAL must be able to prove their worth in any terrain, hence our name.</English>
+        <Spanish>Vale, muchachos, es hora de recorrer la pista de obstáculos. Cualquier SEAL que se precie debe poder demostrar su valía en cualquier terreno, de ahí nuestro nombre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message16_1M0">
+        <English>You need to reach the top of that unfinished building up ahead and come back. Luttrell, you're up first. Wait for the signal.</English>
+        <Spanish>Tenéis que llegar hasta la planta superior de ese edificio en obras de delante y volver. Luttrell, tú primero. Espera a la señal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message17_1M0">
+        <English>Go, go, go! Through the maze!</English>
+        <Spanish>¡Vamos, vamos, vamos! ¡Por el zigzag!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message18_1M0">
+        <English>Climb the ladder!</English>
+        <Spanish>¡Sube por la escalera!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message19_1M0">
+        <English>What are you doing, Luttrell?! Are you tired yet? You want to quit?</English>
+        <Spanish>¡Qué haces, Luttrell! ¿Estás cansado? ¿Quieres dejarlo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message20_1M0">
+        <English>Negative!</English>
+        <Spanish>¡Negativo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message21_1M0">
+        <English>Then get right back up there!</English>
+        <Spanish>¡Pues sube ahí arriba!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message22_1M0">
+        <English>Open fire!</English>
+        <Spanish>¡Abra fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message23_1M0">
+        <English>Jump over the obstacles!</English>
+        <Spanish>¡Salta los obstáculos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message24_1M0">
+        <English>Now go upstairs and touch the flag!</English>
+        <Spanish>¡Ahora sube las escaleras y toca la bandera!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message25_1M0">
+        <English>Now go back the way you came from! Move it, move it!</English>
+        <Spanish>¡Ahora vuelve por donde has venido! ¡Vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message26_1M0">
+        <English>That was decent enough, Luttrell. Let's see the rest of you.</English>
+        <Spanish>No ha estado mal, Luttrell. A ver los demás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message27_1M0">
+        <English>Luttrell, where the fuck are you going? You don't deserve to be a Navy SEAL!</English>
+        <Spanish>¡Luttrell, adónde coño vas! ¡No mereces ser un Navy SEAL!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message28_1M0">
+        <English>Recruits, make sure you check each other's scuba gear. There's no need for us to send a rescue team down there.</English>
+        <Spanish>Reclutas, revisad el equipo de buceo del otro. No hay necesidad de enviar un equipo de rescate ahí abajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message29_1M0">
+        <English>Let's get to it. This exercise will test your diving and underwater skills. There will be a shipwreck just down below. You'll have to find it and retrieve an item inside it.</English>
+        <Spanish>Al lío. Este ejercicio pondrá a prueba vuestras habilidades de buceo y subacuáticas. Habrá un naufragio justo abajo. Tendréis que encontrarlo y coger un objeto de dentro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message30_1M0">
+        <English>You'll have 5 minutes. If you don't do it in time, you will fail this exercise. Be smart about it.</English>
+        <Spanish>Tendréis 5 minutos. Si no lo conseguís a tiempo, suspenderéis este ejercicio. Usad el cerebro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message31_1M0">
+        <English>Here we are. Whenever you're ready, Marcus. The timer starts... now.</English>
+        <Spanish>Ya estamos aquí. Cuando quieras, Marcus. El temporizador empieza... ya</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message32_1M0">
+        <English>Seriously? A spotting scope?</English>
+        <Spanish>¿En serio? ¿Un telescopio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message33_1M0">
+        <English>Were you expecting a pirate treasure or what? The important part is that you've successfully passed the exercise. Let's move on to the next one. Peter, you're up.</English>
+        <Spanish>¿Esperabas un tesoro pirata o qué? Lo importante es que has superado el ejercicio. Pasemos al siguiente. Peter, te toca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message34_1M0">
+        <English>We're approaching the LZ! Remember your training: watch your surroundings and understand the map!</English>
+        <Spanish>¡Nos acercamos a la ZA! Recordad vuestro entrenamiento: mirad vuestros alrededores y entended el mapa!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_1M0">
+        <English>Luttrell, your pair will meet an informant at a radio tower, to the northeast of the LZ. Use your compass. He will give you further orders.</English>
+        <Spanish>Luttrell, vuestra pareja se reunirá con un informante en una torre de radio, al noreste de la ZA. Usad la brújula. Él os dará más órdenes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message36_1M0">
+        <English>OPFOR units will be patrolling the island. This is a covert operation, you're not meant to be seen, so finger off the trigger. You'll have 20 minutes to complete the course.</English>
+        <Spanish>Las unidades OPFOR patrullarán la isla. Esta es una operación encubierta, no os deben ver, así que el dedo fuera del gatillo. Tenéis 20 minutos para terminar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message37_1M0">
+        <English>If you're spotted or time runs out, you will fail. Now let's get it done. Good luck.</English>
+        <Spanish>Si os ven o se acaba el tiempo, suspenderéis. Vamos con ello. Buena suerte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message38_1M0">
+        <English>Shit, we've been spotted!</English>
+        <Spanish>¡Mierda, nos han visto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message39_1M0">
+        <English>Ah, there you are. So, we've got word of some confidential OPFOR documents that I want you to retrieve. They're somewhere in a destroyed village just north of here. Get moving.</English>
+        <Spanish>Ah, ahí estáis. Bien, tenemos noticias de unos documentos confidenciales de la OPFOR que quiero que recuperéis. Están en algún lugar en un pueblo destruido justo al norte de aquí. En marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message40_1M0">
+        <English>Hmm, it says they have hidden a cache inside a tin hut just west of the radio tower, southwest of our current position. Let's go.</English>
+        <Spanish>Mmm, esto dice que han escondido un alijo en una choza de hojalata justo al oeste de la torre de radio, al suroeste de nuestra posición actual. Vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message41_1M0">
+        <English>Sir, the cache has been destroyed. Mission successfully completed, over.</English>
+        <Spanish>Señor, el alijo ha sido destruido. Misión terminada con éxito, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message42_1M0">
+        <English>Well done, gentlemen. Proceed to the exfil point. Out.</English>
+        <Spanish>Bien hecho, caballeros. Dirigíos al punto de extracción. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message43_1M0">
+        <English>We've arrived. Go get an M4A1 from the tent. I'll wait for you here.</English>
+        <Spanish>Ya estamos aquí. Coge una M4A1 de la tienda. Te espero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message44_1M0">
+        <English>Follow me to your shooting position.</English>
+        <Spanish>Sígueme a tu posición de tiro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message45_1M0">
+        <English>Shooter, to your station.</English>
+        <Spanish>Tirador, en su puesto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message46_1M0">
+        <English>First of all, remember to always take a knee or go prone whenever possible. This will ensure maximum accuracy and precision.</English>
+        <Spanish>Lo primero, procura arrodillarte o tumbarte siempre que sea posible. Esto garantizará una precisión y puntería máximas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message47_1M0">
+        <English>Let's commence with the M4 qualification course. You will see some targets pop up at bearing 240. They will each stay up for 3 seconds and 3 seconds only.</English>
+        <Spanish>Comencemos con el curso de calificación de M4. Verás algunos objetivos aparecer en dirección 240. Cada uno se mantendrá durante 3 segundos y solo 3 segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message48_1M0">
+        <English>Obviously, I want you to hit them all. You must successfully hit 10 targets to pass. If you miss 2 or more targets, you will fail the test. Shooter ready!</English>
+        <Spanish>Evidentemente, quiero que les des a todos. Debes dar a 10 blancos para superar la prueba. Si fallas 2 blancos o más, suspenderás la prueba. ¡Tirador listo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message49_1M0">
+        <English>Hit!</English>
+        <Spanish>¡Impacto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message50_1M0">
+        <English>Target missed!</English>
+        <Spanish>¡Blanco fallado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message51_1M0">
+        <English>You missed two targets! You have failed the qualification course!</English>
+        <Spanish>¡Has fallado dos blancos! ¡Has suspendido el curso de calificación!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message52_1M0">
+        <English>Well done. Let's proceed with the Mk 11 qualification course. Grab a Mk 11 from the armory and come back here.</English>
+        <Spanish>Bien hecho. Prosigamos con el curso de calificación de Mk. 11. Coge un Mk. 11 de la armería y vuelve aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message53_1M0">
+        <English>Alright. Check bearing 220, that's where your targets will be now, atop of those rocks. Each target will now stay up for 6 seconds, but the rest is the same.</English>
+        <Spanish>Vale. Mira la dirección 220, ahí estarán tus blancos, encima de esas rocas. Cada blanco se mantendrá ahora en pie 6 segundos, pero por lo demás igual.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message54_1M0">
+        <English>You need to hit 10 targets to pass the test. If you miss 2 or more, you'll fail. Shooter ready!</English>
+        <Spanish>Tienes que dar a 10 blancos para superar la prueba. Si fallas 2 blancos o más, suspenderás la prueba. ¡Tirador listo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message55_1M0">
+        <English>Nicely done. Let's move on to the last test. Grab an M91A2 sniper rifle from the armory.</English>
+        <Spanish>Buen trabajo. Pasemos a la última prueba. Coge un fusil de francotirador M91A2 de la armería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message56_1M0">
+        <English>Okay, you see that mountain far away, at bearing 209? That's where your new targets will be now. Those targets will stay up for 20 seconds, so time your reloads well.</English>
+        <Spanish>Vale, ¿ves esa montaña a lo lejos, dirección 209? Ahí estarán tus blancos ahora. Estos blancos se mantendrán 20 segundos, así que coordina bien las recargas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message57_1M0">
+        <English>This time, I'll only ask you to hit 5 targets. However, failure is still the same: 2 or more targets missed. Shooter ready!</English>
+        <Spanish>Esta vez, solo te pediré que des a 5 blancos. Sin embargo, se suspende con lo mismo: 2 o más blancos fallados. ¡Tirador listo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message58_1M0">
+        <English>Well done, Luttrell. You make for a damn fine shooter.</English>
+        <Spanish>Bien hecho, Luttrell. Eres un tirador cojonudo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message59_1M0">
+        <English>Help me, Marcus! Please help me!</English>
+        <Spanish>¡Ayúdame, Marcus! ¡Ayúdame, por favor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message60_1M0">
+        <English>Thank you for coming.</English>
+        <Spanish>Gracias por venir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message61_1M0">
+        <English>It's because of your son that I am standing here.</English>
+        <Spanish>Es por tu hijo que estoy aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message62_1M0">
+        <English>He didn't suffer, did he? Please tell me he didn't suffer.</English>
+        <Spanish>No sufrió, ¿verdad? Dime por favor que no sufrió.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message63_1M0">
+        <English>No, Maureen. He didn't. He died instantly.</English>
+        <Spanish>No, Maureen. Murió al instante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message64_1M0">
+        <English>Your son was the bravest man I've ever met. He risked it all just to save us. His unbending courage was unlike anything I've ever seen.</English>
+        <Spanish>Tu hijo fue el hombre más valiente que he conocido jamás. Lo arriesgó todo solo para salvarnos. Su valor inquebrantable no se parecía a nada que haya visto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message65_1M0">
+        <English>You must know that he was a great man, and he will be remembered as such.</English>
+        <Spanish>Debes saber que era un gran hombre y que se le recordará como tal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_schulz_dialogue_1M0">
+        <English>INSTRUCTOR SCHULZ</English>
+        <Spanish>INSTRUCTOR SCHULZ</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_burns_dialogue_1M0">
+        <English>ENSIGN BURNS</English>
+        <Spanish>ALFÉREZ BURNS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_marcus_radio_1M0">
+        <English>Marcus Luttrell</English>
+        <Spanish>Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_king_dialogue_1M0">
+        <English>INSTRUCTOR KING</English>
+        <Spanish>INSTRUCTOR KING</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hall_dialogue_1M0">
+        <English>INSTRUCTOR HALL</English>
+        <Spanish>INSTRUCTOR HALL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hall_radio_1M0">
+        <English>Eric Hall</English>
+        <Spanish>Eric Hall</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_informant_dialogue_1M0">
+        <English>INFORMANT</English>
+        <Spanish>INFORMANTE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_webb_dialogue_1M0">
+        <English>INSTRUCTOR WEBB</English>
+        <Spanish>INSTRUCTOR WEBB</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_mikey_dialogue_1M0">
+        <English>MIKEY (in Marcus' mind)</English>
+        <Spanish>MIKEY (en la mente de Marcus)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_maureen_dialogue_1M0">
+        <English>MRS. MURPHY</English>
+        <Spanish>SRA. MURPHY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_all_dialogue_1M0">
+        <English>ALL</English>
+        <Spanish>TODOS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_action_talk_1M0">
+        <English>talk to the informant</English>
+        <Spanish>hablar con el informante</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_action_grab_1M0">
+        <English>grab the documents</English>
+        <Spanish>coger los documentos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hint_returnToBoat_1M0">
+        <English>You've got the item, now return to the dinghy!</English>
+        <Spanish>¡Tienes el objeto, ahora vuelve al bote!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hint_zeroing_1M0">
+        <English>Don't forget to zero your rifle using Page Up and Page Down!</English>
+        <Spanish>¡No te olvides de calibrar el fusil usando Re Pág y Av Pág!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_hint_zeroing2_1M0">
+        <English>Tip: The targets will be 1.3 km away. If you zero your rifle to 1000 m, you will hit the targets by aiming with the top of the lower vertical black bar.</English>
+        <Spanish>Consejo: Los blancos están a 1,3 km de distancia. Si calibras tu fusil a 1000 m, darás a los blancos apuntando con la parte superior de la barra vertical negra de abajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission_1M0">
+        <English>&lt;t size='1.5'&gt;I knew Hell Week was going to be tough, but this was much harder than I had anticipated. We had to carry large rocks, do log PT, swim for miles and miles on end, and other back-breaking challenges. Half my class had left training. It was, up until that point, the hardest week of all my life. At any time, we could opt out of training by ringing a bell. I wondered if the bell would ring for me...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Sabía que la Hell Week iba a ser dura, pero eso fue mucho más duro de lo que esperaba. Teníamos que llevar grandes rocas, entrenar con troncos, nadar kilómetros y kilómetros sin parar, y demás retos agotadores. La mitad de la clase abandonó el entrenamiento. Fue, hasta ese momento, la semana más dura de toda mi vida. En cualquier momento, podíamos renunciar tocando una campana. Me preguntaba si la campana sonaría por mí...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission2_1M0">
+        <English>&lt;t size='1.5'&gt;Hell Week was officially over. Many of us fell to our knees and wept. After going through so much pain, it was finally over. We couldn't believe it. The worst had passed. Now it was time for Phase 2, where we learned about scuba tanks and diving. This was in mid-December, and you know how cold and choppy that Pacific water can get...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;La Hell Week había terminado oficialmente. Muchos nos echamos al suelo y sollozamos. Después de pasar tanto dolor, por fin había terminado. No nos lo creíamos. Lo peor había pasado. Ahora tocaba la fase 2, donde aprendimos acerca de buceo. Esto fue a mediados de diciembre, y ya se sabe lo fría y picada que puede ponerse el agua del Pacífico...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission2_2_1M0">
+        <English>&lt;t size='1.5'&gt;We were done with Phase 2. The other recruits and I then proceeded to Phase 3, the land navigation course. Our instructor was some Eric Hall. In March, we were sent to San Clemente Island, just off the coast of California, more well-known among the SEALs as "the Rock". This was hard training, especially since we now had to be fully-equipped and carrying a weapon at all times...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Habíamos terminado la fase 2. Los otros reclutas y yo pasamos a la fase 2, el curso de orientación terrestre. Nuestro instructor fue un tal Eric Hall. En marzo, nos enviaron a la isla San Clemente, en la costa de California, más conocida entre los SEAL como «la Roca». Fue un entrenamiento duro, sobre todo porque ahora teníamos que estar totalmente equipados y con un arma en todo momento...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission2_3_1M0">
+        <English>&lt;t size='1.5'&gt;After completing Phase 3, I completed my parachute training and was sent to Fort Bragg to enroll in the medical program to become a paramedic. I passed my BUD/S training shortly before the September 11 attacks. I was horrified, and wanted revenge on the man who did such a heinous act. On January 31, 2002, I finally received my SEAL trident. The last phase in my training was Sniper School, in Camp Pendleton. My instructor was some Brandon Webb, one of the first SEALs who were sent to Afghanistan after Al-Qaeda...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Después de terminar la fase 3, terminé mi entrenamiento de paracaidista y me enviaron a Fort Bragg para matricularme en el programa médico para ser paramédico. Superé mi entrenamiento BUD/S poco antes de los atentados del 11 de septiembre. Estaba aterrado y quería vengarme del hombre que hizo un acto tan horrendo. El 31 de enero de 2002, recibí por fin mi tridente SEAL. La última fase de mi entrenamiento fue la escuela de francotirador, en Camp Pendleton. Mi instructor fue un tal Brandon Webb, uno de los primeros SEAL en ser enviados a Afganistán tras Al Qaeda...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission2_4_1M0">
+        <English>&lt;t size='1.5'&gt;6   Y E A R S   A G O . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;H A C E   6   A Ñ O S . . .&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_introIntermission_1_1M0">
+        <English>&lt;t size='1.5'&gt;A   C A M P A I G N   B Y   M A N&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A   C A M P A Ñ A   D E   M A N&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_introIntermission_2_1M0">
+        <English>&lt;t size='1.5'&gt;In times of uncertainty there is a special breed of warrior ready to answer our Nation’s call; a common man with uncommon desire to succeed. Forged by adversity, he stands alongside America’s finest special operations forces to serve his country and the American people, and to protect their way of life. I am that man.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;En tiempos de incertidumbre hay una raza especial de guerreros dispuestos a responder a la llamada de nuestra nación: un hombre corriente con un deseo poco común de triunfar. Forjado por la adversidad, permanece junto a las mejores fuerzas de operaciones especiales de Estados Unidos para servir a su país y al pueblo estadounidense, y para proteger su modo de vida. Yo soy ese hombre.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_introIntermission_3_1M0">
+        <English>&lt;t size='1.5'&gt;My name is Marcus. Marcus Luttrell. I’m a United States Navy SEAL, Team Leader, SDV Team 1, Alpha Platoon. Like every other SEAL, I’m trained in weapons, demolition, and unarmed combat. I’m a sniper, and I’m the platoon medic. But most of all, I’m an American. And when the bell sounds, I will come out fighting for my country and for my teammates. If necessary, to the death. This is my story. If I don't tell it, no one will ever understand the indomitable courage under fire of my three buddies Mikey, Danny and Axe.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Me llamo Marcus. Marcus Luttrell. Soy un Navy SEAL de los Estados Unidos, líder de equipo, Primer Equipo SDV, Pelotón Alpha. Como cualquier SEAL, he entrenado en armas, demoliciones y combate cuerpo a cuerpo. Soy un francotirador y soy el médico del pelotón. Pero, ante todo, soy estadounidense. Y cuando suene la campana, saldré a luchar por mi país y por mis compañeros. Si es necesario, hasta la muerte. Esta es mi historia. Si no la cuento, nadie entenderá jamás el valor indomable bajo el fuego de mis tres compañeros Mikey, Danny y Axe.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_outroIntermission_1M0">
+        <English>&lt;t size='1.5'&gt;Above all, we’re patriots. We will willingly carry the fight to whoever may be the enemies of the United States of America. We’re your front line, unafraid and ready to go in against al Qaeda, jihadists, terrorists, or whoever the hell else threatens this nation. Every Navy SEAL is supremely confident, because we’re indoctrinated with a belief in victory at all costs; a conviction that no earthly force can withstand our thunderous assault on the battlefield. We’re invincible, right? Unstoppable. That’s what I believed to the depths of my spirit on the day they pinned the Trident on my chest. I still believe it. And I always will.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Por encima de todo, somos patriotas. Llevaremos voluntariamente la lucha a quienesquiera que sean los enemigos de los Estados Unidos de América. Somos vuestra primera línea, sin miedo y listos para entrar contra Al Qaeda, los yihadistas, los terroristas o cualquiera que sea la amenaza a esta nación. Todos los Navy SEAL tienen una confianza absoluta en sí mismos, porque estamos adoctrinados con la creencia en la victoria a toda costa; la convicción de que ninguna fuerza terrenal puede resistir nuestro atronador asalto en el campo de batalla. Somos invencibles, ¿verdad? Imparables. Eso es lo que creí hasta lo más profundo de mi espíritu el día que me prendieron el tridente en el pecho. Todavía lo creo. Y siempre lo haré.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intermission3_1M0">
+        <English>&lt;t size='3' font='PuristaBold'&gt;LONE SURVIVOR&lt;br/&gt;</English>
+        <Spanish>&lt;t size='3' font='PuristaBold'&gt;EL ÚNICO SUPERVIVIENTE&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_subtitle_1M0">
+        <English>Training failed</English>
+        <Spanish>Entrenamiento fallido</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_lost_description_1M0">
+        <English>You have made a fatal blunder and have been dropped from training.</English>
+        <Spanish>Has cometido un error garrafal y te han expulsado del entrenamiento.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

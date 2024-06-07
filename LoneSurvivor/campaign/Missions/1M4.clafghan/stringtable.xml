@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LoneSurvivor">
+  <Package name="LoneSurvivor_1M4">
+    <Container name="STR_DN">
+	  <Key ID="STR_LN_BriefingNotes_1M4">
+        <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Explosions in the Sky - Murphy's Ridge&lt;br/&gt;Explosions in the Sky - Axe&lt;br/&gt;Explosions in the Sky - QRF En Route</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Explosions in the Sky - Murphy's Ridge&lt;br/&gt;Explosions in the Sky - Axe&lt;br/&gt;Explosions in the Sky - QRF En Route</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingCommand_Text_1M4">
+        <English>A. Signal:&lt;br/&gt; Beastmaster - LtCol MACMANNIS (2/3 Marines CO)&lt;br/&gt; Spartan Actual - LCDR KRISTENSEN (SEAL Team 10 CO)&lt;br/&gt; Spartan 01 (your team) - LT MURPHY&lt;br/&gt; Anvil 1 - TF Brown MH-47 Chinooks&lt;br/&gt; Glimmer 3 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Beastmaster: Tte. Cnel. MACMANNIS (oficial al mando de 2/3 Marines)&lt;br/&gt; Spartan Jefe: LCDR KRISTENSEN (oficial al mando del Décimo Equipo SEAL)&lt;br/&gt; Spartan 01 (tu equipo): Tte. MURPHY&lt;br/&gt; Anvil 1: MH-47 Chinooks de la TF Brown&lt;br/&gt; Glimmer 3: Supervisión de AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSustainment_Text_1M4">
+        <English>1. Supply: Standard US SOF Desert/Woodland raid-cut BDUs, RRV vests, MICH2001 and Pro-Tec helmets, standard issue Navy SEAL small arms, including M4A1 carbines, Mk 25 pistols, and Mk 12 sniper rifles.&lt;br/&gt;2. Transportation: Spartan 01 will be inserted via fast rope in a 160th SOAR MH-47 Chinook.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Spartan 01 has 1x hospital corpsman, in the event of a mission failure due to substantial casualties, Spartan 01 Actual will authorize CASEVAC and insertion by SEAL Team 10 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto/boscoso, chalecos RRV, cascos MICH2001 y Pro-Tec, armas reglamentarias de los Navy SEAL como carabinas M4A1, pistolas Mk. 25 y fusiles de tirador Mk. 12.&lt;br/&gt;2. Transporte: Spartan 01 será insertado vía rápel en un MH-47 Chinook del 160.º SOAR.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Spartan 01 tiene 1x sanitario médico. En caso de fracaso debido a una cantidad considerable de bajas, Spartan 01 Jefe autorizará CASEVAC y la inserción de la FRR del Décimo Equipo SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingExecution_Text_1M4">
+        <English>The first part of Operation Red Wings will be conducted in three (3) phases:&lt;br/&gt;&lt;br/&gt;Phase 1 - INSERT in Korengal Valley. The four-man Navy SEAL recon team (Spartan 01), led by LT Michael Murphy, will be inserted via fast rope by an MH-47 Chinook from Task Force Brown &lt;marker name="marker_0"&gt;here&lt;/marker&gt;, in a saddle between &lt;marker name="gatigal"&gt;Gatigal Sar&lt;/marker&gt; and &lt;marker name="sawtalo"&gt;Sawtalo Sar&lt;/marker&gt;. Meanwhile, another Chinook will perform a series of decoy drops around the operating area to confuse the enemy. Right after inserting, Spartan 01 will pass the proword Budweiser.&lt;br/&gt;&lt;br/&gt;Phase 2 - ADVANCE to the observation point. Slowly but surely, Spartan 01 will make their way to their planned &lt;marker name="marker_5"&gt;observation point&lt;/marker&gt;, proword Schlitz Malt Liquor. Meanwhile, they will call the prowords &lt;marker name="marker_3"&gt;Corona&lt;/marker&gt; and &lt;marker name="marker_4"&gt;Heineken&lt;/marker&gt; after reaching one third and two thirds of the trek respectively. &lt;br/&gt;&lt;br/&gt;Phase 3 - IDENTIFY Ahmad Shah. Once at the observation point, Spartan 01 will reconnoitre the village of &lt;marker name="marker_1"&gt;Al Riyal&lt;/marker&gt;, where Shah is suspected to be hiding. If they positively identify him, they will pass the proword Touchdown and give the order for the Marines to begin the next phase of the operation.</English>
+        <Spanish>La primera parte de la Operación Red Wings se llevará a cabo en tres (3) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: INSERTAR en el valle de Korengal. El equipo de reconocimiento SEAL de cuatro hombres (Spartan 01), liderado por el Tte. Michael Murphy, será insertado vía rápel desde un MH-47 Chinook de la Fuerza Operativa Brown &lt;marker name="marker_0"&gt;aquí&lt;/marker&gt;, en un collado entre &lt;marker name="gatigal"&gt;Gatigal Sar&lt;/marker&gt; y &lt;marker name="sawtalo"&gt;Sawtalo Sar&lt;/marker&gt;. Mientras tanto, otro Chinook realizará una serie de despliegues falsos en el área de operaciones para confundir al enemigo. Justo después de insertar, Spartan 01 comunicará la palabra clave Budweiser.&lt;br/&gt;&lt;br/&gt;Fase 2: AVANZAR al punto de observación. Sin prisa pero sin pausa, Spartan 01 se abrirá paso hasta el &lt;marker name="marker_5"&gt;punto de observación&lt;/marker&gt;, palabra clave Schlitz Malt Liquor. Mientras tanto, comunicarán las palabras clave &lt;marker name="marker_3"&gt;Corona&lt;/marker&gt; y &lt;marker name="marker_4"&gt;Heineken&lt;/marker&gt; después de alcanzar un tercio y dos tercios del camino, respectivamente. &lt;br/&gt;&lt;br/&gt;Fase 3: IDENTIFICAR a Ahmad Shah. Una vez en el punto de observación, Spartan 01 reconocerá el pueblo de &lt;marker name="marker_1"&gt;Al Riyal&lt;/marker&gt;, donde se sospecha que se esconde Shah. Si lo identifican positivamente, comunicarán la palabra clave Touchdown y darán la orden a los marines de iniciar la siguiente fase de la operación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingMission_Text_1M4">
+        <English>Who: Spartan 01, Alpha Platoon, SEAL Delivery Vehicle Team 1, Task Force Spartan (TF Spartan)&lt;br/&gt;What: IDENTIFY Ahmad Shah&lt;br/&gt;Where: In vicinity, Korengal Valley&lt;br/&gt;When: 234300ZJUN27&lt;br/&gt;Why: Operation Red Wings</English>
+        <Spanish>Quién: Spartan 01, Pelotón Alpha, Primer Equipo SEAL Delivery Vehicle, Fuerza Operativa Spartan (TF Spartan)&lt;br/&gt;Qué: IDENTIFICAR a Ahmad Shah&lt;br/&gt;Dónde: En las inmediaciones, valle de Korengal&lt;br/&gt;Cuándo: 234300ZJUN27&lt;br/&gt;Por qué: Operación Red Wings</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_BriefingSituation_Text_1M4">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 10-20&lt;br/&gt;Activity: Light movement, light radio chatter&lt;br/&gt;Location: Vicinity, Korengal Valley&lt;br/&gt;Unit: Taliban mixed light infantry&lt;br/&gt;Time Observed: June 26, 2006&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To thwart ACM activity in Kunar Province, reducing friendly casualties and ensuring a free and safe parliamentary election.&lt;br/&gt;2. Adjacent Units: SEAL Team 10 QRF (callsign: Spartan 13).&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. The QRF will only be available by request of Spartan 01 Actual.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 10-20&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio ligeras&lt;br/&gt;Ubicación: Inmediaciones, valle de Korengal&lt;br/&gt;Unidades: Infantería ligera mixta talibán&lt;br/&gt;Fecha de observación: 26 de junio de 2006&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Desbaratar la actividad ACM en la provincia de Kunar, reduciendo las bajas aliadas y garantizando unas elecciones parlamentarias libres y seguras.&lt;br/&gt;2. Unidades adyacentes: FRR del Décimo Equipo SEAL (indicativo: Spartan 13).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. La FRR solo estará autorizada cuando la solicite Spartan 01 Jefe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_Briefing_Text_1M4">
+        <English>The 2nd Batallion, 3rd Marines has conceived Operation Red Wings in order to neutralize or capture Ahmad Shah, a prominent Taliban leader operating in the Kunar Province of Afghanistan. It is known that Shah has been orchestrating numerous attacks against Coalition forces in the country, resulting in the deaths of several servicemen, and it is suspected that he will attack at the upcoming September 2005 Afghan parliamentary election. This is a great opportunity to degrade Taliban leadership and disrupt their ability to conduct attacks in the region. The first phase of the operation will involve a four-man Navy SEAL team that will insert in the Korengal Valley and positively identify Shah after making their way through the mountains. Upon successfully identifying him, the Marines and the ANA will launch the main assault in the second phase.</English>
+        <Spanish>El 2.º Batallón del 3.er Regimiento de Marines ha concebido la Operación Red Wings para neutralizar o capturar a Ahmad Shah, un destacado líder talibán que opera en la provincia de Kunar de Afganistán. Se sabe que Shah ha estado orquestando numerosos ataques contra fuerzas de la Coalición en el país, dando lugar a la muerte de varios soldados, y se sospecha que atentará en las próximas elecciones parlamentarias afganas de septiembre de 2005. Esta es una gran oportunidad para degradar el liderazgo talibán y perturbar su capacidad de realizar atentados en la región. En la primera fase de la operación participará un equipo SEAL formado por cuatro hombres que se introducirá en el valle de Korengal e identificará a Shah tras abrirse paso a través de las montañas. Una vez identificado, los Marines y el ENA iniciarán el asalto principal en la segunda fase.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Description_1M4">
+        <English>You lost your Mk 12 sniper rifle during the fall. Luckily, it didn't fall far. Pick it up and hold off against the Taliban hordes!</English>
+        <Spanish>Has perdido tu fusil de francotirador Mk. 12 durante la caída. Por suerte, no cayó muy lejos. ¡Cógelo y resiste a las hordas talibanes!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj1_Title_1M4">
+        <English>Pick up your rifle</English>
+        <Spanish>Coger tu fusil</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_obj2_Description_1M4">
+        <English>We can't establish comms with HQ at all. There's one last chance: Murphy's personal cell phone. Get up someplace high and make the call.</English>
+        <Spanish>No podemos entablar ninguna comunicación con el CG. Hay una última oportunidad: el móvil personal de Murphy. Sube a un lugar elevado y haz la llamada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_obj2_Title_1M4">
+        <English>Call from a high position</English>
+        <Spanish>Llamar desde una posición elevada</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_LN_MissionTitle_1M4">
+        <English>The Final Battle for Murphy's Ridge</English>
+        <Spanish>La batalla final por la cresta de Murphy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Intro_1M4">
+        <English>Mission 4 Intro</English>
+        <Spanish>Misión 4: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionTitle_Outro_1M4">
+        <English>Mission 4 Outro</English>
+        <Spanish>Misión 4: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_MissionDescription_1M4">
+        <English>The SEALs are cornered and they're losing their strength by the minute. With dwindling forces and one final opportunity, Murphy makes a last-ditch effort to contact HQ.</English>
+        <Spanish>Los SEAL están arrinconados y perdiendo fuerzas cada minuto. Con efectivos menguantes y una oportunidad final, Murphy hace un último esfuerzo para contactar con el cuartel general.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_text_1M4">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER IV - The Final Battle for Murphy's Ridge&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The ground shook. The very few trees swayed. The noise was worse than any blast all day...This was one gigantic Taliban effort to finish us. We hit the deck...to avoid the lethal flying debris, rock fragments and shrapnel.'&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO IV: La batalla final por la cresta de Murphy&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«El suelo temblaba. Los pocos árboles se balanceaban. El ruido era peor que el de cualquier explosión del día... Era un gigantesco esfuerzo talibán para acabar con nosotros. Nos tiramos al suelo... para evitar los letales escombros voladores, fragmentos de roca y metralla.»&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_1M4">
+        <English>HM2 Marcus Luttrell</English>
+        <Spanish>HM2 Marcus Luttrell</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel1_2_1M4">
+        <English>LT Mike Murphy</English>
+        <Spanish>Tte. Mike Murphy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel2_1M4">
+        <English>A Platoon, SDVT-1</English>
+        <Spanish>Pelotón A, SDVT-1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel3_1M4">
+        <English>Sawtalo Sar</English>
+        <Spanish>Sawtalo Sar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_intro_intel4_1M4">
+        <English>June 28, 2005 - 1247</English>
+        <Spanish>28 junio 2005 - 1247</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message1_1M4">
+        <English>Try them again.</English>
+        <Spanish>Pruebe otra vez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message2_1M4">
+        <English>Spartan 01, this is Beastmaster. Do you copy? Spartan 01, do you copy?</English>
+        <Spanish>Spartan 01, aquí Beastmaster. ¿Me recibe? Spartan 01, ¿me recibe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message3_1M4">
+        <English>Fuck this shit.</English>
+        <Spanish>Puta mierda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message4_1M4">
+        <English>Marcus. Marcus, wake up!</English>
+        <Spanish>Marcus. ¡Marcus, despierta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message5_1M4">
+        <English>Marcus, where's your rifle?</English>
+        <Spanish>Marcus, ¿y tu fusil?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message6_1M4">
+        <English>God's looking out for us, bro.</English>
+        <Spanish>Dios vela por nosotros, hermano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message7_1M4">
+        <English>If this is God looking out for us, I wouldn't want to see him angry.</English>
+        <Spanish>Si este es Dios velando por nosotros, no me gustaría verlo enfadado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message8_1M4">
+        <English>Where's Danny?</English>
+        <Spanish>¿Dónde está Danny?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message9_1M4">
+        <English>He's up there. He's dead. He got shot in the head in my arms.</English>
+        <Spanish>Está arriba. Está muerto. Le dispararon en la cabeza en mis brazos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message10_1M4">
+        <English>We got to go up and get him.</English>
+        <Spanish>Tenemos que subir a por él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message11_1M4">
+        <English>We get him, we go down and we take 'em on the flat ground.</English>
+        <Spanish>Lo cogemos, bajamos y los matamos en terreno llano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message12_1M4">
+        <English>Let’s move right. Take the flank right. See if we can get back up there.</English>
+        <Spanish>Vamos a la derecha. Tomemos el flanco derecho. A ver si podemos volver arriba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message13_1M4">
+        <English>I don't know, Mikey. I don't think we can get him.</English>
+        <Spanish>No lo sé, Mikey. No creo que podamos ir a por él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message14_1M4">
+        <English>There's just so fucking many of them.</English>
+        <Spanish>Es que son demasiados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message15_1M4">
+        <English>If we can just make it down there and get some cover, we’ll take 'em all out on the flat ground. If we stay here, we're dead men.</English>
+        <Spanish>Si podemos llegar hasta abajo y ponernos a cubierto, nos los cargaremos a todos en terreno llano. Si nos quedamos aquí, somos hombres muertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message16_1M4">
+        <English>Fuck surrender. Remember bro, we're never out of it.</English>
+        <Spanish>A la mierda rendirse. Recuerda, hermano, nunca abandonamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message17_1M4">
+        <English>It’s only about another thousand yards to flat ground. If we can just get down there, we got a chance.</English>
+        <Spanish>Solo quedan unos mil metros hasta terreno llano. Si conseguimos llegar abajo, tenemos posibilidades.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message18_1M4">
+        <English>I'm gonna get this call out. Whatever it takes. This ain't the end of us.</English>
+        <Spanish>Voy a hacer la llamada. Cueste lo que cueste. Esto no acaba aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message19_1M4">
+        <English>I'm sorry, Mike.</English>
+        <Spanish>Lo siento, Mike.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message20_1M4">
+        <English>For what, bro?</English>
+        <Spanish>¿El qué, hermano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message21_1M4">
+        <English>That we haven't killed more of 'em.</English>
+        <Spanish>Que no hayamos matado a más capullos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message22_1M4">
+        <English>Oh, we’re gonna kill more of them. Bet on that, Marcus. We’re gonna kill a lot more of them. Never out of the fight, Marcus.</English>
+        <Spanish>Oh, vamos a matar a más. Cuenta con ello, Marcus. Vamos a matar a muchos más. Nunca dejes de luchar, Marcus.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message23_1M4">
+        <English>Never.</English>
+        <Spanish>Nunca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message24_1M4">
+        <English>Axe, cover Mikey!</English>
+        <Spanish>¡Axe, cubre a Mikey!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message25_1M4">
+        <English>Roger that!</English>
+        <Spanish>¡Recibido!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message26_1M4">
+        <English>Where's he going?</English>
+        <Spanish>¿Adónde va?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message27_1M4">
+        <English>He's gonna get us some support!</English>
+        <Spanish>¡Va a conseguirnos apoyo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message28_1M4">
+        <English>He's gonna get us some support!</English>
+        <Spanish>¡Va a conseguirnos apoyo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message29_1M4">
+        <English>Sir, this is Spartan 01. My men are taking heavy fire... we’re getting picked apart. My guys are dying out here... we need help.</English>
+        <Spanish>Señor, aquí Spartan 01. Mis hombres están recibiendo fuego intenso... nos están destrozando. Mis chicos están muriendo... necesitamos ayuda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message30_1M4">
+        <English>Murphy, we need your ten digit grid, over.</English>
+        <Spanish>Murphy, necesitamos sus coordenadas de diez dígitos, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message31_1M4">
+        <English>We are headed down the ravine toward the Al Riyal village.</English>
+        <Spanish>Estamos en el barranco hacia el pueblo de Al Riyal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message33_1M4">
+        <English>Murphy, can you get me the grids?</English>
+        <Spanish>Murphy, ¿puede darme las coordenadas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message34_1M4">
+        <English>Please hurry, sir. Thank you.</English>
+        <Spanish>Dese prisa, señor. Gracias.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message35_1M4">
+        <English>Axe! Axe! C'mon, old buddy. Get down here, right down here.</English>
+        <Spanish>¡Axe! Axe! Venga, colega. Baja aquí, justo aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message36_1M4">
+        <English>Help me, Marcus! Please help me!</English>
+        <Spanish>¡Ayúdame, Marcus! ¡Ayúdame, por favor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message37_1M4">
+        <English>Hey man, you're all fucked up!</English>
+        <Spanish>¡Tío, estás hecho mierda!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message38_1M4">
+        <English>Marcus, they got us good, man.</English>
+        <Spanish>Marcus, nos han dado de bien, tío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message39_1M4">
+        <English>Did he make the call?</English>
+        <Spanish>¿Ha hecho la llamada?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message40_1M4">
+        <English>I don't know... We got to get off this hill, Axe.</English>
+        <Spanish>No lo sé... Tenemos que bajar de esta colina, Axe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message41_1M4">
+        <English>Is he dead?</English>
+        <Spanish>¿Está muerto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message42_1M4">
+        <English>Probably.</English>
+        <Spanish>Probablemente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message43_1M4">
+        <English>I'm almost there, Marcus. You stay alive. And tell Cindy I love her.</English>
+        <Spanish>A mí me queda poco, Marcus. Sigue vivo. Y dile a Cindy que la quiero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message44_1M4">
+        <English>You're gonna tell her yourself, Axe. We're gonna-</English>
+        <Spanish>Se lo vas a decir tú, Axe. Vamos a...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_message45_1M4">
+        <English>Move it, guys! Let's really move it!</English>
+        <Spanish>¡Moveos, muchachos! ¡Vamos a darnos prisa!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

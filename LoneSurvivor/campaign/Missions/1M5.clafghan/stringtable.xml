@@ -352,6 +352,16 @@
         <Spanish>Skillful 3</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LN_chinook1_radio_1M5">
+        <English>Turbine 33</English>
+        <Spanish>Turbine 33</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LN_chinook2_radio_1M5">
+        <English>Turbine 34</English>
+        <Spanish>Turbine 34</Spanish>
+        <Polish></Polish>
+      </Key>
     </Container>
   </Package>
 </Project>
